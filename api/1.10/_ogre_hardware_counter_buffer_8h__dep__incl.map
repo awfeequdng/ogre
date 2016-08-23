@@ -1,0 +1,37 @@
+<map id="OgreHardwareCounterBuffer.h" name="OgreHardwareCounterBuffer.h">
+<area shape="rect" id="node2" href="$_ogre_hardware_buffer_manager_8h.html" title="OgreHardwareBufferManager.h" alt="" coords="1519,87,1722,114"/>
+<area shape="rect" id="node17" href="$_ogre_default_hardware_buffer_manager_8h.html" title="OgreDefaultHardwareBuffer\lManager.h" alt="" coords="229,169,412,211"/>
+<area shape="rect" id="node24" href="$_ogre_g_l3_plus_default_hardware_buffer_manager_8h.html" title="OgreGL3PlusDefaultHardware\lBufferManager.h" alt="" coords="2948,169,3147,211"/>
+<area shape="rect" id="node30" href="$_ogre_g_l3_plus_hardware_counter_buffer_8h.html" title="OgreGL3PlusHardwareCounter\lBuffer.h" alt="" coords="2790,80,2993,121"/>
+<area shape="rect" id="node3" href="$_ogre_entity_8h.html" title="OgreEntity.h" alt="" coords="631,177,725,203"/>
+<area shape="rect" id="node4" href="$_ogre_8h.html" title="Ogre.h" alt="" coords="517,259,578,285"/>
+<area shape="rect" id="node16" href="$_ogre_sub_entity_8h.html" title="OgreSubEntity.h" alt="" coords="488,177,607,203"/>
+<area shape="rect" id="node18" href="$_ogre_d3_d11_hardware_buffer_manager_8h.html" title="OgreD3D11HardwareBufferManager.h" alt="" coords="750,177,993,203"/>
+<area shape="rect" id="node19" href="$_ogre_d3_d9_hardware_buffer_manager_8h.html" title="OgreD3D9HardwareBufferManager.h" alt="" coords="1017,177,1253,203"/>
+<area shape="rect" id="node20" href="$_ogre_g_l_hardware_buffer_manager_8h.html" title="OgreGLHardwareBufferManager.h" alt="" coords="1278,177,1497,203"/>
+<area shape="rect" id="node23" href="$_ogre_g_l_default_hardware_buffer_manager_8h.html" title="OgreGLDefaultHardwareBuffer\lManager.h" alt="" coords="1521,169,1721,211"/>
+<area shape="rect" id="node25" href="$_ogre_g_l3_plus_hardware_buffer_manager_8h.html" title="OgreGL3PlusHardwareBuffer\lManager.h" alt="" coords="1745,169,1936,211"/>
+<area shape="rect" id="node26" href="$_ogre_g_l_e_s_default_hardware_buffer_manager_8h.html" title="OgreGLESDefaultHardwareBuffer\lManager.h" alt="" coords="1961,169,2179,211"/>
+<area shape="rect" id="node27" href="$_ogre_g_l_e_s_hardware_buffer_manager_8h.html" title="OgreGLESHardwareBufferManager.h" alt="" coords="2203,177,2441,203"/>
+<area shape="rect" id="node28" href="$_ogre_g_l_e_s2_default_hardware_buffer_manager_8h.html" title="OgreGLES2DefaultHardware\lBufferManager.h" alt="" coords="2465,169,2656,211"/>
+<area shape="rect" id="node29" href="$_ogre_g_l_e_s2_hardware_buffer_manager_8h.html" title="OgreGLES2HardwareBufferManager.h" alt="" coords="2680,177,2924,203"/>
+<area shape="rect" id="node15" href="$_ogre_volume_chunk_8h.html" title="OgreVolumeChunk.h" alt="" coords="607,259,749,285"/>
+<area shape="rect" id="node5" href="$_ogre_hlms_datablock_8h.html" title="OgreHlmsDatablock.h" alt="" coords="129,423,280,449"/>
+<area shape="rect" id="node6" href="$_ogre_hlms_material_base_8h.html" title="OgreHlmsMaterialBase.h" alt="" coords="82,497,250,524"/>
+<area shape="rect" id="node7" href="$_ogre_hlms_pbs_material_8h.html" title="OgreHlmsPbsMaterial.h" alt="" coords="5,572,167,599"/>
+<area shape="rect" id="node8" href="$_ogre_hlms_property_map_8h.html" title="OgreHlmsPropertyMap.h" alt="" coords="356,341,523,367"/>
+<area shape="rect" id="node9" href="$_ogre_hlms_shader_generator_8h.html" title="OgreHlmsShaderGenerator.h" alt="" coords="465,423,656,449"/>
+<area shape="rect" id="node10" href="$_ogre_hlms_shader_template_8h.html" title="OgreHlmsShaderTemplate.h" alt="" coords="145,341,331,367"/>
+<area shape="rect" id="node11" href="$_ogre_hlms_manager_8h.html" title="OgreHlmsManager.h" alt="" coords="815,423,957,449"/>
+<area shape="rect" id="node12" href="$_ogre_hlms_shader_manager_8h.html" title="OgreHlmsShaderManager.h" alt="" coords="860,341,1043,367"/>
+<area shape="rect" id="node13" href="$_ogre_hlms_shader_common_8h.html" title="OgreHlmsShaderCommon.h" alt="" coords="598,341,785,367"/>
+<area shape="rect" id="node14" href="$_ogre_hlms_shader_pieces_manager_8h.html" title="OgreHlmsShaderPiecesManager.h" alt="" coords="1067,341,1289,367"/>
+<area shape="rect" id="node21" href="$_ogre_g_l_render_system_8h.html" title="OgreGLRenderSystem.h" alt="" coords="1305,259,1470,285"/>
+<area shape="rect" id="node22" href="$_ogre_g_l_support_8h.html" title="OgreGLSupport.h" alt="" coords="1326,341,1449,367"/>
+<area shape="rect" id="node31" href="$_plus_2include_2_g_l_s_l_2_ogre_g_l_s_l_program_8h.html" title="OgreGLSLProgram.h" alt="" coords="3171,177,3313,203"/>
+<area shape="rect" id="node32" href="$_ogre_g_l_s_l_monolithic_program_8h.html" title="OgreGLSLMonolithicProgram.h" alt="" coords="2918,259,3121,285"/>
+<area shape="rect" id="node34" href="$_ogre_g_l_s_l_program_manager_8h.html" title="OgreGLSLProgramManager.h" alt="" coords="3145,259,3339,285"/>
+<area shape="rect" id="node36" href="$_ogre_g_l_s_l_separable_program_8h.html" title="OgreGLSLSeparableProgram.h" alt="" coords="3363,259,3564,285"/>
+<area shape="rect" id="node33" href="$_ogre_g_l_s_l_monolithic_program_manager_8h.html" title="OgreGLSLMonolithicProgram\lManager.h" alt="" coords="3039,333,3229,375"/>
+<area shape="rect" id="node35" href="$_ogre_g_l_s_l_separable_program_manager_8h.html" title="OgreGLSLSeparableProgram\lManager.h" alt="" coords="3256,333,3447,375"/>
+</map>

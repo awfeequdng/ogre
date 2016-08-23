@@ -1,0 +1,13 @@
+<map id="OgreRenderSystemCapabilitiesManager.h" name="OgreRenderSystemCapabilitiesManager.h">
+<area shape="rect" id="node2" href="$_ogre_prerequisites_8h.html" title="OgrePrerequisites.h" alt="" coords="3086,169,3224,196"/>
+<area shape="rect" id="node39" href="$_ogre_header_prefix_8h.html" title="OgreHeaderPrefix.h" alt="" coords="3532,393,3669,420"/>
+<area shape="rect" id="node40" href="$_ogre_header_suffix_8h.html" title="OgreHeaderSuffix.h" alt="" coords="3281,393,3418,420"/>
+<area shape="rect" id="node43" href="$_ogre_singleton_8h.html" title="OgreSingleton.h" alt="" coords="3050,95,3164,121"/>
+<area shape="rect" id="node3" href="$_ogre_platform_8h.html" title="OgrePlatform.h" alt="" coords="876,244,986,271"/>
+<area shape="rect" id="node7" href="$_ogre_std_headers_8h.html" title="OgreStdHeaders.h" alt="" coords="1842,244,1972,271"/>
+<area shape="rect" id="node37" href="$_ogre_memory_allocator_config_8h.html" title="This file configures Ogre&#39;s memory allocators. " alt="" coords="3312,244,3510,271"/>
+<area shape="rect" id="node4" href="$_ogre_config_8h.html" title="OgreConfig.h" alt="" coords="44,319,143,345"/>
+<area shape="rect" id="node38" href="$_ogre_memory_allocated_object_8h.html" title="OgreMemoryAllocatedObject.h" alt="" coords="3112,319,3312,345"/>
+<area shape="rect" id="node41" href="$_ogre_memory_s_t_l_allocator_8h.html" title="OgreMemorySTLAllocator.h" alt="" coords="3638,319,3821,345"/>
+<area shape="rect" id="node42" href="$_ogre_memory_ned_pooling_8h.html" title="OgreMemoryNedPooling.h" alt="" coords="3388,319,3562,345"/>
+</map>

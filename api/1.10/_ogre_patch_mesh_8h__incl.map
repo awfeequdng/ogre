@@ -1,0 +1,21 @@
+<map id="OgrePatchMesh.h" name="OgrePatchMesh.h">
+<area shape="rect" id="node2" href="$_ogre_prerequisites_8h.html" title="OgrePrerequisites.h" alt="" coords="1254,304,1391,331"/>
+<area shape="rect" id="node41" href="$_ogre_mesh_8h.html" title="OgreMesh.h" alt="" coords="547,80,640,107"/>
+<area shape="rect" id="node48" href="$_ogre_patch_surface_8h.html" title="OgrePatchSurface.h" alt="" coords="1479,80,1619,107"/>
+<area shape="rect" id="node3" href="$_ogre_platform_8h.html" title="OgrePlatform.h" alt="" coords="3821,379,3931,405"/>
+<area shape="rect" id="node6" href="$_ogre_std_headers_8h.html" title="OgreStdHeaders.h" alt="" coords="1509,379,1640,405"/>
+<area shape="rect" id="node36" href="$_ogre_memory_allocator_config_8h.html" title="This file configures Ogre&#39;s memory allocators. " alt="" coords="3481,379,3679,405"/>
+<area shape="rect" id="node4" href="$_ogre_config_8h.html" title="OgreConfig.h" alt="" coords="3876,453,3975,480"/>
+<area shape="rect" id="node37" href="$_ogre_memory_allocated_object_8h.html" title="OgreMemoryAllocatedObject.h" alt="" coords="3343,453,3543,480"/>
+<area shape="rect" id="node38" href="$_ogre_header_prefix_8h.html" title="OgreHeaderPrefix.h" alt="" coords="3454,528,3591,555"/>
+<area shape="rect" id="node39" href="$_ogre_header_suffix_8h.html" title="OgreHeaderSuffix.h" alt="" coords="3293,528,3430,555"/>
+<area shape="rect" id="node40" href="$_ogre_memory_s_t_l_allocator_8h.html" title="OgreMemorySTLAllocator.h" alt="" coords="3669,453,3851,480"/>
+<area shape="rect" id="node42" href="$_ogre_resource_8h.html" title="OgreResource.h" alt="" coords="104,229,221,256"/>
+<area shape="rect" id="node43" href="$_ogre_axis_aligned_box_8h.html" title="OgreAxisAlignedBox.h" alt="" coords="1150,155,1303,181"/>
+<area shape="rect" id="node44" href="$_ogre_vertex_bone_assignment_8h.html" title="OgreVertexBoneAssignment.h" alt="" coords="814,229,1013,256"/>
+<area shape="rect" id="node45" href="$_ogre_animation_8h.html" title="OgreAnimation.h" alt="" coords="313,155,431,181"/>
+<area shape="rect" id="node46" href="$_ogre_animation_track_8h.html" title="OgreAnimationTrack.h" alt="" coords="296,229,448,256"/>
+<area shape="rect" id="node47" href="$_ogre_shared_ptr_8h.html" title="OgreSharedPtr.h" alt="" coords="1361,229,1479,256"/>
+<area shape="rect" id="node49" href="$_ogre_hardware_index_buffer_8h.html" title="OgreHardwareIndexBuffer.h" alt="" coords="1328,155,1512,181"/>
+<area shape="rect" id="node50" href="$_ogre_hardware_vertex_buffer_8h.html" title="OgreHardwareVertexBuffer.h" alt="" coords="1587,155,1778,181"/>
+</map>

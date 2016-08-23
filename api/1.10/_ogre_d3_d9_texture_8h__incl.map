@@ -1,0 +1,28 @@
+<map id="OgreD3D9Texture.h" name="OgreD3D9Texture.h">
+<area shape="rect" id="node2" href="$_ogre_d3_d9_prerequisites_8h.html" title="OgreD3D9Prerequisites.h" alt="" coords="597,155,767,181"/>
+<area shape="rect" id="node34" href="$_ogre_texture_8h.html" title="OgreTexture.h" alt="" coords="1463,155,1568,181"/>
+<area shape="rect" id="node36" href="$_ogre_exception_8h.html" title="OgreException.h" alt="" coords="1471,379,1589,405"/>
+<area shape="rect" id="node43" href="$_ogre_image_8h.html" title="OgreImage.h" alt="" coords="1715,229,1812,256"/>
+<area shape="rect" id="node46" href="$_ogre_render_texture_8h.html" title="OgreRenderTexture.h" alt="" coords="2255,304,2402,331"/>
+<area shape="rect" id="node48" href="$_ogre_d3_d9_hardware_pixel_buffer_8h.html" title="OgreD3D9HardwarePixelBuffer.h" alt="" coords="983,80,1197,107"/>
+<area shape="rect" id="node50" href="$_ogre_d3_d9_resource_8h.html" title="OgreD3D9Resource.h" alt="" coords="729,80,880,107"/>
+<area shape="rect" id="node3" href="$_ogre_prerequisites_8h.html" title="OgrePrerequisites.h" alt="" coords="1011,528,1148,555"/>
+<area shape="rect" id="node30" href="$_ogre_thread_headers_8h.html" title="Threading/OgreThreadHeaders.h" alt="" coords="730,379,941,405"/>
+<area shape="rect" id="node4" href="$_ogre_platform_8h.html" title="OgrePlatform.h" alt="" coords="1031,603,1141,629"/>
+<area shape="rect" id="node7" href="$_ogre_std_headers_8h.html" title="OgreStdHeaders.h" alt="" coords="834,603,965,629"/>
+<area shape="rect" id="node27" href="$_ogre_memory_allocator_config_8h.html" title="This file configures Ogre&#39;s memory allocators. " alt="" coords="1354,603,1551,629"/>
+<area shape="rect" id="node5" href="$_ogre_config_8h.html" title="OgreConfig.h" alt="" coords="1657,677,1755,704"/>
+<area shape="rect" id="node28" href="$_ogre_header_prefix_8h.html" title="OgreHeaderPrefix.h" alt="" coords="1780,677,1917,704"/>
+<area shape="rect" id="node29" href="$_ogre_header_suffix_8h.html" title="OgreHeaderSuffix.h" alt="" coords="2251,677,2388,704"/>
+<area shape="rect" id="node31" href="$_ogre_thread_defines_8h.html" title="OgreThreadDefines.h" alt="" coords="762,453,909,480"/>
+<area shape="rect" id="node35" href="$_ogre_hardware_buffer_8h.html" title="OgreHardwareBuffer.h" alt="" coords="1207,304,1359,331"/>
+<area shape="rect" id="node39" href="$_ogre_resource_8h.html" title="OgreResource.h" alt="" coords="1457,229,1574,256"/>
+<area shape="rect" id="node45" href="$_ogre_shared_ptr_8h.html" title="OgreSharedPtr.h" alt="" coords="1009,229,1128,256"/>
+<area shape="rect" id="node37" href="$_ogre_string_8h.html" title="OgreString.h" alt="" coords="1627,453,1721,480"/>
+<area shape="rect" id="node40" href="$_ogre_atomic_scalar_8h.html" title="OgreAtomicScalar.h" alt="" coords="994,304,1133,331"/>
+<area shape="rect" id="node41" href="$_ogre_string_interface_8h.html" title="OgreStringInterface.h" alt="" coords="1614,304,1761,331"/>
+<area shape="rect" id="node42" href="$_ogre_common_8h.html" title="OgreCommon.h" alt="" coords="2117,528,2231,555"/>
+<area shape="rect" id="node44" href="$_ogre_pixel_format_8h.html" title="OgrePixelFormat.h" alt="" coords="1949,453,2079,480"/>
+<area shape="rect" id="node47" href="$_ogre_render_target_8h.html" title="OgreRenderTarget.h" alt="" coords="1989,379,2129,405"/>
+<area shape="rect" id="node49" href="$_ogre_hardware_pixel_buffer_8h.html" title="OgreHardwarePixelBuffer.h" alt="" coords="1079,155,1261,181"/>
+</map>

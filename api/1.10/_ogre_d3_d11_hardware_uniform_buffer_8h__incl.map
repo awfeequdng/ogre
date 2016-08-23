@@ -1,0 +1,24 @@
+<map id="OgreD3D11HardwareUniformBuffer.h" name="OgreD3D11HardwareUniformBuffer.h">
+<area shape="rect" id="node2" href="$_ogre_d3_d11_prerequisites_8h.html" title="OgreD3D11Prerequisites.h" alt="" coords="732,244,911,271"/>
+<area shape="rect" id="node38" href="$_ogre_hardware_uniform_buffer_8h.html" title="OgreHardwareUniformBuffer.h" alt="" coords="1274,95,1473,121"/>
+<area shape="rect" id="node44" href="$_ogre_gpu_program_params_8h.html" title="OgreGpuProgramParams.h" alt="" coords="1867,95,2045,121"/>
+<area shape="rect" id="node3" href="$_ogre_prerequisites_8h.html" title="OgrePrerequisites.h" alt="" coords="1157,393,1294,420"/>
+<area shape="rect" id="node32" href="$_ogre_min_g_w_support_8h.html" title="WIN32/OgreMinGWSupport.h" alt="" coords="443,319,637,345"/>
+<area shape="rect" id="node33" href="$_ogre_com_ptr_8h.html" title="WIN32/OgreComPtr.h" alt="" coords="267,319,418,345"/>
+<area shape="rect" id="node4" href="$_ogre_platform_8h.html" title="OgrePlatform.h" alt="" coords="219,468,330,495"/>
+<area shape="rect" id="node7" href="$_ogre_std_headers_8h.html" title="OgreStdHeaders.h" alt="" coords="1057,468,1188,495"/>
+<area shape="rect" id="node29" href="$_ogre_memory_allocator_config_8h.html" title="This file configures Ogre&#39;s memory allocators. " alt="" coords="1721,468,1919,495"/>
+<area shape="rect" id="node5" href="$_ogre_config_8h.html" title="OgreConfig.h" alt="" coords="5,543,104,569"/>
+<area shape="rect" id="node30" href="$_ogre_header_prefix_8h.html" title="OgreHeaderPrefix.h" alt="" coords="1989,543,2126,569"/>
+<area shape="rect" id="node31" href="$_ogre_header_suffix_8h.html" title="OgreHeaderSuffix.h" alt="" coords="2282,543,2419,569"/>
+<area shape="rect" id="node39" href="$_ogre_hardware_buffer_8h.html" title="OgreHardwareBuffer.h" alt="" coords="1184,244,1336,271"/>
+<area shape="rect" id="node41" href="$_ogre_shared_ptr_8h.html" title="OgreSharedPtr.h" alt="" coords="1411,169,1530,196"/>
+<area shape="rect" id="node40" href="$_ogre_exception_8h.html" title="OgreException.h" alt="" coords="1471,319,1590,345"/>
+<area shape="rect" id="node42" href="$_ogre_atomic_scalar_8h.html" title="OgreAtomicScalar.h" alt="" coords="1461,244,1600,271"/>
+<area shape="rect" id="node43" href="$_ogre_thread_headers_8h.html" title="Threading/OgreThreadHeaders.h" alt="" coords="1613,319,1824,345"/>
+<area shape="rect" id="node45" href="$_ogre_iterator_wrappers_8h.html" title="OgreIteratorWrappers.h" alt="" coords="2233,319,2391,345"/>
+<area shape="rect" id="node48" href="$_ogre_serializer_8h.html" title="OgreSerializer.h" alt="" coords="1899,319,2013,345"/>
+<area shape="rect" id="node49" href="$_ogre_any_8h.html" title="OgreAny.h" alt="" coords="2041,244,2125,271"/>
+<area shape="rect" id="node46" href="$_ogre_iterator_wrapper_8h.html" title="OgreIteratorWrapper.h" alt="" coords="2361,468,2511,495"/>
+<area shape="rect" id="node47" href="$_ogre_iterator_range_8h.html" title="OgreIteratorRange.h" alt="" coords="2197,468,2337,495"/>
+</map>

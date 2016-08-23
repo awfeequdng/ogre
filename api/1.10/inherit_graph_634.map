@@ -1,0 +1,727 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_ogre_1_1_factory_obj.html" title="Ogre::FactoryObj\&lt; Archive \&gt;" alt="" coords="27,2389,218,2415"/>
+<area shape="rect" id="node2" href="$class_ogre_1_1_archive_factory.html" title="Abstract factory class, archive codec plugins can register concrete subclasses of this..." alt="" coords="335,2389,482,2415"/>
+<area shape="rect" id="node3" href="$class_ogre_1_1_a_p_k_file_system_archive_factory.html" title="Ogre::APKFileSystemArchive\lFactory" alt="" coords="603,2592,798,2633"/>
+<area shape="rect" id="node4" href="$class_ogre_1_1_file_system_archive_factory.html" title="Specialisation of ArchiveFactory for FileSystem files. " alt="" coords="595,2658,807,2685"/>
+<area shape="rect" id="node5" href="$class_ogre_1_1_zip_archive_factory.html" title="Specialisation of ArchiveFactory for Zip files. " alt="" coords="619,2541,783,2567"/>
+<area shape="rect" id="node6" href="$class_ogre_1_1_embedded_zip_archive_factory.html" title="Specialisation of ZipArchiveFactory for embedded Zip files. " alt="" coords="892,2551,1075,2592"/>
+<area shape="rect" id="node7" href="$class_ogre_1_1_a_p_k_zip_archive_factory.html" title="Ogre::APKZipArchiveFactory" alt="" coords="1161,2559,1351,2586"/>
+<area shape="rect" id="node8" href="$class_ogre_1_1_factory_obj.html" title="Ogre::FactoryObj\&lt; Particle\lSystemRenderer \&gt;" alt="" coords="33,2812,212,2853"/>
+<area shape="rect" id="node9" href="$class_ogre_1_1_particle_system_renderer_factory.html" title="Abstract class definition of a factory object for ParticleSystemRenderer. " alt="" coords="309,2841,509,2883"/>
+<area shape="rect" id="node10" href="$class_ogre_1_1_billboard_particle_renderer_factory.html" title="Factory class for BillboardParticleRenderer. " alt="" coords="598,2919,803,2960"/>
+<area shape="rect" id="node11" href="$class_ogre_1_1_allocated_object.html" title="Superclass for all objects that wish to use custom memory allocators when their new / delete operator..." alt="" coords="47,8524,198,8565"/>
+<area shape="rect" id="node12" href="$class_ogre_1_1_controller.html" title="Ogre::Controller\&lt; Real \&gt;" alt="" coords="326,6774,491,6801"/>
+<area shape="rect" id="node13" href="$class_ogre_1_1_controller_function.html" title="Ogre::ControllerFunction\l\&lt; Real \&gt;" alt="" coords="327,7044,491,7085"/>
+<area shape="rect" id="node19" href="$class_ogre_1_1_controller_value.html" title="Ogre::ControllerValue\l\&lt; Real \&gt;" alt="" coords="335,7109,482,7151"/>
+<area shape="rect" id="node25" href="$class_ogre_1_1_abstract_node.html" title="Ogre::AbstractNode" alt="" coords="339,9857,478,9883"/>
+<area shape="rect" id="node31" href="$class_ogre_1_1_android_log_listener.html" title="Ogre::AndroidLogListener" alt="" coords="324,2907,493,2934"/>
+<area shape="rect" id="node32" href="$class_ogre_1_1_android_resource_manager.html" title="Ogre::AndroidResourceManager" alt="" coords="305,8750,513,8777"/>
+<area shape="rect" id="node33" href="$class_ogre_1_1_animable_value.html" title="Defines an object property which is animable, i.e. " alt="" coords="336,8801,481,8827"/>
+<area shape="rect" id="node34" href="$class_ogre_1_1_animation.html" title="An animation sequence. " alt="" coords="351,8851,467,8878"/>
+<area shape="rect" id="node35" href="$class_ogre_1_1_animation_state.html" title="Represents the state of an animation and the weight of its influence. " alt="" coords="335,9070,482,9097"/>
+<area shape="rect" id="node36" href="$class_ogre_1_1_animation_state_set.html" title="Class encapsulating a set of AnimationState objects. " alt="" coords="325,9121,492,9147"/>
+<area shape="rect" id="node37" href="$class_ogre_1_1_animation_track.html" title="A &#39;track&#39; in an animation sequence, i.e. " alt="" coords="334,10009,483,10035"/>
+<area shape="rect" id="node41" href="$class_ogre_1_1_archive.html" title="Archive&#45;handling class. " alt="" coords="357,10481,460,10507"/>
+<area shape="rect" id="node45" href="$class_ogre_1_1_archive_manager.html" title="This class manages the available ArchiveFactory plugins. " alt="" coords="333,2958,485,2985"/>
+<area shape="rect" id="node46" href="$class_ogre_1_1_auto_param_data_source.html" title="This utility class is used to hold the information used to generate the matrices and other informatio..." alt="" coords="313,9689,505,9715"/>
+<area shape="rect" id="node47" href="$class_ogre_1_1_billboard.html" title="A billboard is a primitive which always faces the camera in every frame. " alt="" coords="355,9739,463,9766"/>
+<area shape="rect" id="node48" href="$class_ogre_1_1_border_renderable.html" title="Class for rendering the border of a BorderPanelOverlayElement. " alt="" coords="327,2439,490,2466"/>
+<area shape="rect" id="node49" href="$class_ogre_1_1_cocoa_context.html" title="Ogre::CocoaContext" alt="" coords="337,1502,480,1529"/>
+<area shape="rect" id="node50" href="$class_ogre_1_1_codec.html" title="Abstract class that defines a &#39;codec&#39;. " alt="" coords="361,8582,457,8609"/>
+<area shape="rect" id="node57" href="$class_ogre_1_1_codec_1_1_codec_data.html" title="Ogre::Codec::CodecData" alt="" coords="323,11643,494,11670"/>
+<area shape="rect" id="node59" href="$class_ogre_1_1_composition_pass.html" title="Object representing one pass or operation in a composition sequence. " alt="" coords="328,9907,489,9934"/>
+<area shape="rect" id="node60" href="$class_ogre_1_1_composition_target_pass.html" title="Object representing one render to a RenderTarget or Viewport in the Ogre Composition framework..." alt="" coords="309,9958,508,9985"/>
+<area shape="rect" id="node61" href="$class_ogre_1_1_composition_technique.html" title="Base composition technique, can be subclassed in plugins. " alt="" coords="313,10059,504,10086"/>
+<area shape="rect" id="node62" href="$class_ogre_1_1_composition_technique_1_1_texture_definition.html" title="Local texture definition. " alt="" coords="313,10111,504,10152"/>
+<area shape="rect" id="node63" href="$class_ogre_1_1_compositor_chain.html" title="Chain of compositor effects applying to one viewport. " alt="" coords="329,659,488,686"/>
+<area shape="rect" id="node64" href="$class_ogre_1_1_compositor_instance.html" title="An instance of a Compositor object for one Viewport. " alt="" coords="321,10633,496,10659"/>
+<area shape="rect" id="node65" href="$class_ogre_1_1_compositor_instance_1_1_render_system_operation.html" title="Specific render system operation. " alt="" coords="321,10684,496,10725"/>
+<area shape="rect" id="node66" href="$struct_ogre_1_1_concrete_node.html" title="Ogre::ConcreteNode" alt="" coords="337,10750,480,10777"/>
+<area shape="rect" id="node67" href="$class_ogre_1_1_config_dialog.html" title="Defines the behaviour of an automatic renderer configuration dialog. " alt="" coords="342,10801,475,10827"/>
+<area shape="rect" id="node68" href="$class_ogre_1_1_config_file.html" title="Class for quickly loading settings from a text file. " alt="" coords="350,10851,467,10878"/>
+<area shape="rect" id="node69" href="$class_ogre_1_1_controller.html" title="Instances of this class &#39;control&#39; the value of another object in the system. " alt="" coords="335,10902,482,10929"/>
+<area shape="rect" id="node70" href="$class_ogre_1_1_controller_function.html" title="Subclasses of this class are responsible for performing a function on an input value for a Controller..." alt="" coords="311,10953,507,10979"/>
+<area shape="rect" id="node71" href="$class_ogre_1_1_controller_manager.html" title="Class for managing Controller instances. " alt="" coords="327,3009,491,3035"/>
+<area shape="rect" id="node72" href="$class_ogre_1_1_controller_value.html" title="Can either be used as an input or output value. " alt="" coords="319,11003,498,11030"/>
+<area shape="rect" id="node73" href="$class_ogre_1_1_d3_d11_stereo_driver_bridge.html" title="Bridge interface from the render system to the stereo driver. " alt="" coords="304,3059,513,3086"/>
+<area shape="rect" id="node74" href="$class_ogre_1_1_d3_d11_stereo_driver_impl.html" title="Virtual interface of the stereo driver. " alt="" coords="310,12689,507,12715"/>
+<area shape="rect" id="node77" href="$class_ogre_1_1_d3_d9_device.html" title="High level interface of Direct3D9 Device. " alt="" coords="342,11121,475,11147"/>
+<area shape="rect" id="node78" href="$class_ogre_1_1_d3_d9_device_manager.html" title="Device manager interface. " alt="" coords="317,11171,500,11198"/>
+<area shape="rect" id="node79" href="$class_ogre_1_1_d3_d9_driver.html" title="Ogre::D3D9Driver" alt="" coords="345,11222,472,11249"/>
+<area shape="rect" id="node80" href="$class_ogre_1_1_d3_d9_driver_list.html" title="Ogre::D3D9DriverList" alt="" coords="335,11323,483,11350"/>
+<area shape="rect" id="node81" href="$class_ogre_1_1_d3_d9_resource_manager.html" title="Ogre::D3D9ResourceManager" alt="" coords="309,11374,508,11401"/>
+<area shape="rect" id="node82" href="$class_ogre_1_1_d3_d9_stereo_driver_bridge.html" title="Bridge interface from the render system to the stereo driver. " alt="" coords="307,3110,510,3137"/>
+<area shape="rect" id="node83" href="$class_ogre_1_1_d3_d9_stereo_driver_impl.html" title="Virtual interface of the stereo driver. " alt="" coords="313,3461,504,3487"/>
+<area shape="rect" id="node86" href="$class_ogre_1_1_d3_d9_video_mode_list.html" title="Ogre::D3D9VideoModeList" alt="" coords="319,11425,498,11451"/>
+<area shape="rect" id="node87" href="$class_ogre_1_1_data_stream.html" title="General purpose class used for encapsulating the reading and writing of data. " alt="" coords="345,12739,473,12766"/>
+<area shape="rect" id="node93" href="$class_ogre_1_1_default_work_queue_base_1_1_request_handler_holder.html" title="Intermediate structure to hold a pointer to a request handler which provides insurance against the ha..." alt="" coords="309,11476,508,11517"/>
+<area shape="rect" id="node94" href="$class_ogre_1_1_depth_buffer.html" title="An abstract class that contains a depth/stencil buffer. " alt="" coords="345,13043,473,13070"/>
+<area shape="rect" id="node101" href="$class_ogre_1_1_dyn_lib.html" title="Resource holding data about a dynamic library. " alt="" coords="359,11593,458,11619"/>
+<area shape="rect" id="node102" href="$class_ogre_1_1_dyn_lib_manager.html" title="Manager for Dynamic&#45;loading Libraries. " alt="" coords="334,3161,483,3187"/>
+<area shape="rect" id="node103" href="$class_ogre_1_1_edge_data.html" title="This class contains the information required to describe the edge connectivity of a given set of vert..." alt="" coords="351,11694,467,11721"/>
+<area shape="rect" id="node104" href="$class_ogre_1_1_external_texture_source_manager.html" title="Singleton Class which handles the registering and control of texture plugins. " alt="" coords="313,3212,504,3253"/>
+<area shape="rect" id="node105" href="$class_ogre_1_1_file_system_layer.html" title="Provides methods to find out where the Ogre config files are stored and where logs and settings files..." alt="" coords="331,11745,487,11771"/>
+<area shape="rect" id="node106" href="$class_ogre_1_1_g_l_e_s2_managed_resource_manager.html" title="Ogre::GLES2ManagedResource\lManager" alt="" coords="304,11796,513,11837"/>
+<area shape="rect" id="node107" href="$class_ogre_1_1_g_l_e_s2_state_cache_manager.html" title="An in memory cache of the OpenGL ES state. " alt="" coords="299,11862,518,11889"/>
+<area shape="rect" id="node108" href="$class_ogre_1_1_g_l_e_s2_state_cache_manager_imp.html" title="An in memory cache of the OpenGL ES state. " alt="" coords="288,11913,529,11939"/>
+<area shape="rect" id="node109" href="$class_ogre_1_1_g_l_e_s2_uniform_cache.html" title="An in memory cache of the OpenGL ES 2 uniforms. " alt="" coords="317,11963,501,11990"/>
+<area shape="rect" id="node110" href="$class_ogre_1_1_g_l_e_s2_uniform_cache_imp.html" title="An in memory cache of the OpenGL ES 2 uniforms. " alt="" coords="305,12014,512,12041"/>
+<area shape="rect" id="node111" href="$class_ogre_1_1_g_l_e_s_state_cache_manager.html" title="An in memory cache of the OpenGL ES state. " alt="" coords="303,12065,515,12091"/>
+<area shape="rect" id="node112" href="$class_ogre_1_1_g_l_e_s_state_cache_manager_imp.html" title="An in memory cache of the OpenGL ES state. " alt="" coords="291,12115,526,12142"/>
+<area shape="rect" id="node113" href="$class_ogre_1_1_g_l_state_cache_manager.html" title="An in memory cache of the OpenGL state. " alt="" coords="311,12166,506,12193"/>
+<area shape="rect" id="node114" href="$class_ogre_1_1_g_l_state_cache_manager_imp.html" title="An in memory cache of the OpenGL state. " alt="" coords="301,12217,517,12243"/>
+<area shape="rect" id="node115" href="$class_ogre_1_1_g_l_uniform_cache.html" title="An in memory cache of the OpenGL uniforms. " alt="" coords="329,12267,488,12294"/>
+<area shape="rect" id="node116" href="$class_ogre_1_1_g_l_uniform_cache_imp.html" title="An in memory cache of the OpenGL ES 2 uniforms. " alt="" coords="318,12369,499,12395"/>
+<area shape="rect" id="node117" href="$struct_ogre_1_1_gpu_logical_buffer_struct.html" title="Container struct to allow params to safely &amp; update shared list of logical buffer assignments..." alt="" coords="312,12419,505,12446"/>
+<area shape="rect" id="node118" href="$struct_ogre_1_1_gpu_named_constants.html" title="Struct collecting together the information for named constants. " alt="" coords="317,12470,501,12497"/>
+<area shape="rect" id="node119" href="$class_ogre_1_1_gpu_program_parameters.html" title="Collects together the program parameters used for a GpuProgram. " alt="" coords="309,12521,508,12547"/>
+<area shape="rect" id="node120" href="$class_ogre_1_1_gpu_program_usage.html" title="This class makes the usage of a vertex and fragment programs (low&#45;level or high&#45;level), with a given set of parameters, explicit. " alt="" coords="324,2085,493,2111"/>
+<area shape="rect" id="node121" href="$class_ogre_1_1_gpu_shared_parameters.html" title="Definition of container that holds the current bool constants. " alt="" coords="313,12571,504,12598"/>
+<area shape="rect" id="node122" href="$class_ogre_1_1_gpu_shared_parameters_usage.html" title="This class records the usage of a set of shared parameters in a concrete set of GpuProgramParameters..." alt="" coords="313,12623,504,12664"/>
+<area shape="rect" id="node123" href="$class_ogre_1_1_hardware_buffer.html" title="Abstract class defining common features of hardware buffers. " alt="" coords="334,8262,483,8289"/>
+<area shape="rect" id="node172" href="$class_ogre_1_1_hardware_buffer_manager_base.html" title="Base definition of a hardware buffer manager. " alt="" coords="294,13145,523,13171"/>
+<area shape="rect" id="node196" href="$class_ogre_1_1_hardware_occlusion_query.html" title="This is a abstract class that that provides the interface for the query class for hardware occlusion..." alt="" coords="597,9411,804,9438"/>
+<area shape="rect" id="node201" href="$class_ogre_1_1_high_level_gpu_program_factory.html" title="Interface definition for factories of HighLevelGpuProgram. " alt="" coords="314,13975,503,14016"/>
+<area shape="rect" id="node209" href="$class_ogre_1_1_hlms_datablock.html" title="Ogre::HlmsDatablock" alt="" coords="335,12891,483,12918"/>
+<area shape="rect" id="node210" href="$class_ogre_1_1_hlms_manager.html" title="Ogre::HlmsManager" alt="" coords="339,3343,478,3370"/>
+<area shape="rect" id="node211" href="$class_ogre_1_1_hlms_material_base.html" title="Ogre::HlmsMaterialBase" alt="" coords="326,14041,491,14067"/>
+<area shape="rect" id="node213" href="$struct_ogre_1_1_illumination_pass.html" title="Struct recording a pass which can be used for a specific illumination stage. " alt="" coords="331,13094,486,13121"/>
+<area shape="rect" id="node214" href="$class_ogre_1_1_image.html" title="Class representing an image file. " alt="" coords="361,13195,456,13222"/>
+<area shape="rect" id="node215" href="$class_ogre_1_1_index_data.html" title="Summary class collecting together index data source information. " alt="" coords="349,13246,468,13273"/>
+<area shape="rect" id="node216" href="$class_ogre_1_1_instanced_geometry.html" title="Pre&#45;transforms and batches up meshes for efficient use as instanced geometry in a scene..." alt="" coords="323,13297,495,13323"/>
+<area shape="rect" id="node217" href="$class_ogre_1_1_instanced_geometry_1_1_instanced_object.html" title="Ogre::InstancedGeometry\l::InstancedObject" alt="" coords="323,13348,495,13389"/>
+<area shape="rect" id="node218" href="$class_ogre_1_1_instanced_geometry_1_1_l_o_d_bucket.html" title="A LODBucket is a collection of smaller buckets with the same LOD. " alt="" coords="323,13413,495,13455"/>
+<area shape="rect" id="node219" href="$class_ogre_1_1_instanced_geometry_1_1_material_bucket.html" title="A MaterialBucket is a collection of smaller buckets with the same Material (and implicitly the same L..." alt="" coords="323,13531,495,13572"/>
+<area shape="rect" id="node220" href="$class_ogre_1_1_instanced_geometry_1_1_optimised_sub_mesh_geometry.html" title="Struct holding geometry optimised per SubMesh / LOD level, ready for copying to instances. " alt="" coords="308,13596,509,13637"/>
+<area shape="rect" id="node221" href="$struct_ogre_1_1_instanced_geometry_1_1_queued_geometry.html" title="Structure recording a queued geometry for low level builds. " alt="" coords="323,13727,495,13768"/>
+<area shape="rect" id="node222" href="$struct_ogre_1_1_instanced_geometry_1_1_queued_sub_mesh.html" title="Structure recording a queued submesh for the build. " alt="" coords="323,13792,495,13833"/>
+<area shape="rect" id="node223" href="$class_ogre_1_1_instance_manager.html" title="This is the main starting point for the new instancing system. " alt="" coords="329,13858,488,13885"/>
+<area shape="rect" id="node224" href="$struct_ogre_1_1_intersection_scene_query_result.html" title="Holds the results of an intersection scene query (pair values). " alt="" coords="309,13909,508,13951"/>
+<area shape="rect" id="node225" href="$class_ogre_1_1_key_frame.html" title="A key frame in an animation sequence defined by an AnimationTrack. " alt="" coords="349,3511,468,3538"/>
+<area shape="rect" id="node230" href="$class_ogre_1_1_lod_strategy.html" title="Strategy for determining level of detail. " alt="" coords="345,9171,473,9198"/>
+<area shape="rect" id="node237" href="$class_ogre_1_1_lod_strategy_manager.html" title="Manager for LOD strategies. " alt="" coords="319,14209,498,14235"/>
+<area shape="rect" id="node238" href="$class_ogre_1_1_log.html" title="Ogre::Log" alt="" coords="369,3613,448,3639"/>
+<area shape="rect" id="node239" href="$class_ogre_1_1_log_manager.html" title="The log manager handles the creation and retrieval of logs for the application. " alt="" coords="344,14259,473,14286"/>
+<area shape="rect" id="node240" href="$class_ogre_1_1_manual_object_1_1_manual_object_section.html" title="Built, renderable section of geometry. " alt="" coords="331,2659,486,2700"/>
+<area shape="rect" id="node241" href="$class_ogre_1_1_material_serializer.html" title="Class for serializing Materials to / from a .material script. " alt="" coords="329,3663,488,3690"/>
+<area shape="rect" id="node242" href="$class_ogre_1_1_mesh_serializer_1_1_mesh_version_data.html" title="Ogre::MeshSerializer\l::MeshVersionData" alt="" coords="337,3715,481,3756"/>
+<area shape="rect" id="node243" href="$class_ogre_1_1_movable_object.html" title="Abstract class defining a movable object in a scene. " alt="" coords="336,558,481,585"/>
+<area shape="rect" id="node269" href="$class_ogre_1_1_movable_object_factory.html" title="Interface definition for a factory class which produces a certain kind of MovableObject, and can be registered with Root in order to allow all clients to produce new instances of this object, integrated with the standard Ogre processing. " alt="" coords="314,3562,503,3589"/>
+<area shape="rect" id="node277" href="$class_ogre_1_1_node.html" title="Class representing a general&#45;purpose node an articulated scene graph. " alt="" coords="364,13479,453,13506"/>
+<area shape="rect" id="node281" href="$class_ogre_1_1_node_1_1_debug_renderable.html" title="Inner class for displaying debug renderable for Node. " alt="" coords="308,2490,509,2517"/>
+<area shape="rect" id="node282" href="$class_ogre_1_1_o_s_x_p_buffer.html" title="Ogre::OSXPBuffer" alt="" coords="343,15519,474,15546"/>
+<area shape="rect" id="node283" href="$class_ogre_1_1_overlay.html" title="Represents a layer which is rendered on top of the &#39;normal&#39; scene contents. " alt="" coords="357,3882,460,3909"/>
+<area shape="rect" id="node284" href="$class_ogre_1_1_overlay_element.html" title="Abstract definition of a 2D element to be displayed in an Overlay. " alt="" coords="333,2135,484,2162"/>
+<area shape="rect" id="node289" href="$class_ogre_1_1_overlay_element_factory.html" title="Defines the interface which all components wishing to supply OverlayElement subclasses must implement..." alt="" coords="311,3781,506,3807"/>
+<area shape="rect" id="node293" href="$class_ogre_1_1_overlay_manager.html" title="Manages Overlay objects, parsing them from .overlay files and storing a lookup library of them..." alt="" coords="332,51,485,78"/>
+<area shape="rect" id="node294" href="$class_ogre_1_1_overlay_system.html" title="This class simplify initialization / finalization of the overlay system. " alt="" coords="335,827,483,854"/>
+<area shape="rect" id="node295" href="$class_ogre_1_1_page.html" title="Page class. " alt="" coords="365,15317,453,15343"/>
+<area shape="rect" id="node296" href="$struct_ogre_1_1_page_1_1_page_data.html" title="Ogre::Page::PageData" alt="" coords="331,3999,486,4026"/>
+<area shape="rect" id="node297" href="$class_ogre_1_1_page_content.html" title="Interface definition for a unit of content within a page. " alt="" coords="341,4050,476,4077"/>
+<area shape="rect" id="node298" href="$class_ogre_1_1_page_content_collection.html" title="Definition of the interface for a collection of PageContent instances. " alt="" coords="313,3831,505,3858"/>
+<area shape="rect" id="node300" href="$class_ogre_1_1_page_content_collection_factory.html" title="Define the interface to a factory class that will create subclasses of PageContentCollection. " alt="" coords="313,3933,505,3975"/>
+<area shape="rect" id="node302" href="$class_ogre_1_1_page_content_factory.html" title="Define the interface to a factory class that will create subclasses of PageContent. " alt="" coords="319,4303,498,4330"/>
+<area shape="rect" id="node303" href="$class_ogre_1_1_paged_world.html" title="This class represents a collection of pages which make up a world. " alt="" coords="344,4354,473,4381"/>
+<area shape="rect" id="node304" href="$class_ogre_1_1_paged_world_section.html" title="Represents a section of the PagedWorld which uses a given PageStrategy, and which is made up of a gen..." alt="" coords="322,14091,495,14118"/>
+<area shape="rect" id="node306" href="$class_ogre_1_1_paged_world_section_factory.html" title="A factory class for creating types of world section. " alt="" coords="300,4101,517,4127"/>
+<area shape="rect" id="node308" href="$class_ogre_1_1_page_manager.html" title="The PageManager is the entry point through which you load all PagedWorld instances, and the place where PageStrategy instances and factory classes are registered to customise the paging behaviour. " alt="" coords="339,4405,478,4431"/>
+<area shape="rect" id="node309" href="$class_ogre_1_1_page_strategy.html" title="Defines the interface to a strategy class which is responsible for deciding when Page instances are r..." alt="" coords="340,4151,477,4178"/>
+<area shape="rect" id="node312" href="$class_ogre_1_1_page_strategy_data.html" title="Abstract marker class representing the data held against the PagedWorldSection which is specifically ..." alt="" coords="326,4455,491,4482"/>
+<area shape="rect" id="node315" href="$class_ogre_1_1_particle.html" title="Class representing a single particle instance. " alt="" coords="357,4253,460,4279"/>
+<area shape="rect" id="node317" href="$class_ogre_1_1_particle_affector.html" title="Abstract class defining the interface to be implemented by particle affectors. " alt="" coords="335,2338,483,2365"/>
+<area shape="rect" id="node318" href="$class_ogre_1_1_particle_affector_factory.html" title="Abstract class defining the interface to be implemented by creators of ParticleAffector subclasses..." alt="" coords="313,4506,505,4533"/>
+<area shape="rect" id="node319" href="$class_ogre_1_1_particle_emitter_factory.html" title="Abstract class defining the interface to be implemented by creators of ParticleEmitter subclasses..." alt="" coords="315,4557,503,4583"/>
+<area shape="rect" id="node320" href="$class_ogre_1_1_particle_system_manager.html" title="Manages particle systems, particle system scripts (templates) and the available emitter &amp; affector fa..." alt="" coords="310,102,507,129"/>
+<area shape="rect" id="node321" href="$class_ogre_1_1_particle_system_renderer.html" title="Abstract class defining the interface required to be implemented by classes which provide rendering c..." alt="" coords="309,2287,509,2314"/>
+<area shape="rect" id="node323" href="$class_ogre_1_1_particle_visual_data.html" title="Abstract class containing any additional data required to be associated with a particle to perform th..." alt="" coords="325,4607,492,4634"/>
+<area shape="rect" id="node324" href="$class_ogre_1_1_pass.html" title="Class defining a single pass of a Technique (of a Material), i.e. " alt="" coords="365,4658,453,4685"/>
+<area shape="rect" id="node325" href="$class_ogre_1_1_patch_surface.html" title="A surface which is defined by curves of some kind to form a patch, e.g. " alt="" coords="340,4709,477,4735"/>
+<area shape="rect" id="node326" href="$class_ogre_1_1_pixel_box.html" title="A primitive describing a volume (3D), image (2D) or line (1D) of pixels in memory. " alt="" coords="353,14310,464,14337"/>
+<area shape="rect" id="node327" href="$class_ogre_1_1_plugin.html" title="Class defining a generic OGRE plugin. " alt="" coords="361,5383,456,5410"/>
+<area shape="rect" id="node334" href="$class_ogre_1_1_pose.html" title="A pose is a linked set of vertex offsets applying to one set of vertex data. " alt="" coords="365,4759,453,4786"/>
+<area shape="rect" id="node335" href="$class_ogre_1_1_profile.html" title="An individual profile that will be processed by the Profiler. " alt="" coords="361,4810,456,4837"/>
+<area shape="rect" id="node336" href="$class_ogre_1_1_profile_instance.html" title="Represents an individual profile call. " alt="" coords="336,4861,481,4887"/>
+<area shape="rect" id="node337" href="$class_ogre_1_1_profiler.html" title="The profiler allows you to measure the performance of your code. " alt="" coords="359,14361,458,14387"/>
+<area shape="rect" id="node338" href="$class_ogre_1_1_property_base.html" title="Base interface for an instance of a property. " alt="" coords="340,5602,477,5629"/>
+<area shape="rect" id="node340" href="$class_ogre_1_1_property_def.html" title="Definition of a property of an object. " alt="" coords="345,4911,473,4938"/>
+<area shape="rect" id="node341" href="$class_ogre_1_1_property_map.html" title="Ogre::PropertyMap" alt="" coords="343,4962,475,4989"/>
+<area shape="rect" id="node342" href="$class_ogre_1_1_property_set.html" title="Defines a complete set of properties for a single object instance. " alt="" coords="345,5013,472,5039"/>
+<area shape="rect" id="node343" href="$class_ogre_1_1_queued_renderable_collection.html" title="Lowest level collection of renderables. " alt="" coords="295,5063,522,5090"/>
+<area shape="rect" id="node344" href="$class_ogre_1_1_render_priority_group.html" title="Collection of renderables by priority. " alt="" coords="321,5114,497,5141"/>
+<area shape="rect" id="node345" href="$class_ogre_1_1_render_queue.html" title="Class to manage the scene object rendering queue. " alt="" coords="339,5165,478,5191"/>
+<area shape="rect" id="node346" href="$class_ogre_1_1_render_queue_group.html" title="A grouping level underneath RenderQueue which groups renderables to be issued at coarsely the same ti..." alt="" coords="322,5215,495,5242"/>
+<area shape="rect" id="node347" href="$class_ogre_1_1_render_queue_invocation.html" title="Class representing the invocation of queue groups in a RenderQueue. " alt="" coords="309,5266,508,5293"/>
+<area shape="rect" id="node348" href="$class_ogre_1_1_render_queue_invocation_sequence.html" title="Class to hold a linear sequence of RenderQueueInvocation objects. " alt="" coords="309,5317,508,5359"/>
+<area shape="rect" id="node349" href="$class_ogre_1_1_render_system.html" title="Defines the functionality of a 3D API. " alt="" coords="336,5703,481,5730"/>
+<area shape="rect" id="node357" href="$class_ogre_1_1_render_system_capabilities.html" title="singleton class for storing the capabilities of the graphics card. " alt="" coords="302,5434,515,5461"/>
+<area shape="rect" id="node358" href="$class_ogre_1_1_render_system_capabilities_manager.html" title="Class for managing RenderSystemCapabilities database for Ogre. " alt="" coords="302,14412,515,14453"/>
+<area shape="rect" id="node359" href="$class_ogre_1_1_render_system_capabilities_serializer.html" title="Class for serializing RenderSystemCapabilities to / from a .rendercaps script. " alt="" coords="302,5485,515,5527"/>
+<area shape="rect" id="node360" href="$class_ogre_1_1_render_target.html" title="A &#39;canvas&#39; which can receive the results of a rendering operation. " alt="" coords="340,8531,477,8558"/>
+<area shape="rect" id="node400" href="$class_ogre_1_1_resource.html" title="Abstract class representing a loadable resource (e.g. " alt="" coords="351,2237,466,2263"/>
+<area shape="rect" id="node429" href="$class_ogre_1_1_resource_background_queue.html" title="This class is used to perform Resource operations in a background thread. " alt="" coords="317,15200,500,15241"/>
+<area shape="rect" id="node430" href="$class_ogre_1_1_resource_group_manager.html" title="This singleton class manages the list of resource groups, and notifying the various resource managers..." alt="" coords="309,14478,508,14505"/>
+<area shape="rect" id="node431" href="$class_ogre_1_1_resource_manager.html" title="Defines a generic resource handler. " alt="" coords="327,1735,491,1762"/>
+<area shape="rect" id="node452" href="$class_ogre_1_1_resource_manager_1_1_resource_pool.html" title="Definition of a pool of resources, which users can use to reuse similar resources many times without ..." alt="" coords="327,14529,491,14571"/>
+<area shape="rect" id="node453" href="$class_ogre_1_1_root.html" title="The root class of the Ogre system. " alt="" coords="365,14595,452,14622"/>
+<area shape="rect" id="node454" href="$class_ogre_1_1_r_t_shader_1_1_f_f_p_render_state_builder.html" title="Fixed Function Pipeline render state builder. " alt="" coords="313,14647,505,14688"/>
+<area shape="rect" id="node455" href="$class_ogre_1_1_r_t_shader_1_1_function.html" title="A class that represents a shader based program function. " alt="" coords="321,5551,496,5578"/>
+<area shape="rect" id="node456" href="$class_ogre_1_1_r_t_shader_1_1_function_atom.html" title="A class that represents an atomic code section of shader based program function. " alt="" coords="305,5805,512,5831"/>
+<area shape="rect" id="node458" href="$class_ogre_1_1_r_t_shader_1_1_operand.html" title="A class that represents a function operand (its the combination of a parameter the in/out semantic an..." alt="" coords="321,5653,496,5679"/>
+<area shape="rect" id="node459" href="$class_ogre_1_1_r_t_shader_1_1_parameter.html" title="A class that represents a shader based program parameter. " alt="" coords="316,5957,501,5983"/>
+<area shape="rect" id="node462" href="$class_ogre_1_1_r_t_shader_1_1_program.html" title="A class that represents a shader based program. " alt="" coords="321,5754,496,5781"/>
+<area shape="rect" id="node463" href="$class_ogre_1_1_r_t_shader_1_1_program_manager.html" title="A singleton manager class that manages shader based programs. " alt="" coords="297,14713,521,14739"/>
+<area shape="rect" id="node464" href="$class_ogre_1_1_r_t_shader_1_1_program_processor.html" title="A class that provides extra processing services on CPU based programs. " alt="" coords="292,6007,525,6034"/>
+<area shape="rect" id="node469" href="$class_ogre_1_1_r_t_shader_1_1_program_set.html" title="Container class for shader based programs. " alt="" coords="311,5855,506,5882"/>
+<area shape="rect" id="node470" href="$class_ogre_1_1_r_t_shader_1_1_program_writer.html" title="Base class interface for shader program writers. " alt="" coords="304,6321,513,6347"/>
+<area shape="rect" id="node475" href="$class_ogre_1_1_r_t_shader_1_1_program_writer_factory.html" title="Interface definition for factories of ShaderProgramWriter. " alt="" coords="304,6372,513,6413"/>
+<area shape="rect" id="node480" href="$class_ogre_1_1_r_t_shader_1_1_program_writer_manager.html" title="Ogre::RTShader::ProgramWriter\lManager" alt="" coords="304,14764,513,14805"/>
+<area shape="rect" id="node481" href="$class_ogre_1_1_r_t_shader_1_1_render_state.html" title="This is a container class for sub render state class. " alt="" coords="309,6438,508,6465"/>
+<area shape="rect" id="node483" href="$class_ogre_1_1_r_t_shader_1_1_s_g_material_serializer_listener.html" title="This class responsible for translating core features of the RT Shader System for Ogre material script..." alt="" coords="313,14829,504,14871"/>
+<area shape="rect" id="node484" href="$class_ogre_1_1_r_t_shader_1_1_shader_generator.html" title="Shader generator system main interface. " alt="" coords="297,14895,520,14922"/>
+<area shape="rect" id="node485" href="$class_ogre_1_1_r_t_shader_1_1_shader_generator_1_1_s_g_material.html" title="Shader generator material wrapper class. " alt="" coords="297,6059,520,6100"/>
+<area shape="rect" id="node486" href="$class_ogre_1_1_r_t_shader_1_1_shader_generator_1_1_s_g_pass.html" title="Shader generator pass wrapper class. " alt="" coords="297,6124,520,6165"/>
+<area shape="rect" id="node487" href="$class_ogre_1_1_r_t_shader_1_1_shader_generator_1_1_s_g_render_object_listener.html" title="Shader generator RenderObjectListener sub class. " alt="" coords="297,3277,520,3319"/>
+<area shape="rect" id="node488" href="$class_ogre_1_1_r_t_shader_1_1_shader_generator_1_1_s_g_scene_manager_listener.html" title="Shader generator scene manager sub class. " alt="" coords="297,3395,520,3436"/>
+<area shape="rect" id="node489" href="$class_ogre_1_1_r_t_shader_1_1_shader_generator_1_1_s_g_scheme.html" title="Shader generator scheme class. " alt="" coords="297,6189,520,6231"/>
+<area shape="rect" id="node490" href="$class_ogre_1_1_r_t_shader_1_1_shader_generator_1_1_s_g_technique.html" title="Shader generator technique wrapper class. " alt="" coords="297,6255,520,6296"/>
+<area shape="rect" id="node491" href="$class_ogre_1_1_r_t_shader_1_1_sub_render_state.html" title="This class is the base interface of sub part from a shader based rendering pipeline. " alt="" coords="313,6489,504,6531"/>
+<area shape="rect" id="node497" href="$class_ogre_1_1_r_t_shader_1_1_sub_render_state_factory.html" title="Abstract factory interface for creating SubRenderState implementation instances. " alt="" coords="313,6825,504,6867"/>
+<area shape="rect" id="node503" href="$class_ogre_1_1_scene_manager.html" title="Manages the organisation and rendering of a &#39;scene&#39; i.e. " alt="" coords="336,6891,481,6918"/>
+<area shape="rect" id="node505" href="$class_ogre_1_1_scene_manager_1_1_shadow_caster_scene_query_listener.html" title="Inner class to use as callback for shadow caster scene query. " alt="" coords="291,14143,526,14184"/>
+<area shape="rect" id="node506" href="$class_ogre_1_1_scene_manager_enumerator.html" title="Enumerates the SceneManager classes available to applications. " alt="" coords="303,14946,515,14973"/>
+<area shape="rect" id="node507" href="$class_ogre_1_1_scene_manager_factory.html" title="Class which will create instances of a given SceneManager. " alt="" coords="314,6993,503,7019"/>
+<area shape="rect" id="node509" href="$class_ogre_1_1_scene_query.html" title="A class for performing queries on a scene. " alt="" coords="343,11542,474,11569"/>
+<area shape="rect" id="node521" href="$struct_ogre_1_1_scene_query_result.html" title="Holds the results of a scene query. " alt="" coords="325,6555,493,6582"/>
+<area shape="rect" id="node522" href="$class_ogre_1_1_script_compiler.html" title="This is the main class for the compiler. " alt="" coords="337,6606,481,6633"/>
+<area shape="rect" id="node523" href="$struct_ogre_1_1_script_compiler_1_1_error.html" title="Ogre::ScriptCompiler\l::Error" alt="" coords="337,6657,481,6699"/>
+<area shape="rect" id="node524" href="$class_ogre_1_1_script_compiler_manager.html" title="Manages threaded compilation of scripts. " alt="" coords="311,153,506,179"/>
+<area shape="rect" id="node525" href="$class_ogre_1_1_script_lexer.html" title="Ogre::ScriptLexer" alt="" coords="347,6723,471,6750"/>
+<area shape="rect" id="node526" href="$class_ogre_1_1_script_parser.html" title="Ogre::ScriptParser" alt="" coords="343,6942,474,6969"/>
+<area shape="rect" id="node527" href="$class_ogre_1_1_script_translator.html" title="This class translates script AST (abstract syntax tree) into Ogre resources. " alt="" coords="333,7445,484,7471"/>
+<area shape="rect" id="node543" href="$class_ogre_1_1_script_translator_manager.html" title="The ScriptTranslatorManager manages the lifetime and access to script translators. " alt="" coords="309,7745,509,7771"/>
+<area shape="rect" id="node546" href="$class_ogre_1_1_serializer.html" title="Generic class for serialising data to / from binary stream&#45;based files. " alt="" coords="353,7795,465,7822"/>
+<area shape="rect" id="node558" href="$class_ogre_1_1_shader_generator.html" title="Ogre::ShaderGenerator" alt="" coords="331,7175,487,7202"/>
+<area shape="rect" id="node559" href="$class_ogre_1_1_shader_manager.html" title="Ogre::ShaderManager" alt="" coords="334,7226,483,7253"/>
+<area shape="rect" id="node560" href="$class_ogre_1_1_shader_pieces_manager.html" title="Ogre::ShaderPiecesManager" alt="" coords="314,7277,503,7303"/>
+<area shape="rect" id="node561" href="$class_ogre_1_1_shader_template.html" title="Ogre::ShaderTemplate" alt="" coords="332,7327,485,7354"/>
+<area shape="rect" id="node562" href="$class_ogre_1_1_shadow_camera_setup.html" title="This class allows you to plug in new ways to define the camera setup when rendering and projecting sh..." alt="" coords="316,8211,501,8238"/>
+<area shape="rect" id="node568" href="$class_ogre_1_1_shadow_renderable.html" title="Class which represents the renderable aspects of a set of shadow volume faces. " alt="" coords="323,2725,494,2751"/>
+<area shape="rect" id="node572" href="$class_ogre_1_1_shadow_texture_manager.html" title="Class to manage the available shadow textures which may be shared between many SceneManager instances..." alt="" coords="309,14997,508,15023"/>
+<area shape="rect" id="node573" href="$class_ogre_1_1_shadow_volume_extrude_program.html" title="Static class containing source for vertex programs for extruding shadow volumes. " alt="" coords="311,7496,506,7537"/>
+<area shape="rect" id="node574" href="$class_ogre_1_1_static_geometry.html" title="Pre&#45;transforms and batches up meshes for efficient use as static geometry in a scene. " alt="" coords="334,7562,483,7589"/>
+<area shape="rect" id="node575" href="$class_ogre_1_1_static_geometry_1_1_geometry_bucket.html" title="A GeometryBucket is a the lowest level bucket where geometry with the same vertex &amp; index format is s..." alt="" coords="334,2541,483,2583"/>
+<area shape="rect" id="node576" href="$class_ogre_1_1_static_geometry_1_1_l_o_d_bucket.html" title="A LODBucket is a collection of smaller buckets with the same LOD. " alt="" coords="334,7613,483,7655"/>
+<area shape="rect" id="node577" href="$class_ogre_1_1_static_geometry_1_1_material_bucket.html" title="A MaterialBucket is a collection of smaller buckets with the same Material (and implicitly the same L..." alt="" coords="334,7679,483,7720"/>
+<area shape="rect" id="node578" href="$class_ogre_1_1_static_geometry_1_1_optimised_sub_mesh_geometry.html" title="Struct holding geometry optimised per SubMesh / LOD level, ready for copying to instances. " alt="" coords="308,7847,509,7888"/>
+<area shape="rect" id="node579" href="$struct_ogre_1_1_static_geometry_1_1_queued_geometry.html" title="Structure recording a queued geometry for low level builds. " alt="" coords="334,7912,483,7953"/>
+<area shape="rect" id="node580" href="$struct_ogre_1_1_static_geometry_1_1_queued_sub_mesh.html" title="Structure recording a queued submesh for the build. " alt="" coords="334,7977,483,8019"/>
+<area shape="rect" id="node581" href="$class_ogre_1_1_stream_serialiser.html" title="Utility class providing helper methods for reading / writing structured data held in a DataStream..." alt="" coords="331,8043,486,8070"/>
+<area shape="rect" id="node582" href="$struct_ogre_1_1_stream_serialiser_1_1_chunk.html" title="Definition of a chunk of data in a file. " alt="" coords="331,8095,486,8136"/>
+<area shape="rect" id="node583" href="$class_ogre_1_1_sub_entity.html" title="Utility class which defines the sub&#45;parts of an Entity. " alt="" coords="351,2607,466,2634"/>
+<area shape="rect" id="node584" href="$class_ogre_1_1_sub_mesh.html" title="Defines a part of a complete mesh. " alt="" coords="352,8161,465,8187"/>
+<area shape="rect" id="node585" href="$class_ogre_1_1_technique.html" title="Class representing an approach to rendering this particular Material. " alt="" coords="349,8313,468,8339"/>
+<area shape="rect" id="node586" href="$class_ogre_1_1_temp_blended_buffer_info.html" title="Structure for recording the use of temporary blend buffers. " alt="" coords="311,15047,506,15074"/>
+<area shape="rect" id="node587" href="$class_ogre_1_1_terrain.html" title="The main containing class for a chunk of terrain. " alt="" coords="359,15149,458,15175"/>
+<area shape="rect" id="node588" href="$class_ogre_1_1_terrain_1_1_gpu_buffer_allocator.html" title="Interface used to by the Terrain instance to allocate GPU buffers. " alt="" coords="326,8903,491,8944"/>
+<area shape="rect" id="node590" href="$class_ogre_1_1_terrain_auto_update_lod.html" title="Terrain automatic LOD loading. " alt="" coords="315,8969,503,8995"/>
+<area shape="rect" id="node592" href="$class_ogre_1_1_terrain_global_options.html" title="Options class which just stores default options for the terrain. " alt="" coords="319,15098,499,15125"/>
+<area shape="rect" id="node593" href="$class_ogre_1_1_terrain_group.html" title="Helper class to assist you in managing multiple terrain instances that are connected to each other..." alt="" coords="342,15266,475,15293"/>
+<area shape="rect" id="node594" href="$struct_ogre_1_1_terrain_group_1_1_terrain_slot.html" title="Slot for a terrain instance, together with its definition. " alt="" coords="342,8415,475,8456"/>
+<area shape="rect" id="node595" href="$class_ogre_1_1_terrain_layer_blend_map.html" title="Class exposing an interface to a blend map for a given layer. " alt="" coords="315,8481,503,8507"/>
+<area shape="rect" id="node596" href="$class_ogre_1_1_terrain_lod_manager.html" title="Terrain LOD data manager. " alt="" coords="324,15367,493,15394"/>
+<area shape="rect" id="node597" href="$class_ogre_1_1_terrain_material_generator.html" title="Class that provides functionality to generate materials for use with a terrain. " alt="" coords="308,9019,509,9046"/>
+<area shape="rect" id="node599" href="$class_ogre_1_1_terrain_material_generator_1_1_profile.html" title="Inner class which should also be subclassed to provide profile&#45;specific material generation. " alt="" coords="308,9339,509,9380"/>
+<area shape="rect" id="node601" href="$class_ogre_1_1_terrain_material_generator_a_1_1_s_m2_profile_1_1_shader_helper.html" title="Interface definition for helper class to generate shaders. " alt="" coords="308,9791,509,9832"/>
+<area shape="rect" id="node606" href="$class_ogre_1_1_terrain_paged_world_section_1_1_terrain_definer.html" title="Ogre::TerrainPagedWorldSection\l::TerrainDefiner" alt="" coords="302,8633,515,8675"/>
+<area shape="rect" id="node607" href="$class_ogre_1_1_terrain_paging.html" title="This class is the &#39;core&#39; class for paging terrain, that will integrate with the larger paging system ..." alt="" coords="339,8699,478,8726"/>
+<area shape="rect" id="node608" href="$class_ogre_1_1_terrain_quad_tree_node.html" title="A node in a quad tree used to store a patch of terrain. " alt="" coords="315,9222,502,9249"/>
+<area shape="rect" id="node609" href="$struct_ogre_1_1_terrain_quad_tree_node_1_1_lod_level.html" title="Ogre::TerrainQuadTreeNode\l::LodLevel" alt="" coords="315,9273,502,9315"/>
+<area shape="rect" id="node610" href="$class_ogre_1_1_terrain_quad_tree_node_1_1_rend.html" title="Hook to the render queue. " alt="" coords="315,2776,502,2817"/>
+<area shape="rect" id="node611" href="$struct_ogre_1_1_terrain_quad_tree_node_1_1_vertex_data_record.html" title="Ogre::TerrainQuadTreeNode\l::VertexDataRecord" alt="" coords="315,9404,502,9445"/>
+<area shape="rect" id="node612" href="$class_ogre_1_1_texture_unit_state.html" title="Class representing the state of a single texture unit during a Pass of a Technique, of a Material. " alt="" coords="330,9470,487,9497"/>
+<area shape="rect" id="node613" href="$class_ogre_1_1_timer.html" title="Timer class. " alt="" coords="363,9521,454,9547"/>
+<area shape="rect" id="node614" href="$class_ogre_1_1_user_object_bindings.html" title="Class that provides convenient interface to establish a linkage between custom user application objec..." alt="" coords="321,9571,496,9598"/>
+<area shape="rect" id="node615" href="$class_ogre_1_1_user_object_bindings_1_1_attributes.html" title="Internal class that uses as data storage container. " alt="" coords="321,9623,496,9664"/>
+<area shape="rect" id="node616" href="$class_ogre_1_1_vertex_buffer_binding.html" title="Records the state of all the vertex buffer bindings required to provide a vertex declaration with the..." alt="" coords="321,10177,496,10203"/>
+<area shape="rect" id="node617" href="$class_ogre_1_1_vertex_cache_profiler.html" title="Vertex cache profiler. " alt="" coords="321,10227,496,10254"/>
+<area shape="rect" id="node618" href="$class_ogre_1_1_vertex_data.html" title="Summary class collecting together vertex source information. " alt="" coords="347,10278,471,10305"/>
+<area shape="rect" id="node619" href="$class_ogre_1_1_vertex_declaration.html" title="This class declares the format of a set of vertex inputs, which can be issued to the rendering API th..." alt="" coords="619,4921,782,4947"/>
+<area shape="rect" id="node623" href="$class_ogre_1_1_vertex_element.html" title="This class declares the usage of a single vertex buffer as a component of a complete VertexDeclaratio..." alt="" coords="337,10329,481,10355"/>
+<area shape="rect" id="node624" href="$class_ogre_1_1_viewport.html" title="An abstraction of a viewport, i.e. " alt="" coords="354,10379,463,10406"/>
+<area shape="rect" id="node625" href="$class_ogre_1_1_volume_1_1_dual_grid_generator.html" title="Class for the generation of the DualGrid. " alt="" coords="299,10430,518,10457"/>
+<area shape="rect" id="node626" href="$class_ogre_1_1_volume_1_1_iso_surface.html" title="Abstract IsoSurface. " alt="" coords="322,12318,495,12345"/>
+<area shape="rect" id="node628" href="$class_ogre_1_1_volume_1_1_mesh_builder.html" title="Class to build up a mesh with vertices and indices. " alt="" coords="317,10531,500,10558"/>
+<area shape="rect" id="node629" href="$class_ogre_1_1_volume_1_1_octree_node.html" title="A node in the volume octree. " alt="" coords="319,10582,499,10609"/>
+<area shape="rect" id="node630" href="$class_ogre_1_1_work_queue.html" title="Interface to a general purpose request / response style background work queue. " alt="" coords="345,12993,472,13019"/>
+<area shape="rect" id="node633" href="$class_ogre_1_1_work_queue_1_1_request.html" title="General purpose request structure. " alt="" coords="317,12790,501,12817"/>
+<area shape="rect" id="node634" href="$struct_ogre_1_1_work_queue_1_1_response.html" title="General purpose response structure. " alt="" coords="311,12841,506,12867"/>
+<area shape="rect" id="node14" href="$class_ogre_1_1_animation_controller_function.html" title="Predefined controller function for dealing with animation. " alt="" coords="615,6792,787,6833"/>
+<area shape="rect" id="node15" href="$class_ogre_1_1_linear_controller_function.html" title="Predefined controller function based on linear function interpolation. " alt="" coords="601,6858,800,6885"/>
+<area shape="rect" id="node16" href="$class_ogre_1_1_passthrough_controller_function.html" title="Predefined controller function which just passes through the original source directly to dest..." alt="" coords="607,6909,794,6951"/>
+<area shape="rect" id="node17" href="$class_ogre_1_1_scale_controller_function.html" title="Predefined controller function which simply scales an input to an output value. " alt="" coords="602,6975,799,7002"/>
+<area shape="rect" id="node18" href="$class_ogre_1_1_waveform_controller_function.html" title="Predefined controller function based on a waveform. " alt="" coords="613,6727,788,6768"/>
+<area shape="rect" id="node20" href="$class_ogre_1_1_animation_state_controller_value.html" title="ControllerValue wrapper class for AnimationState. " alt="" coords="599,7223,802,7264"/>
+<area shape="rect" id="node21" href="$class_ogre_1_1_float_gpu_parameter_controller_value.html" title="Predefined controller value for setting a single floating&#45; point value in a constant parameter of a v..." alt="" coords="587,7027,814,7068"/>
+<area shape="rect" id="node22" href="$class_ogre_1_1_frame_time_controller_value.html" title="Predefined controller value for getting the latest frame time. " alt="" coords="611,1917,791,1959"/>
+<area shape="rect" id="node23" href="$class_ogre_1_1_tex_coord_modifier_controller_value.html" title="Predefined controller value for getting / setting a texture coordinate modifications (scales and tran..." alt="" coords="592,7157,809,7199"/>
+<area shape="rect" id="node24" href="$class_ogre_1_1_texture_frame_controller_value.html" title="Predefined controller value for getting / setting the frame number of a texture layer. " alt="" coords="603,7092,798,7133"/>
+<area shape="rect" id="node26" href="$class_ogre_1_1_atom_abstract_node.html" title="This is an abstract node which cannot be broken down further. " alt="" coords="616,10981,785,11007"/>
+<area shape="rect" id="node27" href="$class_ogre_1_1_import_abstract_node.html" title="This abstract node represents an import statement. " alt="" coords="613,11031,788,11058"/>
+<area shape="rect" id="node28" href="$class_ogre_1_1_object_abstract_node.html" title="This specific abstract node represents a script object. " alt="" coords="613,11082,789,11109"/>
+<area shape="rect" id="node29" href="$class_ogre_1_1_property_abstract_node.html" title="This abstract node represents a script property. " alt="" coords="607,11133,794,11159"/>
+<area shape="rect" id="node30" href="$class_ogre_1_1_variable_access_abstract_node.html" title="This abstract node represents a variable assignment. " alt="" coords="586,10930,815,10957"/>
+<area shape="rect" id="node38" href="$class_ogre_1_1_node_animation_track.html" title="Specialised AnimationTrack for dealing with node transforms. " alt="" coords="611,11183,791,11210"/>
+<area shape="rect" id="node39" href="$class_ogre_1_1_numeric_animation_track.html" title="Specialised AnimationTrack for dealing with generic animable values. " alt="" coords="601,11234,800,11261"/>
+<area shape="rect" id="node40" href="$class_ogre_1_1_vertex_animation_track.html" title="Specialised AnimationTrack for dealing with changing vertex position information. ..." alt="" coords="607,11285,794,11311"/>
+<area shape="rect" id="node42" href="$class_ogre_1_1_a_p_k_file_system_archive.html" title="Ogre::APKFileSystemArchive" alt="" coords="603,11335,798,11362"/>
+<area shape="rect" id="node43" href="$class_ogre_1_1_file_system_archive.html" title="Specialisation of the Archive class to allow reading of files from filesystem folders / directories..." alt="" coords="617,11386,785,11413"/>
+<area shape="rect" id="node44" href="$class_ogre_1_1_zip_archive.html" title="Specialisation of the Archive class to allow reading of files from a zip format source archive..." alt="" coords="641,11437,761,11463"/>
+<area shape="rect" id="node51" href="$class_ogre_1_1_image_codec.html" title="Codec specialized in images. " alt="" coords="635,10070,767,10097"/>
+<area shape="rect" id="node52" href="$class_ogre_1_1_d_d_s_codec.html" title="Codec specialized in loading DDS (Direct Draw Surface) images. " alt="" coords="921,10661,1046,10687"/>
+<area shape="rect" id="node53" href="$class_ogre_1_1_e_t_c_codec.html" title="Codec specialized in loading ETC (Ericsson Texture Compression) images. " alt="" coords="922,10711,1045,10738"/>
+<area shape="rect" id="node54" href="$class_ogre_1_1_free_image_codec.html" title="Codec specialized in images loaded using FreeImage. " alt="" coords="904,10762,1063,10789"/>
+<area shape="rect" id="node55" href="$class_ogre_1_1_p_v_r_t_c_codec.html" title="Codec specialized in loading PVRTC (PowerVR) images. " alt="" coords="912,10813,1055,10839"/>
+<area shape="rect" id="node56" href="$class_ogre_1_1_s_t_b_i_image_codec.html" title="Codec specialized in images loaded using stbi (https://github.com/nothings/stb). " alt="" coords="902,10610,1065,10637"/>
+<area shape="rect" id="node58" href="$class_ogre_1_1_image_codec_1_1_image_data.html" title="Codec return class for images. " alt="" coords="599,11643,803,11670"/>
+<area shape="rect" id="node75" href="$class_ogre_1_1_d3_d11_stereo_driver_a_m_d.html" title="Virtual interface of the stereo driver. " alt="" coords="599,12377,802,12403"/>
+<area shape="rect" id="node76" href="$class_ogre_1_1_d3_d11_stereo_driver_n_v_i_d_i_a.html" title="Interface of the NVIDIA stereo driver. " alt="" coords="591,12326,810,12353"/>
+<area shape="rect" id="node84" href="$class_ogre_1_1_d3_d9_stereo_driver_a_m_d.html" title="Virtual interface of the stereo driver. " alt="" coords="603,1115,798,1142"/>
+<area shape="rect" id="node85" href="$class_ogre_1_1_d3_d9_stereo_driver_n_v_i_d_i_a.html" title="Interface of the NVIDIA stereo driver. " alt="" coords="595,3106,806,3133"/>
+<area shape="rect" id="node88" href="$class_ogre_1_1_deflate_stream.html" title="Stream which compresses / uncompresses data using the &#39;deflate&#39; compression algorithm. " alt="" coords="629,12579,772,12606"/>
+<area shape="rect" id="node89" href="$class_ogre_1_1_file_handle_data_stream.html" title="Common subclass of DataStream for handling data from C&#45;style file handles. " alt="" coords="605,12630,796,12657"/>
+<area shape="rect" id="node90" href="$class_ogre_1_1_file_stream_data_stream.html" title="Common subclass of DataStream for handling data from std::basic_istream. " alt="" coords="605,12427,796,12454"/>
+<area shape="rect" id="node91" href="$class_ogre_1_1_memory_data_stream.html" title="Common subclass of DataStream for handling data from chunks of memory. " alt="" coords="613,12478,788,12505"/>
+<area shape="rect" id="node92" href="$class_ogre_1_1_zip_data_stream.html" title="Specialisation of DataStream to handle streaming data from zip archives. " alt="" coords="627,12529,774,12555"/>
+<area shape="rect" id="node95" href="$class_ogre_1_1_d3_d11_depth_buffer.html" title="Ogre::D3D11DepthBuffer" alt="" coords="616,12883,785,12910"/>
+<area shape="rect" id="node96" href="$class_ogre_1_1_d3_d9_depth_buffer.html" title="Ogre::D3D9DepthBuffer" alt="" coords="619,12934,782,12961"/>
+<area shape="rect" id="node97" href="$class_ogre_1_1_g_l3_plus_depth_buffer.html" title="Ogre::GL3PlusDepthBuffer" alt="" coords="611,12985,790,13011"/>
+<area shape="rect" id="node98" href="$class_ogre_1_1_g_l_depth_buffer.html" title="Ogre::GLDepthBuffer" alt="" coords="628,12731,773,12758"/>
+<area shape="rect" id="node99" href="$class_ogre_1_1_g_l_e_s2_depth_buffer.html" title="Ogre::GLES2DepthBuffer" alt="" coords="615,12782,786,12809"/>
+<area shape="rect" id="node100" href="$class_ogre_1_1_g_l_e_s_depth_buffer.html" title="Ogre::GLESDepthBuffer" alt="" coords="619,12833,782,12859"/>
+<area shape="rect" id="node124" href="$class_ogre_1_1_d3_d11_hardware_buffer.html" title="Base implementation of a D3D11 buffer, dealing with all the common aspects. " alt="" coords="605,9105,796,9131"/>
+<area shape="rect" id="node125" href="$class_ogre_1_1_hardware_counter_buffer.html" title="Specialisation of HardwareBuffer for a counter buffer. " alt="" coords="603,8879,798,8906"/>
+<area shape="rect" id="node129" href="$class_ogre_1_1_hardware_index_buffer.html" title="Specialisation of HardwareBuffer for vertex index buffers, still abstract. " alt="" coords="610,8778,791,8805"/>
+<area shape="rect" id="node139" href="$class_ogre_1_1_hardware_pixel_buffer.html" title="Specialisation of HardwareBuffer for a pixel buffer. " alt="" coords="611,9054,790,9081"/>
+<area shape="rect" id="node154" href="$class_ogre_1_1_hardware_uniform_buffer.html" title="Specialisation of HardwareBuffer for a uniform buffer. " alt="" coords="603,8727,798,8754"/>
+<area shape="rect" id="node162" href="$class_ogre_1_1_hardware_vertex_buffer.html" title="Specialisation of HardwareBuffer for a vertex buffer. " alt="" coords="607,8829,794,8855"/>
+<area shape="rect" id="node126" href="$class_ogre_1_1_default_hardware_counter_buffer.html" title="Specialisation of HardwareCounterBuffer for emulation. " alt="" coords="882,8741,1085,8783"/>
+<area shape="rect" id="node127" href="$class_ogre_1_1_g_l3_plus_default_hardware_counter_buffer.html" title="Specialisation of HardwareCounterBuffer for emulation. " alt="" coords="880,8807,1087,8848"/>
+<area shape="rect" id="node128" href="$class_ogre_1_1_g_l3_plus_hardware_counter_buffer.html" title="Specialisation of HardwareCounterBuffer for OpenGL. " alt="" coords="878,8872,1089,8913"/>
+<area shape="rect" id="node130" href="$class_ogre_1_1_d3_d11_hardware_index_buffer.html" title="Ogre::D3D11HardwareIndex\lBuffer" alt="" coords="890,8167,1077,8208"/>
+<area shape="rect" id="node131" href="$class_ogre_1_1_d3_d9_hardware_index_buffer.html" title="Ogre::D3D9HardwareIndexBuffer" alt="" coords="876,7279,1091,7306"/>
+<area shape="rect" id="node132" href="$class_ogre_1_1_default_hardware_index_buffer.html" title="Specialisation of HardwareIndexBuffer for emulation. " alt="" coords="889,7657,1077,7699"/>
+<area shape="rect" id="node133" href="$class_ogre_1_1_g_l3_plus_default_hardware_index_buffer.html" title="Specialisation of HardwareIndexBuffer for emulation. " alt="" coords="880,7723,1087,7764"/>
+<area shape="rect" id="node134" href="$class_ogre_1_1_g_l3_plus_hardware_index_buffer.html" title="Ogre::GL3PlusHardwareIndex\lBuffer" alt="" coords="885,7788,1081,7829"/>
+<area shape="rect" id="node135" href="$class_ogre_1_1_g_l_default_hardware_index_buffer.html" title="Specialisation of HardwareIndexBuffer for emulation. " alt="" coords="881,7853,1086,7895"/>
+<area shape="rect" id="node136" href="$class_ogre_1_1_g_l_e_s2_default_hardware_index_buffer.html" title="Specialisation of HardwareIndexBuffer for emulation. " alt="" coords="884,7919,1083,7960"/>
+<area shape="rect" id="node137" href="$class_ogre_1_1_g_l_e_s_default_hardware_index_buffer.html" title="Specialisation of HardwareIndexBuffer for emulation. " alt="" coords="888,7984,1079,8025"/>
+<area shape="rect" id="node138" href="$class_ogre_1_1_g_l_hardware_index_buffer.html" title="Ogre::GLHardwareIndexBuffer" alt="" coords="884,8050,1083,8077"/>
+<area shape="rect" id="node140" href="$class_ogre_1_1_d3_d11_hardware_pixel_buffer.html" title="Ogre::D3D11HardwarePixel\lBuffer" alt="" coords="891,9221,1075,9263"/>
+<area shape="rect" id="node141" href="$class_ogre_1_1_d3_d9_hardware_pixel_buffer.html" title="Ogre::D3D9HardwarePixelBuffer" alt="" coords="877,9353,1089,9379"/>
+<area shape="rect" id="node142" href="$class_ogre_1_1_g_l3_plus_hardware_pixel_buffer.html" title="Ogre::GL3PlusHardwarePixel\lBuffer" alt="" coords="887,8937,1080,8979"/>
+<area shape="rect" id="node145" href="$class_ogre_1_1_g_l_e_s2_hardware_pixel_buffer.html" title="Ogre::GLES2HardwarePixel\lBuffer" alt="" coords="891,9287,1076,9328"/>
+<area shape="rect" id="node148" href="$class_ogre_1_1_g_l_e_s_hardware_pixel_buffer.html" title="Ogre::GLESHardwarePixelBuffer" alt="" coords="877,9003,1090,9030"/>
+<area shape="rect" id="node151" href="$class_ogre_1_1_g_l_hardware_pixel_buffer.html" title="Ogre::GLHardwarePixelBuffer" alt="" coords="886,9105,1081,9131"/>
+<area shape="rect" id="node143" href="$class_ogre_1_1_g_l3_plus_render_buffer.html" title="Renderbuffer surface. " alt="" coords="1163,8895,1349,8922"/>
+<area shape="rect" id="node144" href="$class_ogre_1_1_g_l3_plus_texture_buffer.html" title="Texture surface. " alt="" coords="1163,8946,1349,8973"/>
+<area shape="rect" id="node146" href="$class_ogre_1_1_g_l_e_s2_render_buffer.html" title="Renderbuffer surface. " alt="" coords="1167,9269,1345,9295"/>
+<area shape="rect" id="node147" href="$class_ogre_1_1_g_l_e_s2_texture_buffer.html" title="Texture surface. " alt="" coords="1167,9319,1345,9346"/>
+<area shape="rect" id="node149" href="$class_ogre_1_1_g_l_e_s_render_buffer.html" title="Renderbuffer surface. " alt="" coords="1171,8998,1341,9025"/>
+<area shape="rect" id="node150" href="$class_ogre_1_1_g_l_e_s_texture_buffer.html" title="Texture surface. " alt="" coords="1170,9049,1342,9075"/>
+<area shape="rect" id="node152" href="$class_ogre_1_1_g_l_render_buffer.html" title="Renderbuffer surface. " alt="" coords="1180,9103,1332,9130"/>
+<area shape="rect" id="node153" href="$class_ogre_1_1_g_l_texture_buffer.html" title="Texture surface. " alt="" coords="1179,9154,1333,9181"/>
+<area shape="rect" id="node155" href="$class_ogre_1_1_d3_d11_hardware_uniform_buffer.html" title="Specialisation of HardwareBuffer for D3D11. " alt="" coords="883,7148,1084,7189"/>
+<area shape="rect" id="node156" href="$class_ogre_1_1_default_hardware_uniform_buffer.html" title="Specialisation of HardwareUniformBuffer for emulation. " alt="" coords="882,7213,1085,7255"/>
+<area shape="rect" id="node157" href="$class_ogre_1_1_g_l3_plus_default_hardware_uniform_buffer.html" title="Specialisation of HardwareUniformBuffer for emulation. " alt="" coords="880,7331,1087,7372"/>
+<area shape="rect" id="node158" href="$class_ogre_1_1_g_l3_plus_hardware_shader_storage_buffer.html" title="Specialisation of HardwareUniformBuffer for the OpenGL Shader Storage Buffer. " alt="" coords="881,7396,1086,7437"/>
+<area shape="rect" id="node159" href="$class_ogre_1_1_g_l3_plus_hardware_uniform_buffer.html" title="Specialisation of HardwareUniformBuffer for OpenGL. " alt="" coords="878,7461,1089,7503"/>
+<area shape="rect" id="node160" href="$class_ogre_1_1_g_l_e_s2_default_hardware_uniform_buffer.html" title="Specialisation of HardwareUniformBuffer for emulation. " alt="" coords="884,7527,1083,7568"/>
+<area shape="rect" id="node161" href="$class_ogre_1_1_g_l_e_s2_hardware_uniform_buffer.html" title="Specialisation of HardwareUniformBuffer for OpenGL. " alt="" coords="882,7592,1085,7633"/>
+<area shape="rect" id="node163" href="$class_ogre_1_1_d3_d11_hardware_vertex_buffer.html" title="Specialisation of HardwareVertexBuffer for D3D11. " alt="" coords="887,8349,1080,8391"/>
+<area shape="rect" id="node164" href="$class_ogre_1_1_d3_d9_hardware_vertex_buffer.html" title="Specialisation of HardwareVertexBuffer for D3D9. " alt="" coords="890,8101,1077,8143"/>
+<area shape="rect" id="node165" href="$class_ogre_1_1_default_hardware_vertex_buffer.html" title="Specialisation of HardwareVertexBuffer for emulation. " alt="" coords="886,8415,1081,8456"/>
+<area shape="rect" id="node166" href="$class_ogre_1_1_g_l3_plus_default_hardware_vertex_buffer.html" title="Specialisation of HardwareVertexBuffer for emulation. " alt="" coords="880,8480,1087,8521"/>
+<area shape="rect" id="node167" href="$class_ogre_1_1_g_l3_plus_hardware_vertex_buffer.html" title="Specialisation of HardwareVertexBuffer for OpenGL. " alt="" coords="882,8545,1085,8587"/>
+<area shape="rect" id="node168" href="$class_ogre_1_1_g_l_default_hardware_vertex_buffer.html" title="Specialisation of HardwareVertexBuffer for emulation. " alt="" coords="878,8611,1089,8652"/>
+<area shape="rect" id="node169" href="$class_ogre_1_1_g_l_e_s2_default_hardware_vertex_buffer.html" title="Specialisation of HardwareVertexBuffer for emulation. " alt="" coords="884,8676,1083,8717"/>
+<area shape="rect" id="node170" href="$class_ogre_1_1_g_l_e_s_default_hardware_vertex_buffer.html" title="Specialisation of HardwareVertexBuffer for emulation. " alt="" coords="888,8232,1079,8273"/>
+<area shape="rect" id="node171" href="$class_ogre_1_1_g_l_hardware_vertex_buffer.html" title="Specialisation of HardwareVertexBuffer for OpenGL. " alt="" coords="881,8298,1085,8325"/>
+<area shape="rect" id="node173" href="$class_ogre_1_1_d3_d11_hardware_buffer_manager_base.html" title="Implementation of HardwareBufferManager for D3D11. " alt="" coords="605,13284,796,13325"/>
+<area shape="rect" id="node174" href="$class_ogre_1_1_d3_d9_hardware_buffer_manager_base.html" title="Implementation of HardwareBufferManager for D3D9. " alt="" coords="609,13349,792,13391"/>
+<area shape="rect" id="node175" href="$class_ogre_1_1_default_hardware_buffer_manager_base.html" title="Specialisation of HardwareBufferManagerBase to emulate hardware buffers. " alt="" coords="605,13415,796,13456"/>
+<area shape="rect" id="node176" href="$class_ogre_1_1_g_l3_plus_default_hardware_buffer_manager_base.html" title="Specialisation of HardwareBufferManager to emulate hardware buffers. " alt="" coords="597,13480,804,13521"/>
+<area shape="rect" id="node177" href="$class_ogre_1_1_g_l3_plus_hardware_buffer_manager_base.html" title="Implementation of HardwareBufferManager for OpenGL. " alt="" coords="601,13545,800,13587"/>
+<area shape="rect" id="node178" href="$class_ogre_1_1_g_l_default_hardware_buffer_manager_base.html" title="Specialisation of HardwareBufferManager to emulate hardware buffers. " alt="" coords="597,13611,805,13652"/>
+<area shape="rect" id="node179" href="$class_ogre_1_1_g_l_e_s2_default_hardware_buffer_manager_base.html" title="Specialisation of HardwareBufferManager to emulate hardware buffers. " alt="" coords="601,13676,800,13717"/>
+<area shape="rect" id="node180" href="$class_ogre_1_1_g_l_e_s2_hardware_buffer_manager_base.html" title="Implementation of HardwareBufferManager for OpenGL ES. " alt="" coords="605,13036,796,13077"/>
+<area shape="rect" id="node181" href="$class_ogre_1_1_g_l_e_s_default_hardware_buffer_manager_base.html" title="Specialisation of HardwareBufferManager to emulate hardware buffers. " alt="" coords="605,13101,796,13143"/>
+<area shape="rect" id="node182" href="$class_ogre_1_1_g_l_e_s_hardware_buffer_manager_base.html" title="Implementation of HardwareBufferManager for OpenGL ES. " alt="" coords="609,13167,793,13208"/>
+<area shape="rect" id="node183" href="$class_ogre_1_1_g_l_hardware_buffer_manager_base.html" title="Implementation of HardwareBufferManager for OpenGL. " alt="" coords="577,13233,824,13259"/>
+<area shape="rect" id="node184" href="$class_ogre_1_1_hardware_buffer_manager.html" title="Singleton wrapper for hardware buffer manager. " alt="" coords="601,13843,800,13870"/>
+<area shape="rect" id="node185" href="$class_ogre_1_1_d3_d11_hardware_buffer_manager.html" title="D3D11HardwareBufferManagerBase as a Singleton. " alt="" coords="888,14117,1079,14159"/>
+<area shape="rect" id="node186" href="$class_ogre_1_1_d3_d9_hardware_buffer_manager.html" title="D3D9HardwareBufferManagerBase as a Singleton. " alt="" coords="892,14183,1075,14224"/>
+<area shape="rect" id="node187" href="$class_ogre_1_1_default_hardware_buffer_manager.html" title="DefaultHardwareBufferManager as a Singleton. " alt="" coords="888,13543,1079,13584"/>
+<area shape="rect" id="node188" href="$class_ogre_1_1_g_l3_plus_default_hardware_buffer_manager.html" title="GL3PlusDefaultHardwareBufferManagerBase as a Singleton. " alt="" coords="880,13608,1087,13649"/>
+<area shape="rect" id="node189" href="$class_ogre_1_1_g_l3_plus_hardware_buffer_manager.html" title="GL3PlusHardwareBufferManagerBase as a Singleton. " alt="" coords="884,13673,1083,13715"/>
+<area shape="rect" id="node190" href="$class_ogre_1_1_g_l_default_hardware_buffer_manager.html" title="GLDefaultHardwareBufferManagerBase as a Singleton. " alt="" coords="879,13739,1087,13780"/>
+<area shape="rect" id="node191" href="$class_ogre_1_1_g_l_e_s2_default_hardware_buffer_manager.html" title="GLES2DefaultHardwareBufferManagerBase as a Singleton. " alt="" coords="884,13935,1083,13976"/>
+<area shape="rect" id="node192" href="$class_ogre_1_1_g_l_e_s2_hardware_buffer_manager.html" title="GLES2HardwareBufferManagerBase as a Singleton. " alt="" coords="888,13804,1079,13845"/>
+<area shape="rect" id="node193" href="$class_ogre_1_1_g_l_e_s_default_hardware_buffer_manager.html" title="GLESDefaultHardwareBufferManagerBase as a Singleton. " alt="" coords="888,13869,1079,13911"/>
+<area shape="rect" id="node194" href="$class_ogre_1_1_g_l_e_s_hardware_buffer_manager.html" title="GLESHardwareBufferManagerBase as a Singleton. " alt="" coords="891,14000,1075,14041"/>
+<area shape="rect" id="node195" href="$class_ogre_1_1_g_l_hardware_buffer_manager.html" title="GLHardwareBufferManagerBase as a Singleton. " alt="" coords="875,14066,1091,14093"/>
+<area shape="rect" id="node197" href="$class_ogre_1_1_d3_d11_hardware_occlusion_query.html" title="This is a class that is the DirectX9 implementation of hardware occlusion testing. " alt="" coords="877,9535,1090,9576"/>
+<area shape="rect" id="node198" href="$class_ogre_1_1_d3_d9_hardware_occlusion_query.html" title="This is a class that is the DirectX9 implementation of hardware occlusion testing. " alt="" coords="880,9156,1087,9197"/>
+<area shape="rect" id="node199" href="$class_ogre_1_1_g_l3_plus_hardware_occlusion_query.html" title="This is a class that is the base class of the query class for hardware occlusion. ..." alt="" coords="872,9404,1095,9445"/>
+<area shape="rect" id="node200" href="$class_ogre_1_1_g_l_hardware_occlusion_query.html" title="This is a class that is the base class of the query class for hardware occlusion. ..." alt="" coords="889,9469,1078,9511"/>
+<area shape="rect" id="node202" href="$class_ogre_1_1_d3_d11_h_l_s_l_program_factory.html" title="Factory class for D3D11 HLSL programs. " alt="" coords="588,14011,813,14038"/>
+<area shape="rect" id="node203" href="$class_ogre_1_1_d3_d9_h_l_s_l_program_factory.html" title="Factory class for D3D9 HLSL programs. " alt="" coords="591,14062,810,14089"/>
+<area shape="rect" id="node204" href="$class_ogre_1_1_g_l_s_l_1_1_g_l_s_l_program_factory.html" title="Factory class for GLSL programs. " alt="" coords="588,14113,813,14139"/>
+<area shape="rect" id="node205" href="$class_ogre_1_1_g_l_s_l_e_s_cg_program_factory.html" title="Factory class for GLSL ES programs. " alt="" coords="591,14163,810,14190"/>
+<area shape="rect" id="node206" href="$class_ogre_1_1_g_l_s_l_e_s_program_factory.html" title="Factory class for GLSL ES programs. " alt="" coords="599,14214,802,14241"/>
+<area shape="rect" id="node207" href="$class_ogre_1_1_g_l_s_l_shader_factory.html" title="Factory class for GLSL shaders. " alt="" coords="613,13894,789,13921"/>
+<area shape="rect" id="node208" href="$class_ogre_1_1_unified_high_level_gpu_program_factory.html" title="Factory class for Unified programs. " alt="" coords="610,13945,791,13987"/>
+<area shape="rect" id="node212" href="$class_ogre_1_1_pbs_material.html" title="Ogre::PbsMaterial" alt="" coords="637,14265,764,14291"/>
+<area shape="rect" id="node226" href="$class_ogre_1_1_numeric_key_frame.html" title="Specialised KeyFrame which stores any numeric value. " alt="" coords="617,3258,784,3285"/>
+<area shape="rect" id="node227" href="$class_ogre_1_1_transform_key_frame.html" title="Specialised KeyFrame which stores a full transform. " alt="" coords="612,3309,789,3335"/>
+<area shape="rect" id="node228" href="$class_ogre_1_1_vertex_morph_key_frame.html" title="Specialised KeyFrame which stores absolute vertex positions for a complete buffer, designed to be interpolated with other keys in the same track. " alt="" coords="605,3157,797,3183"/>
+<area shape="rect" id="node229" href="$class_ogre_1_1_vertex_pose_key_frame.html" title="Specialised KeyFrame which references a Mesh::Pose at a certain influence level, which stores offsets..." alt="" coords="607,3207,794,3234"/>
+<area shape="rect" id="node231" href="$class_ogre_1_1_distance_lod_strategy_base.html" title="Level of detail strategy based on distance from camera. " alt="" coords="595,10369,806,10395"/>
+<area shape="rect" id="node234" href="$class_ogre_1_1_pixel_count_lod_strategy_base.html" title="Abstract base class for level of detail strategy based on pixel count approximations from bounding sp..." alt="" coords="589,10617,812,10643"/>
+<area shape="rect" id="node232" href="$class_ogre_1_1_distance_lod_box_strategy.html" title="Level of detail strategy based on distance from camera to an object&#39;s bounding box. " alt="" coords="882,10863,1085,10890"/>
+<area shape="rect" id="node233" href="$class_ogre_1_1_distance_lod_sphere_strategy.html" title="Level of detail strategy based on distance from camera to an object&#39;s bounding sphere. " alt="" coords="873,10914,1094,10941"/>
+<area shape="rect" id="node235" href="$class_ogre_1_1_absolute_pixel_count_lod_strategy.html" title="Ogre::AbsolutePixelCount\lLodStrategy" alt="" coords="897,10965,1070,11007"/>
+<area shape="rect" id="node236" href="$class_ogre_1_1_screen_ratio_pixel_count_lod_strategy.html" title="Ogre::ScreenRatioPixelCount\lLodStrategy" alt="" coords="886,11031,1081,11072"/>
+<area shape="rect" id="node244" href="$class_ogre_1_1_billboard_chain.html" title="Allows the rendering of a chain of connected billboards. " alt="" coords="629,1065,772,1091"/>
+<area shape="rect" id="node246" href="$class_ogre_1_1_billboard_set.html" title="A collection of billboards (faces which are always facing the given direction) with the same (default..." alt="" coords="637,1014,765,1041"/>
+<area shape="rect" id="node247" href="$class_ogre_1_1_entity.html" title="Defines an instance of a discrete, movable object based on a Mesh. " alt="" coords="655,791,747,818"/>
+<area shape="rect" id="node248" href="$class_ogre_1_1_frustum.html" title="A frustum represents a pyramid, capped at the near and far end which is used to represent either a vi..." alt="" coords="647,1283,754,1310"/>
+<area shape="rect" id="node250" href="$class_ogre_1_1_instance_batch.html" title="InstanceBatch forms part of the new Instancing system This is an abstract class that must be derived ..." alt="" coords="629,893,772,919"/>
+<area shape="rect" id="node256" href="$class_ogre_1_1_instanced_entity.html" title="Ogre::InstancedEntity" alt="" coords="626,441,775,467"/>
+<area shape="rect" id="node257" href="$class_ogre_1_1_instanced_geometry_1_1_batch_instance.html" title="The details of a topological BatchInstance which is the highest level of partitioning for this class..." alt="" coords="615,492,787,533"/>
+<area shape="rect" id="node258" href="$class_ogre_1_1_light.html" title="Representation of a dynamic light source in the scene. " alt="" coords="657,558,744,585"/>
+<area shape="rect" id="node259" href="$class_ogre_1_1_manual_object.html" title="Class providing a much simplified interface to generating manual objects with custom geometry..." alt="" coords="631,609,770,635"/>
+<area shape="rect" id="node260" href="$class_ogre_1_1_movable_plane.html" title="Definition of a Plane that may be attached to a node, and the derived details of it retrieved simply..." alt="" coords="631,390,771,417"/>
+<area shape="rect" id="node261" href="$class_ogre_1_1_particle_system.html" title="Class defining particle system based special effects. " alt="" coords="627,842,774,869"/>
+<area shape="rect" id="node262" href="$class_ogre_1_1_simple_renderable.html" title="Simple implementation of MovableObject and Renderable for single&#45;part custom objects. " alt="" coords="619,963,783,990"/>
+<area shape="rect" id="node267" href="$class_ogre_1_1_static_geometry_1_1_region.html" title="The details of a topological region which is the highest level of partitioning for this class..." alt="" coords="626,660,775,701"/>
+<area shape="rect" id="node268" href="$class_ogre_1_1_terrain_quad_tree_node_1_1_movable.html" title="MovableObject implementation to provide the hook to the scene. " alt="" coords="607,725,794,767"/>
+<area shape="rect" id="node245" href="$class_ogre_1_1_ribbon_trail.html" title="Subclass of BillboardChain which automatically leaves a trail behind one or more Node instances..." alt="" coords="921,1173,1045,1199"/>
+<area shape="rect" id="node249" href="$class_ogre_1_1_camera.html" title="A viewpoint from which the scene will be rendered. " alt="" coords="931,1283,1035,1310"/>
+<area shape="rect" id="node251" href="$class_ogre_1_1_base_instance_batch_v_t_f.html" title="Instancing implementation using vertex texture through Vertex Texture Fetch (VTF) This implementation..." alt="" coords="885,798,1082,825"/>
+<area shape="rect" id="node254" href="$class_ogre_1_1_instance_batch_h_w.html" title="This is technique requires true instancing hardware support. " alt="" coords="901,849,1066,875"/>
+<area shape="rect" id="node255" href="$class_ogre_1_1_instance_batch_shader.html" title="This is the same technique the old &quot;InstancedGeometry&quot; implementation used (with improvements). " alt="" coords="892,899,1075,926"/>
+<area shape="rect" id="node252" href="$class_ogre_1_1_instance_batch_h_w___v_t_f.html" title="Instancing implementation using vertex texture through Vertex Texture Fetch (VTF) and hardware instan..." alt="" coords="1157,823,1355,850"/>
+<area shape="rect" id="node253" href="$class_ogre_1_1_instance_batch_v_t_f.html" title="Ogre::InstanceBatchVTF" alt="" coords="1173,773,1339,799"/>
+<area shape="rect" id="node263" href="$class_ogre_1_1_instanced_geometry_1_1_geometry_bucket.html" title="A GeometryBucket is a the lowest level bucket where geometry with the same vertex &amp; index format is s..." alt="" coords="897,951,1069,992"/>
+<area shape="rect" id="node264" href="$class_ogre_1_1_rectangle2_d.html" title="Allows the rendering of a simple 2D rectangle This class renders a simple 2D rectangle; this rectangl..." alt="" coords="916,1017,1051,1043"/>
+<area shape="rect" id="node265" href="$class_ogre_1_1_volume_1_1_chunk.html" title="A single volume chunk mesh. " alt="" coords="909,1334,1057,1361"/>
+<area shape="rect" id="node266" href="$class_ogre_1_1_wire_bounding_box.html" title="Allows the rendering of a wireframe bounding box. " alt="" coords="902,1067,1065,1094"/>
+<area shape="rect" id="node270" href="$class_ogre_1_1_billboard_chain_factory.html" title="Factory object for creating BillboardChain instances. " alt="" coords="607,3461,794,3487"/>
+<area shape="rect" id="node271" href="$class_ogre_1_1_billboard_set_factory.html" title="Factory object for creating BillboardSet instances. " alt="" coords="615,3511,787,3538"/>
+<area shape="rect" id="node272" href="$class_ogre_1_1_entity_factory.html" title="Factory object for creating Entity instances. " alt="" coords="633,3562,769,3589"/>
+<area shape="rect" id="node273" href="$class_ogre_1_1_light_factory.html" title="Factory object for creating Light instances. " alt="" coords="635,3613,766,3639"/>
+<area shape="rect" id="node274" href="$class_ogre_1_1_manual_object_factory.html" title="Factory object for creating ManualObject instances. " alt="" coords="609,3663,792,3690"/>
+<area shape="rect" id="node275" href="$class_ogre_1_1_particle_system_factory.html" title="Factory object for creating ParticleSystem instances. " alt="" coords="605,3359,796,3386"/>
+<area shape="rect" id="node276" href="$class_ogre_1_1_ribbon_trail_factory.html" title="Factory object for creating RibbonTrail instances. " alt="" coords="617,3410,785,3437"/>
+<area shape="rect" id="node278" href="$class_ogre_1_1_bone.html" title="A bone in a skeleton. " alt="" coords="657,13793,745,13819"/>
+<area shape="rect" id="node280" href="$class_ogre_1_1_scene_node.html" title="Class representing a node in the scene graph. " alt="" coords="637,13742,764,13769"/>
+<area shape="rect" id="node279" href="$class_ogre_1_1_tag_point.html" title="A tagged point on a skeleton, which can be used to attach entities to on specific other entities..." alt="" coords="928,13491,1039,13518"/>
+<area shape="rect" id="node285" href="$class_ogre_1_1_overlay_container.html" title="A 2D element which contains other OverlayElement instances. " alt="" coords="621,2085,780,2111"/>
+<area shape="rect" id="node288" href="$class_ogre_1_1_text_area_overlay_element.html" title="This class implements an overlay element which contains simple unformatted text. " alt="" coords="599,2135,803,2162"/>
+<area shape="rect" id="node286" href="$class_ogre_1_1_panel_overlay_element.html" title="OverlayElement representing a flat, single&#45;material (or transparent) panel which can contain other el..." alt="" coords="891,2081,1075,2107"/>
+<area shape="rect" id="node287" href="$class_ogre_1_1_border_panel_overlay_element.html" title="A specialisation of the PanelOverlayElement to provide a panel with a border. " alt="" coords="1169,2072,1343,2113"/>
+<area shape="rect" id="node290" href="$class_ogre_1_1_border_panel_overlay_element_factory.html" title="Factory for creating BorderPanelOverlayElement instances. " alt="" coords="613,3845,788,3887"/>
+<area shape="rect" id="node291" href="$class_ogre_1_1_panel_overlay_element_factory.html" title="Factory for creating PanelOverlayElement instances. " alt="" coords="609,3715,793,3756"/>
+<area shape="rect" id="node292" href="$class_ogre_1_1_text_area_overlay_element_factory.html" title="Factory for creating TextAreaOverlayElement instances. " alt="" coords="599,3780,803,3821"/>
+<area shape="rect" id="node299" href="$class_ogre_1_1_simple_page_content_collection.html" title="Specialisation of PageContentCollection which just provides a simple list of PageContent instances..." alt="" coords="585,3911,817,3938"/>
+<area shape="rect" id="node301" href="$class_ogre_1_1_simple_page_content_collection_factory.html" title="Factory class for SimplePageContentCollection. " alt="" coords="585,3963,817,4004"/>
+<area shape="rect" id="node305" href="$class_ogre_1_1_terrain_paged_world_section.html" title="A world section which includes paged terrain. " alt="" coords="594,15418,807,15445"/>
+<area shape="rect" id="node307" href="$class_ogre_1_1_terrain_paging_1_1_section_factory.html" title="Ogre::TerrainPaging\l::SectionFactory" alt="" coords="631,4028,770,4069"/>
+<area shape="rect" id="node310" href="$class_ogre_1_1_grid2_d_page_strategy.html" title="Page strategy which loads new pages based on a regular 2D grid. " alt="" coords="611,4145,790,4171"/>
+<area shape="rect" id="node311" href="$class_ogre_1_1_grid3_d_page_strategy.html" title="Page strategy which loads new pages based on a regular 3D grid. " alt="" coords="611,4094,790,4121"/>
+<area shape="rect" id="node313" href="$class_ogre_1_1_grid2_d_page_strategy_data.html" title="Specialisation of PageStrategyData for Grid2DPageStrategy. " alt="" coords="597,4297,804,4323"/>
+<area shape="rect" id="node314" href="$class_ogre_1_1_grid3_d_page_strategy_data.html" title="Specialisation of PageStrategyData for Grid3DPageStrategy. " alt="" coords="597,4246,804,4273"/>
+<area shape="rect" id="node316" href="$class_ogre_1_1_particle_emitter.html" title="Abstract class defining the interface to be implemented by particle emitters. " alt="" coords="629,4195,773,4222"/>
+<area shape="rect" id="node322" href="$class_ogre_1_1_billboard_particle_renderer.html" title="Specialisation of ParticleSystemRenderer to render particles using a BillboardSet. " alt="" coords="598,2490,803,2517"/>
+<area shape="rect" id="node328" href="$class_ogre_1_1_d3_d11_plugin.html" title="Plugin instance for D3D11 Manager. " alt="" coords="633,4601,768,4627"/>
+<area shape="rect" id="node329" href="$class_ogre_1_1_d3_d9_plugin.html" title="Plugin instance for D3D9 Manager. " alt="" coords="637,4347,765,4374"/>
+<area shape="rect" id="node330" href="$class_ogre_1_1_g_l3_plus_plugin.html" title="Plugin instance for GL3Plus Manager. " alt="" coords="629,4398,773,4425"/>
+<area shape="rect" id="node331" href="$class_ogre_1_1_g_l_e_s2_plugin.html" title="Plugin instance for GL ES 2 Manager. " alt="" coords="633,4449,769,4475"/>
+<area shape="rect" id="node332" href="$class_ogre_1_1_g_l_e_s_plugin.html" title="Plugin instance for GL Manager. " alt="" coords="636,4499,765,4526"/>
+<area shape="rect" id="node333" href="$class_ogre_1_1_g_l_plugin.html" title="Plugin instance for GL Manager. " alt="" coords="645,4550,756,4577"/>
+<area shape="rect" id="node339" href="$class_ogre_1_1_property.html" title="Property instance with passthrough calls to a given object. " alt="" coords="631,4651,770,4678"/>
+<area shape="rect" id="node350" href="$class_ogre_1_1_d3_d11_render_system.html" title="Implementation of DirectX11 as a rendering system. " alt="" coords="607,6362,794,6389"/>
+<area shape="rect" id="node351" href="$class_ogre_1_1_d3_d9_render_system.html" title="Implementation of DirectX9 as a rendering system. " alt="" coords="611,4702,790,4729"/>
+<area shape="rect" id="node352" href="$class_ogre_1_1_g_l_e_s_render_system.html" title="Implementation of GL as a rendering system. " alt="" coords="611,4803,791,4830"/>
+<area shape="rect" id="node353" href="$class_ogre_1_1_g_l_render_system_common.html" title="Ogre::GLRenderSystemCommon" alt="" coords="593,4753,808,4779"/>
+<area shape="rect" id="node354" href="$class_ogre_1_1_g_l3_plus_render_system.html" title="Implementation of GL 3 as a rendering system. " alt="" coords="886,4753,1081,4779"/>
+<area shape="rect" id="node355" href="$class_ogre_1_1_g_l_e_s2_render_system.html" title="Implementation of GL ES 2.x as a rendering system. " alt="" coords="890,4803,1077,4830"/>
+<area shape="rect" id="node356" href="$class_ogre_1_1_g_l_render_system.html" title="Implementation of GL as a rendering system. " alt="" coords="902,4702,1065,4729"/>
+<area shape="rect" id="node361" href="$class_ogre_1_1_multi_render_target.html" title="This class represents a render target that renders to multiple RenderTextures at once. " alt="" coords="618,10019,783,10046"/>
+<area shape="rect" id="node368" href="$class_ogre_1_1_render_texture.html" title="This class represents a RenderTarget that renders to a Texture. " alt="" coords="629,9969,773,9995"/>
+<area shape="rect" id="node382" href="$class_ogre_1_1_render_window.html" title="Manages the target rendering window. " alt="" coords="627,9727,774,9754"/>
+<area shape="rect" id="node362" href="$class_ogre_1_1_d3_d11_multi_render_target.html" title="Ogre::D3D11MultiRenderTarget" alt="" coords="880,10442,1087,10469"/>
+<area shape="rect" id="node363" href="$class_ogre_1_1_d3_d9_multi_render_target.html" title="Ogre::D3D9MultiRenderTarget" alt="" coords="884,10493,1083,10519"/>
+<area shape="rect" id="node364" href="$class_ogre_1_1_g_l3_plus_f_b_o_multi_render_target.html" title="MultiRenderTarget for OpenGL. " alt="" coords="881,10544,1086,10585"/>
+<area shape="rect" id="node365" href="$class_ogre_1_1_g_l_e_s2_f_b_o_multi_render_target.html" title="MultiRenderTarget for GL ES 2.x. " alt="" coords="885,10260,1082,10301"/>
+<area shape="rect" id="node366" href="$class_ogre_1_1_g_l_e_s_f_b_o_multi_render_target.html" title="MultiRenderTarget for GL ES. " alt="" coords="888,10325,1079,10367"/>
+<area shape="rect" id="node367" href="$class_ogre_1_1_g_l_f_b_o_multi_render_target.html" title="MultiRenderTarget for GL. " alt="" coords="879,10391,1088,10418"/>
+<area shape="rect" id="node369" href="$class_ogre_1_1_d3_d11_render_texture.html" title="RenderTexture implementation for D3D11. " alt="" coords="891,9054,1076,9081"/>
+<area shape="rect" id="node370" href="$class_ogre_1_1_d3_d9_render_texture.html" title="RenderTexture implementation for D3D9. " alt="" coords="894,10107,1073,10134"/>
+<area shape="rect" id="node371" href="$class_ogre_1_1_g_l3_plus_render_texture.html" title="Base class for GL Render Textures. " alt="" coords="886,10158,1081,10185"/>
+<area shape="rect" id="node373" href="$class_ogre_1_1_g_l_e_s2_render_texture.html" title="Base class for GL Render Textures. " alt="" coords="890,10209,1077,10235"/>
+<area shape="rect" id="node375" href="$class_ogre_1_1_g_l_e_s_render_texture.html" title="Base class for GL Render Textures. " alt="" coords="894,10006,1073,10033"/>
+<area shape="rect" id="node378" href="$class_ogre_1_1_g_l_render_texture.html" title="Base class for GL Render Textures. " alt="" coords="903,10057,1064,10083"/>
+<area shape="rect" id="node372" href="$class_ogre_1_1_g_l3_plus_f_b_o_render_texture.html" title="RenderTexture for GL FBO. " alt="" coords="1145,10209,1367,10235"/>
+<area shape="rect" id="node374" href="$class_ogre_1_1_g_l_e_s2_copying_render_texture.html" title="Ogre::GLES2CopyingRender\lTexture" alt="" coords="1161,10260,1351,10301"/>
+<area shape="rect" id="node376" href="$class_ogre_1_1_g_l_e_s_copying_render_texture.html" title="Ogre::GLESCopyingRenderTexture" alt="" coords="1143,9955,1369,9982"/>
+<area shape="rect" id="node377" href="$class_ogre_1_1_g_l_e_s_p_b_render_texture.html" title="Ogre::GLESPBRenderTexture" alt="" coords="1157,10006,1355,10033"/>
+<area shape="rect" id="node379" href="$class_ogre_1_1_g_l_copying_render_texture.html" title="Ogre::GLCopyingRenderTexture" alt="" coords="1151,10107,1361,10134"/>
+<area shape="rect" id="node380" href="$class_ogre_1_1_g_l_f_b_o_render_texture.html" title="RenderTexture for GL FBO. " alt="" coords="1162,10158,1350,10185"/>
+<area shape="rect" id="node381" href="$class_ogre_1_1_g_l_p_b_render_texture.html" title="Ogre::GLPBRenderTexture" alt="" coords="1167,10057,1345,10083"/>
+<area shape="rect" id="node383" href="$class_ogre_1_1_cocoa_window.html" title="Ogre::CocoaWindow" alt="" coords="912,9702,1055,9729"/>
+<area shape="rect" id="node384" href="$class_ogre_1_1_d3_d11_render_window_base.html" title="Ogre::D3D11RenderWindowBase" alt="" coords="874,6299,1093,6326"/>
+<area shape="rect" id="node389" href="$class_ogre_1_1_d3_d9_render_window.html" title="Ogre::D3D9RenderWindow" alt="" coords="893,9753,1074,9779"/>
+<area shape="rect" id="node390" href="$class_ogre_1_1_e_a_g_l2_window.html" title="Ogre::EAGL2Window" alt="" coords="910,9803,1057,9830"/>
+<area shape="rect" id="node391" href="$class_ogre_1_1_e_a_g_l_window.html" title="Ogre::EAGLWindow" alt="" coords="913,9854,1053,9881"/>
+<area shape="rect" id="node392" href="$class_ogre_1_1_e_g_l_window.html" title="Ogre::EGLWindow" alt="" coords="918,9905,1049,9931"/>
+<area shape="rect" id="node397" href="$class_ogre_1_1_g_l_x_window.html" title="Ogre::GLXWindow" alt="" coords="918,9651,1049,9678"/>
+<area shape="rect" id="node398" href="$class_ogre_1_1_na_cl_window.html" title="Ogre::NaClWindow" alt="" coords="916,9955,1051,9982"/>
+<area shape="rect" id="node399" href="$class_ogre_1_1_win32_window.html" title="Ogre::Win32Window" alt="" coords="912,9601,1055,9627"/>
+<area shape="rect" id="node385" href="$class_ogre_1_1_d3_d11_render_window_image_source.html" title="Ogre::D3D11RenderWindowImage\lSource" alt="" coords="1144,6259,1368,6300"/>
+<area shape="rect" id="node386" href="$class_ogre_1_1_d3_d11_render_window_swap_chain_based.html" title="Ogre::D3D11RenderWindowSwap\lChainBased" alt="" coords="1145,6324,1367,6365"/>
+<area shape="rect" id="node387" href="$class_ogre_1_1_d3_d11_render_window_core_window.html" title="Ogre::D3D11RenderWindowCore\lWindow" alt="" coords="1421,6295,1637,6336"/>
+<area shape="rect" id="node388" href="$class_ogre_1_1_d3_d11_render_window_hwnd.html" title="Ogre::D3D11RenderWindowHwnd" alt="" coords="1417,6361,1640,6387"/>
+<area shape="rect" id="node393" href="$class_ogre_1_1_android_e_g_l_window.html" title="Ogre::AndroidEGLWindow" alt="" coords="1169,9753,1343,9779"/>
+<area shape="rect" id="node394" href="$class_ogre_1_1_emscripten_e_g_l_window.html" title="Ogre::EmscriptenEGLWindow" alt="" coords="1157,9803,1355,9830"/>
+<area shape="rect" id="node395" href="$class_ogre_1_1_win32_e_g_l_window.html" title="Ogre::Win32EGLWindow" alt="" coords="1172,9854,1340,9881"/>
+<area shape="rect" id="node396" href="$class_ogre_1_1_x11_e_g_l_window.html" title="Ogre::X11EGLWindow" alt="" coords="1179,9905,1333,9931"/>
+<area shape="rect" id="node401" href="$class_ogre_1_1_compositor.html" title="Class representing a Compositor object. " alt="" coords="638,2389,763,2415"/>
+<area shape="rect" id="node402" href="$class_ogre_1_1_font.html" title="Class representing a font in the system. " alt="" coords="659,2034,743,2061"/>
+<area shape="rect" id="node403" href="$class_ogre_1_1_gpu_program.html" title="Defines a program which runs on the GPU such as a vertex or fragment program. " alt="" coords="635,2287,766,2314"/>
+<area shape="rect" id="node419" href="$class_ogre_1_1_material.html" title="Class encapsulates rendering properties of an object. " alt="" coords="649,2338,753,2365"/>
+<area shape="rect" id="node420" href="$class_ogre_1_1_mesh.html" title="Resource holding data about 3D mesh. " alt="" coords="655,2237,746,2263"/>
+<area shape="rect" id="node422" href="$class_ogre_1_1_skeleton.html" title="A collection of Bone objects used to animate a skinned mesh. " alt="" coords="646,2186,755,2213"/>
+<area shape="rect" id="node424" href="$class_ogre_1_1_texture.html" title="Abstract class representing a Texture resource. " alt="" coords="649,2439,752,2466"/>
+<area shape="rect" id="node404" href="$class_ogre_1_1_d3_d9_gpu_program.html" title="Direct3D implementation of a few things common to low&#45;level vertex &amp; fragment programs. " alt="" coords="901,5529,1066,5555"/>
+<area shape="rect" id="node407" href="$class_ogre_1_1_g_l_e_s2_gpu_program.html" title="Generalised low&#45;level GL program, can be applied to multiple types (eg ARB and NV) ..." alt="" coords="897,2238,1070,2265"/>
+<area shape="rect" id="node409" href="$class_ogre_1_1_g_l_gpu_program.html" title="Generalised low&#45;level GL program, can be applied to multiple types (eg ARB and NV) ..." alt="" coords="909,2289,1057,2315"/>
+<area shape="rect" id="node413" href="$class_ogre_1_1_high_level_gpu_program.html" title="Abstract base class representing a high&#45;level program (a vertex or fragment program). " alt="" coords="889,2390,1078,2417"/>
+<area shape="rect" id="node405" href="$class_ogre_1_1_d3_d9_gpu_fragment_program.html" title="Direct3D implementation of low&#45;level fragment programs. " alt="" coords="1146,5554,1366,5581"/>
+<area shape="rect" id="node406" href="$class_ogre_1_1_d3_d9_gpu_vertex_program.html" title="Direct3D implementation of low&#45;level vertex programs. " alt="" coords="1155,5503,1357,5530"/>
+<area shape="rect" id="node408" href="$class_ogre_1_1_g_l_s_l_e_s_gpu_program.html" title="GLSL ES low level compiled shader object &#45; this class is used to get at the linked program object and..." alt="" coords="1165,2138,1347,2165"/>
+<area shape="rect" id="node410" href="$class_ogre_1_1_g_l_arb_gpu_program.html" title="Specialisation of the GL low&#45;level program for ARB programs. " alt="" coords="1172,2189,1340,2215"/>
+<area shape="rect" id="node411" href="$class_ogre_1_1_g_l_gpu_nvparse_program.html" title="Ogre::GLGpuNvparseProgram" alt="" coords="1157,2239,1355,2266"/>
+<area shape="rect" id="node412" href="$class_ogre_1_1_g_l_s_l_1_1_g_l_s_l_gpu_program.html" title="GLSL low level compiled shader object &#45; this class is used to get at the linked program object and pr..." alt="" coords="1153,2290,1359,2317"/>
+<area shape="rect" id="node414" href="$class_ogre_1_1_d3_d11_h_l_s_l_program.html" title="Specialization of HighLevelGpuProgram to provide support for D3D11 High&#45;Level Shader Language (HLSL)..." alt="" coords="1165,3871,1347,3898"/>
+<area shape="rect" id="node415" href="$class_ogre_1_1_d3_d9_h_l_s_l_program.html" title="Specialisation of HighLevelGpuProgram to provide support for D3D9 High&#45;Level Shader Language (HLSL)..." alt="" coords="1169,2509,1343,2535"/>
+<area shape="rect" id="node416" href="$class_ogre_1_1_g_l_s_l_1_1_g_l_s_l_program.html" title="Specialisation of HighLevelGpuProgram to provide support for OpenGL Shader Language (GLSL)..." alt="" coords="1165,2341,1347,2367"/>
+<area shape="rect" id="node417" href="$class_ogre_1_1_g_l_s_l_shader.html" title="Specialisation of HighLevelGpuProgram to encapsulate shader objects obtained from compiled shaders wr..." alt="" coords="1190,2391,1322,2418"/>
+<area shape="rect" id="node418" href="$class_ogre_1_1_unified_high_level_gpu_program.html" title="Specialisation of HighLevelGpuProgram which just delegates its implementation to one other high level..." alt="" coords="1165,2443,1347,2484"/>
+<area shape="rect" id="node421" href="$class_ogre_1_1_patch_mesh.html" title="Patch specialisation of Mesh. " alt="" coords="921,2187,1045,2214"/>
+<area shape="rect" id="node423" href="$class_ogre_1_1_skeleton_instance.html" title="A SkeletonInstance is a single instance of a Skeleton used by a world object. " alt="" coords="904,2137,1063,2163"/>
+<area shape="rect" id="node425" href="$class_ogre_1_1_d3_d11_texture.html" title="Specialisation of Texture for D3D11. " alt="" coords="912,4983,1055,5010"/>
+<area shape="rect" id="node426" href="$class_ogre_1_1_d3_d9_texture.html" title="Ogre::D3D9Texture" alt="" coords="915,5679,1051,5706"/>
+<area shape="rect" id="node427" href="$class_ogre_1_1_g_l3_plus_texture.html" title="Ogre::GL3PlusTexture" alt="" coords="907,2441,1059,2467"/>
+<area shape="rect" id="node428" href="$class_ogre_1_1_g_l_texture.html" title="Ogre::GLTexture" alt="" coords="924,2491,1043,2518"/>
+<area shape="rect" id="node432" href="$class_ogre_1_1_compositor_manager.html" title="Class for managing Compositor settings for Ogre. " alt="" coords="613,1470,788,1497"/>
+<area shape="rect" id="node433" href="$class_ogre_1_1_font_manager.html" title="Manages Font resources, parsing .fontdef files and generally organising them. " alt="" coords="633,1550,768,1577"/>
+<area shape="rect" id="node434" href="$class_ogre_1_1_gpu_program_manager.html" title="Ogre::GpuProgramManager" alt="" coords="610,1601,791,1627"/>
+<area shape="rect" id="node441" href="$class_ogre_1_1_high_level_gpu_program_manager.html" title="This ResourceManager manages high&#45;level vertex and fragment programs. " alt="" coords="606,1749,795,1791"/>
+<area shape="rect" id="node442" href="$class_ogre_1_1_material_manager.html" title="Class for managing Material settings for Ogre. " alt="" coords="623,1815,778,1842"/>
+<area shape="rect" id="node443" href="$class_ogre_1_1_mesh_manager.html" title="Handles the management of mesh resources. " alt="" coords="631,1983,771,2010"/>
+<area shape="rect" id="node444" href="$class_ogre_1_1_skeleton_manager.html" title="Handles the management of skeleton resources. " alt="" coords="621,1866,780,1893"/>
+<area shape="rect" id="node445" href="$class_ogre_1_1_texture_manager.html" title="Class for loading &amp; managing textures. " alt="" coords="625,1698,777,1725"/>
+<area shape="rect" id="node435" href="$class_ogre_1_1_d3_d11_gpu_program_manager.html" title="Ogre::D3D11GpuProgramManager" alt="" coords="872,1491,1095,1518"/>
+<area shape="rect" id="node436" href="$class_ogre_1_1_d3_d9_gpu_program_manager.html" title="Ogre::D3D9GpuProgramManager" alt="" coords="876,1542,1091,1569"/>
+<area shape="rect" id="node437" href="$class_ogre_1_1_g_l_e_s2_gpu_program_manager.html" title="Ogre::GLES2GpuProgramManager" alt="" coords="872,1593,1095,1619"/>
+<area shape="rect" id="node438" href="$class_ogre_1_1_g_l_e_s_gpu_program_manager.html" title="Ogre::GLESGpuProgramManager" alt="" coords="875,1643,1091,1670"/>
+<area shape="rect" id="node439" href="$class_ogre_1_1_g_l_gpu_program_manager.html" title="Ogre::GLGpuProgramManager" alt="" coords="884,1390,1083,1417"/>
+<area shape="rect" id="node440" href="$class_ogre_1_1_g_l_s_l_shader_manager.html" title="Ogre::GLSLShaderManager" alt="" coords="892,1441,1075,1467"/>
+<area shape="rect" id="node446" href="$class_ogre_1_1_d3_d11_texture_manager.html" title="Ogre::D3D11TextureManager" alt="" coords="887,1795,1080,1822"/>
+<area shape="rect" id="node447" href="$class_ogre_1_1_d3_d9_texture_manager.html" title="Ogre::D3D9TextureManager" alt="" coords="890,1846,1077,1873"/>
+<area shape="rect" id="node448" href="$class_ogre_1_1_g_l3_plus_texture_manager.html" title="GL3Plus&#45;specific implementation of a TextureManager. " alt="" coords="882,1897,1085,1923"/>
+<area shape="rect" id="node449" href="$class_ogre_1_1_g_l_e_s2_texture_manager.html" title="GL ES&#45;specific implementation of a TextureManager. " alt="" coords="886,1947,1081,1974"/>
+<area shape="rect" id="node450" href="$class_ogre_1_1_g_l_e_s_texture_manager.html" title="GL ES&#45;specific implementation of a TextureManager. " alt="" coords="890,1694,1077,1721"/>
+<area shape="rect" id="node451" href="$class_ogre_1_1_g_l_texture_manager.html" title="GL&#45;specific implementation of a TextureManager. " alt="" coords="899,1745,1068,1771"/>
+<area shape="rect" id="node457" href="$class_ogre_1_1_r_t_shader_1_1_function_invocation.html" title="A class that represents function invocation code from shader based program function. " alt="" coords="613,4855,788,4896"/>
+<area shape="rect" id="node460" href="$class_ogre_1_1_r_t_shader_1_1_const_parameter.html" title="Helper template which is the base for our ConstParameters. " alt="" coords="591,4972,811,5013"/>
+<area shape="rect" id="node461" href="$class_ogre_1_1_r_t_shader_1_1_uniform_parameter.html" title="Uniform parameter class. " alt="" coords="585,5038,816,5065"/>
+<area shape="rect" id="node465" href="$class_ogre_1_1_r_t_shader_1_1_c_g_program_processor.html" title="CG Language program processor class. " alt="" coords="603,5220,798,5261"/>
+<area shape="rect" id="node466" href="$class_ogre_1_1_r_t_shader_1_1_g_l_s_l_e_s_program_processor.html" title="GLSL ES Language program processor class. " alt="" coords="588,5285,813,5327"/>
+<area shape="rect" id="node467" href="$class_ogre_1_1_r_t_shader_1_1_g_l_s_l_program_processor.html" title="GLSL Language program processor class. " alt="" coords="597,5089,804,5131"/>
+<area shape="rect" id="node468" href="$class_ogre_1_1_r_t_shader_1_1_h_l_s_l_program_processor.html" title="CG Language program processor class. " alt="" coords="597,5155,804,5196"/>
+<area shape="rect" id="node471" href="$class_ogre_1_1_r_t_shader_1_1_c_g_program_writer.html" title="CG target language writer implementation. " alt="" coords="603,5481,798,5523"/>
+<area shape="rect" id="node472" href="$class_ogre_1_1_r_t_shader_1_1_g_l_s_l_e_s_program_writer.html" title="GLSL ES target language writer implementation. " alt="" coords="588,5547,813,5588"/>
+<area shape="rect" id="node473" href="$class_ogre_1_1_r_t_shader_1_1_g_l_s_l_program_writer.html" title="GLSL target language writer implementation. " alt="" coords="597,5351,804,5392"/>
+<area shape="rect" id="node474" href="$class_ogre_1_1_r_t_shader_1_1_h_l_s_l_program_writer.html" title="HLSL target language writer implementation. " alt="" coords="597,5416,804,5457"/>
+<area shape="rect" id="node476" href="$class_ogre_1_1_r_t_shader_1_1_shader_program_writer_c_g_factory.html" title="CG program writer factory implementation. " alt="" coords="593,5795,808,5836"/>
+<area shape="rect" id="node477" href="$class_ogre_1_1_r_t_shader_1_1_shader_program_writer_g_l_s_l_e_s_factory.html" title="GLSL ES program writer factory implementation. " alt="" coords="593,5860,808,5901"/>
+<area shape="rect" id="node478" href="$class_ogre_1_1_r_t_shader_1_1_shader_program_writer_g_l_s_l_factory.html" title="GLSL program writer factory implementation. " alt="" coords="593,5612,808,5653"/>
+<area shape="rect" id="node479" href="$class_ogre_1_1_r_t_shader_1_1_shader_program_writer_h_l_s_l_factory.html" title="HLSL program writer factory implementation. " alt="" coords="593,5729,808,5771"/>
+<area shape="rect" id="node482" href="$class_ogre_1_1_r_t_shader_1_1_target_render_state.html" title="This is the target render state. " alt="" coords="599,5925,803,5967"/>
+<area shape="rect" id="node492" href="$class_ogre_1_1_r_t_shader_1_1_f_f_p_colour.html" title="Colour sub render state implementation of the Fixed Function Pipeline. " alt="" coords="607,6093,795,6119"/>
+<area shape="rect" id="node493" href="$class_ogre_1_1_r_t_shader_1_1_f_f_p_fog.html" title="Fog sub render state implementation of the Fixed Function Pipeline. " alt="" coords="615,6194,787,6221"/>
+<area shape="rect" id="node494" href="$class_ogre_1_1_r_t_shader_1_1_f_f_p_lighting.html" title="Lighting sub render state implementation of the Fixed Function Pipeline. " alt="" coords="603,5991,798,6018"/>
+<area shape="rect" id="node495" href="$class_ogre_1_1_r_t_shader_1_1_f_f_p_texturing.html" title="Texturing sub render state implementation of the Fixed Function Pipeline. " alt="" coords="599,6042,803,6069"/>
+<area shape="rect" id="node496" href="$class_ogre_1_1_r_t_shader_1_1_f_f_p_transform.html" title="Transform sub render state implementation of the Fixed Function Pipeline. " alt="" coords="596,6143,805,6170"/>
+<area shape="rect" id="node498" href="$class_ogre_1_1_r_t_shader_1_1_f_f_p_colour_factory.html" title="A factory that enables creation of FFPColour instances. " alt="" coords="607,6544,795,6585"/>
+<area shape="rect" id="node499" href="$class_ogre_1_1_r_t_shader_1_1_f_f_p_fog_factory.html" title="A factory that enables creation of FFPFog instances. " alt="" coords="593,6245,809,6271"/>
+<area shape="rect" id="node500" href="$class_ogre_1_1_r_t_shader_1_1_f_f_p_lighting_factory.html" title="A factory that enables creation of FFPLighting instances. " alt="" coords="603,6296,798,6337"/>
+<area shape="rect" id="node501" href="$class_ogre_1_1_r_t_shader_1_1_f_f_p_texturing_factory.html" title="A factory that enables creation of FFPTexturing instances. " alt="" coords="599,6413,803,6455"/>
+<area shape="rect" id="node502" href="$class_ogre_1_1_r_t_shader_1_1_f_f_p_transform_factory.html" title="A factory that enables creation of FFPTransform instances. " alt="" coords="596,6479,805,6520"/>
+<area shape="rect" id="node504" href="$class_ogre_1_1_default_scene_manager.html" title="Default scene manager. " alt="" coords="607,6610,794,6637"/>
+<area shape="rect" id="node508" href="$class_ogre_1_1_default_scene_manager_factory.html" title="Factory for default scene manager. " alt="" coords="607,6661,794,6703"/>
+<area shape="rect" id="node510" href="$class_ogre_1_1_intersection_scene_query.html" title="Separate SceneQuery class to query for pairs of objects which are possibly intersecting one another..." alt="" coords="601,11487,800,11514"/>
+<area shape="rect" id="node512" href="$class_ogre_1_1_ray_scene_query.html" title="Specialises the SceneQuery class for querying along a ray. " alt="" coords="623,11542,778,11569"/>
+<area shape="rect" id="node514" href="$class_ogre_1_1_region_scene_query.html" title="Abstract class defining a query which returns single results from a region. " alt="" coords="615,11974,786,12001"/>
+<area shape="rect" id="node511" href="$class_ogre_1_1_default_intersection_scene_query.html" title="Default implementation of IntersectionSceneQuery. " alt="" coords="899,11479,1067,11520"/>
+<area shape="rect" id="node513" href="$class_ogre_1_1_default_ray_scene_query.html" title="Default implementation of RaySceneQuery. " alt="" coords="885,11545,1081,11571"/>
+<area shape="rect" id="node515" href="$class_ogre_1_1_axis_aligned_box_scene_query.html" title="Specialises the SceneQuery class for querying within an axis aligned box. " alt="" coords="890,11967,1077,12008"/>
+<area shape="rect" id="node517" href="$class_ogre_1_1_plane_bounded_volume_list_scene_query.html" title="Specialises the SceneQuery class for querying within a plane&#45;bounded volume. " alt="" coords="890,12032,1077,12073"/>
+<area shape="rect" id="node519" href="$class_ogre_1_1_sphere_scene_query.html" title="Specialises the SceneQuery class for querying within a sphere. " alt="" coords="898,11913,1069,11939"/>
+<area shape="rect" id="node516" href="$class_ogre_1_1_default_axis_aligned_box_scene_query.html" title="Default implementation of AxisAlignedBoxSceneQuery. " alt="" coords="1171,11967,1341,12008"/>
+<area shape="rect" id="node518" href="$class_ogre_1_1_default_plane_bounded_volume_list_scene_query.html" title="Default implementation of PlaneBoundedVolumeListSceneQuery. " alt="" coords="1164,12032,1348,12073"/>
+<area shape="rect" id="node520" href="$class_ogre_1_1_default_sphere_scene_query.html" title="Default implementation of SphereSceneQuery. " alt="" coords="1167,11901,1345,11943"/>
+<area shape="rect" id="node528" href="$class_ogre_1_1_composition_pass_translator.html" title="Ogre::CompositionPassTranslator" alt="" coords="591,8043,810,8070"/>
+<area shape="rect" id="node529" href="$class_ogre_1_1_composition_target_pass_translator.html" title="Ogre::CompositionTargetPass\lTranslator" alt="" coords="601,7288,800,7329"/>
+<area shape="rect" id="node530" href="$class_ogre_1_1_composition_technique_translator.html" title="Ogre::CompositionTechnique\lTranslator" alt="" coords="605,7353,796,7395"/>
+<area shape="rect" id="node531" href="$class_ogre_1_1_compositor_translator.html" title="Ogre::CompositorTranslator" alt="" coords="609,7419,792,7446"/>
+<area shape="rect" id="node532" href="$class_ogre_1_1_gpu_program_translator.html" title="Ogre::GpuProgramTranslator" alt="" coords="606,7470,795,7497"/>
+<area shape="rect" id="node533" href="$class_ogre_1_1_material_translator.html" title="Ogre::MaterialTranslator" alt="" coords="619,7521,782,7547"/>
+<area shape="rect" id="node534" href="$class_ogre_1_1_particle_affector_translator.html" title="Ogre::ParticleAffectorTranslator" alt="" coords="597,7571,804,7598"/>
+<area shape="rect" id="node535" href="$class_ogre_1_1_particle_emitter_translator.html" title="Ogre::ParticleEmitterTranslator" alt="" coords="599,7622,802,7649"/>
+<area shape="rect" id="node536" href="$class_ogre_1_1_particle_system_translator.html" title="Ogre::ParticleSystemTranslator" alt="" coords="598,7673,803,7699"/>
+<area shape="rect" id="node537" href="$class_ogre_1_1_pass_translator.html" title="Ogre::PassTranslator" alt="" coords="627,7723,774,7750"/>
+<area shape="rect" id="node538" href="$class_ogre_1_1_r_t_shader_1_1_s_g_script_translator.html" title="This class responsible for translating core features of the RT Shader System for Ogre material script..." alt="" coords="611,7775,790,7816"/>
+<area shape="rect" id="node539" href="$class_ogre_1_1_shared_params_translator.html" title="Ogre::SharedParamsTranslator" alt="" coords="599,7841,802,7867"/>
+<area shape="rect" id="node540" href="$class_ogre_1_1_technique_translator.html" title="Ogre::TechniqueTranslator" alt="" coords="613,7891,789,7918"/>
+<area shape="rect" id="node541" href="$class_ogre_1_1_texture_source_translator.html" title="Ogre::TextureSourceTranslator" alt="" coords="600,7942,801,7969"/>
+<area shape="rect" id="node542" href="$class_ogre_1_1_texture_unit_translator.html" title="Ogre::TextureUnitTranslator" alt="" coords="609,7993,793,8019"/>
+<area shape="rect" id="node544" href="$class_ogre_1_1_builtin_script_translator_manager.html" title="This class manages the builtin translators. " alt="" coords="607,8160,794,8201"/>
+<area shape="rect" id="node545" href="$class_ogre_1_1_r_t_shader_1_1_shader_generator_1_1_s_g_script_translator_manager.html" title="Shader generator ScriptTranslatorManager sub class. " alt="" coords="589,8095,812,8136"/>
+<area shape="rect" id="node547" href="$class_ogre_1_1_gpu_named_constants_serializer.html" title="Simple class for loading / saving GpuNamedConstants. " alt="" coords="581,8429,820,8455"/>
+<area shape="rect" id="node548" href="$class_ogre_1_1_lod_config_serializer.html" title="Ogre::LodConfigSerializer" alt="" coords="615,8277,786,8303"/>
+<area shape="rect" id="node549" href="$class_ogre_1_1_mesh_serializer.html" title="Class for serialising mesh data to/from an OGRE .mesh file. " alt="" coords="629,8327,773,8354"/>
+<area shape="rect" id="node550" href="$class_ogre_1_1_mesh_serializer_impl.html" title="Internal implementation of Mesh reading / writing for the latest version of the .mesh format..." alt="" coords="616,8479,785,8506"/>
+<area shape="rect" id="node557" href="$class_ogre_1_1_skeleton_serializer.html" title="Class for serialising skeleton data to/from an OGRE .skeleton file. " alt="" coords="619,8378,782,8405"/>
+<area shape="rect" id="node551" href="$class_ogre_1_1_mesh_serializer_impl__v1__8.html" title="Class for providing backwards&#45;compatibility for loading version 1.8 of the .mesh format. " alt="" coords="881,7031,1085,7058"/>
+<area shape="rect" id="node552" href="$class_ogre_1_1_mesh_serializer_impl__v1__41.html" title="Class for providing backwards&#45;compatibility for loading version 1.41 of the .mesh format..." alt="" coords="1171,7024,1341,7065"/>
+<area shape="rect" id="node553" href="$class_ogre_1_1_mesh_serializer_impl__v1__4.html" title="Class for providing backwards&#45;compatibility for loading version 1.4 of the .mesh format. " alt="" coords="1427,7031,1631,7058"/>
+<area shape="rect" id="node554" href="$class_ogre_1_1_mesh_serializer_impl__v1__3.html" title="Class for providing backwards&#45;compatibility for loading version 1.3 of the .mesh format. " alt="" coords="1688,7031,1892,7058"/>
+<area shape="rect" id="node555" href="$class_ogre_1_1_mesh_serializer_impl__v1__2.html" title="Class for providing backwards&#45;compatibility for loading version 1.2 of the .mesh format. " alt="" coords="1940,7031,2144,7058"/>
+<area shape="rect" id="node556" href="$class_ogre_1_1_mesh_serializer_impl__v1__1.html" title="Class for providing backwards&#45;compatibility for loading version 1.1 of the .mesh format. " alt="" coords="2192,7031,2396,7058"/>
+<area shape="rect" id="node563" href="$class_ogre_1_1_default_shadow_camera_setup.html" title="Implements default shadow camera setup. " alt="" coords="604,8596,797,8637"/>
+<area shape="rect" id="node564" href="$class_ogre_1_1_focused_shadow_camera_setup.html" title="Implements the uniform shadow mapping algorithm in focused mode. " alt="" coords="600,8661,801,8703"/>
+<area shape="rect" id="node567" href="$class_ogre_1_1_plane_optimal_shadow_camera_setup.html" title="Implements the plane optimal shadow camera algorithm. " alt="" coords="609,8531,792,8572"/>
+<area shape="rect" id="node565" href="$class_ogre_1_1_li_s_p_s_m_shadow_camera_setup.html" title="Implements the Light Space Perspective Shadow Mapping Algorithm. " alt="" coords="884,7083,1083,7124"/>
+<area shape="rect" id="node566" href="$class_ogre_1_1_p_s_s_m_shadow_camera_setup.html" title="Parallel Split Shadow Map (PSSM) shadow camera setup. " alt="" coords="1145,7090,1367,7117"/>
+<area shape="rect" id="node569" href="$class_ogre_1_1_entity_1_1_entity_shadow_renderable.html" title="Nested class to allow entity shadows. " alt="" coords="610,2853,791,2895"/>
+<area shape="rect" id="node570" href="$class_ogre_1_1_manual_object_1_1_manual_object_section_shadow_renderable.html" title="Nested class to allow shadows. " alt="" coords="600,2709,801,2765"/>
+<area shape="rect" id="node571" href="$class_ogre_1_1_static_geometry_1_1_l_o_d_bucket_1_1_l_o_d_shadow_renderable.html" title="Nested class to allow shadows. " alt="" coords="577,2788,824,2829"/>
+<area shape="rect" id="node589" href="$class_ogre_1_1_terrain_1_1_default_gpu_buffer_allocator.html" title="Standard implementation of a buffer allocator which re&#45;uses buffers. " alt="" coords="615,10187,787,10228"/>
+<area shape="rect" id="node591" href="$class_ogre_1_1_terrain_auto_update_lod_by_distance.html" title="Class implementing TerrainAutoUpdateLod interface. " alt="" coords="607,10252,795,10293"/>
+<area shape="rect" id="node598" href="$class_ogre_1_1_terrain_material_generator_a.html" title="A TerrainMaterialGenerator which can cope with normal mapped, specular mapped terrain. " alt="" coords="595,10318,806,10345"/>
+<area shape="rect" id="node600" href="$class_ogre_1_1_terrain_material_generator_a_1_1_s_m2_profile.html" title="Shader model 2 profile target. " alt="" coords="600,10420,801,10461"/>
+<area shape="rect" id="node602" href="$class_ogre_1_1_terrain_material_generator_a_1_1_s_m2_profile_1_1_shader_helper_cg.html" title="Utility class to help with generating shaders for Cg / HLSL. " alt="" coords="597,10864,804,10905"/>
+<area shape="rect" id="node604" href="$class_ogre_1_1_terrain_material_generator_a_1_1_s_m2_profile_1_1_shader_helper_g_l_s_l.html" title="Utility class to help with generating shaders for GLSL. " alt="" coords="589,10668,812,10709"/>
+<area shape="rect" id="node605" href="$class_ogre_1_1_terrain_material_generator_a_1_1_s_m2_profile_1_1_shader_helper_g_l_s_l_e_s.html" title="Utility class to help with generating shaders for GLSL ES. " alt="" coords="580,10733,821,10775"/>
+<area shape="rect" id="node603" href="$class_ogre_1_1_terrain_material_generator_a_1_1_s_m2_profile_1_1_shader_helper_h_l_s_l.html" title="Ogre::TerrainMaterialGenerator\lA::SM2Profile::ShaderHelperHLSL" alt="" coords="872,11096,1095,11137"/>
+<area shape="rect" id="node620" href="$class_ogre_1_1_d3_d11_vertex_declaration.html" title="Specialisation of VertexDeclaration for D3D11. " alt="" coords="882,5059,1085,5086"/>
+<area shape="rect" id="node621" href="$class_ogre_1_1_d3_d9_vertex_declaration.html" title="Specialisation of VertexDeclaration for D3D9. " alt="" coords="885,5931,1081,5958"/>
+<area shape="rect" id="node622" href="$class_ogre_1_1_g_l_e_s2_vertex_declaration.html" title="Specialisation of VertexDeclaration for OpenGL ES 2 Vertex Array Object usage. " alt="" coords="881,4921,1085,4947"/>
+<area shape="rect" id="node627" href="$class_ogre_1_1_volume_1_1_iso_surface_m_c.html" title="Marching Cubes implementation like at http://local.wasp.uwa.edu.au/~pbourke/geometry/polygonise/. " alt="" coords="603,12275,798,12302"/>
+<area shape="rect" id="node631" href="$class_ogre_1_1_default_work_queue_base.html" title="Base for a general purpose request / response style background work queue. " alt="" coords="601,12681,800,12707"/>
+<area shape="rect" id="node632" href="$class_ogre_1_1_default_work_queue.html" title="Implementation of a general purpose request / response style background work queue. " alt="" coords="899,12681,1068,12707"/>
+<area shape="rect" id="node635" href="$class_ogre_1_1_animable_object.html" title="Defines an interface to classes which have one or more AnimableValue instances to expose..." alt="" coords="47,558,198,585"/>
+<area shape="rect" id="node636" href="$class_ogre_1_1_animation_container.html" title="An animation container interface, which allows generic access to sibling animations. " alt="" coords="323,2186,495,2213"/>
+<area shape="rect" id="node637" href="$struct_ogre_1_1_box.html" title="Structure used to define a box in a 3&#45;D integer space. " alt="" coords="82,14303,163,14330"/>
+<area shape="rect" id="node638" href="$class_ogre_1_1_camera_1_1_listener.html" title="Listener interface so you can be notified of Camera events. " alt="" coords="329,1233,488,1259"/>
+<area shape="rect" id="node639" href="$class_ogre_1_1_page_manager_1_1_event_router.html" title="Ogre::PageManager::\lEventRouter" alt="" coords="627,1167,774,1208"/>
+<area shape="rect" id="node640" href="$class_ogre_1_1_d3_d11_device_resource.html" title="Represents a Direct3D rendering resource. " alt="" coords="603,5678,799,5705"/>
+<area shape="rect" id="node641" href="$class_ogre_1_1_d3_d11_device_resource_manager.html" title="Singleton that is used to propagate device state changed notifications. " alt="" coords="311,7379,507,7420"/>
+<area shape="rect" id="node642" href="$class_ogre_1_1_d3_d9_resource.html" title="Represents a Direct3D rendering resource. " alt="" coords="627,8226,775,8253"/>
+<area shape="rect" id="node643" href="$class_ogre_1_1_frame_listener.html" title="A interface class defining a listener which can be used to receive notifications of frame events..." alt="" coords="338,1334,479,1361"/>
+<area shape="rect" id="node644" href="$class_ogre_bites_1_1_application_context.html" title="OgreBites::ApplicationContext" alt="" coords="601,1385,800,1411"/>
+<area shape="rect" id="node645" href="$class_ogre_1_1_g_l_context.html" title="Class that encapsulates an GL context. " alt="" coords="62,381,183,407"/>
+<area shape="rect" id="node646" href="$class_ogre_1_1_e_a_g_l_e_s2_context.html" title="Ogre::EAGLES2Context" alt="" coords="327,305,491,331"/>
+<area shape="rect" id="node647" href="$class_ogre_1_1_e_g_l_context.html" title="Ogre::EGLContext" alt="" coords="343,254,474,281"/>
+<area shape="rect" id="node651" href="$class_ogre_1_1_g_l_x_context.html" title="Ogre::GLXContext" alt="" coords="343,355,474,382"/>
+<area shape="rect" id="node652" href="$class_ogre_1_1_na_cl_g_l_context.html" title="Ogre::NaClGLContext" alt="" coords="333,457,484,483"/>
+<area shape="rect" id="node653" href="$class_ogre_1_1_win32_context.html" title="Ogre::Win32Context" alt="" coords="338,406,479,433"/>
+<area shape="rect" id="node648" href="$class_ogre_1_1_android_e_g_l_context.html" title="Ogre::AndroidEGLContext" alt="" coords="613,203,788,230"/>
+<area shape="rect" id="node649" href="$class_ogre_1_1_win32_e_g_l_context.html" title="Ogre::Win32EGLContext" alt="" coords="617,254,784,281"/>
+<area shape="rect" id="node650" href="$class_ogre_1_1_x11_e_g_l_context.html" title="Ogre::X11EGLContext" alt="" coords="624,305,777,331"/>
+<area shape="rect" id="node654" href="$class_ogre_1_1_g_l_e_s_context.html" title="Class that encapsulates an GL context. " alt="" coords="53,254,192,281"/>
+<area shape="rect" id="node655" href="$class_ogre_1_1_e_a_g_l_e_s_context.html" title="Ogre::EAGLESContext" alt="" coords="330,203,487,230"/>
+<area shape="rect" id="node656" href="$class_ogre_1_1_g_l_p_buffer.html" title="An off&#45;screen rendering context. " alt="" coords="63,15729,182,15755"/>
+<area shape="rect" id="node657" href="$class_ogre_1_1_g_l_x_p_buffer.html" title="Ogre::GLXPBuffer" alt="" coords="345,15726,473,15753"/>
+<area shape="rect" id="node658" href="$class_ogre_1_1_win32_p_buffer.html" title="Ogre::Win32PBuffer" alt="" coords="339,15777,478,15803"/>
+<area shape="rect" id="node659" href="$class_ogre_1_1_hardware_buffer_licensee.html" title="Abstract interface representing a &#39;licensee&#39; of a hardware buffer copy. " alt="" coords="22,15083,223,15110"/>
+<area shape="rect" id="node660" href="$class_ogre_1_1_intersection_scene_query_listener.html" title="Alternative listener class for dealing with IntersectionSceneQuery. " alt="" coords="309,11055,508,11096"/>
+<area shape="rect" id="node661" href="$class_ogre_1_1_log_listener.html" title="Ogre::LogListener" alt="" coords="60,2878,185,2905"/>
+<area shape="rect" id="node662" href="$class_ogre_1_1_manual_resource_loader.html" title="Interface describing a manual resource loader. " alt="" coords="311,2034,506,2061"/>
+<area shape="rect" id="node663" href="$class_ogre_1_1_material_serializer_1_1_listener.html" title="Class that allows listening in on the various stages of material serialization process. " alt="" coords="43,14835,202,14876"/>
+<area shape="rect" id="node664" href="$class_ogre_1_1_node_1_1_listener.html" title="Listener which gets called back on Node events. " alt="" coords="629,1233,772,1259"/>
+<area shape="rect" id="node665" href="$class_ogre_1_1_plane.html" title="Defines a plane in 3D space. " alt="" coords="363,507,454,534"/>
+<area shape="rect" id="node666" href="$class_ogre_1_1_ray_scene_query_listener.html" title="Alternative listener class for dealing with RaySceneQuery. " alt="" coords="309,11273,509,11299"/>
+<area shape="rect" id="node667" href="$class_ogre_1_1_renderable.html" title="Abstract class defining the interface all renderable objects must implement. " alt="" coords="61,2439,185,2466"/>
+<area shape="rect" id="node668" href="$class_ogre_1_1_render_object_listener.html" title="Abstract interface which classes must implement if they wish to receive events from the scene manager..." alt="" coords="31,3326,215,3353"/>
+<area shape="rect" id="node669" href="$class_ogre_1_1_render_queue_listener.html" title="Abstract interface which classes must implement if they wish to receive events from the render queue..." alt="" coords="31,731,215,758"/>
+<area shape="rect" id="node670" href="$class_ogre_1_1_compositor_chain_1_1_r_q_listener.html" title="Render queue listener used to set up rendering events. " alt="" coords="329,711,488,752"/>
+<area shape="rect" id="node671" href="$class_ogre_1_1_render_system_1_1_listener.html" title="Defines a listener on the custom events that this render system can raise. " alt="" coords="50,808,195,849"/>
+<area shape="rect" id="node672" href="$class_ogre_1_1_render_target_listener.html" title="A interface class defining a listener which can be used to receive notifications of RenderTarget even..." alt="" coords="31,609,214,635"/>
+<area shape="rect" id="node673" href="$class_ogre_1_1_resource_1_1_listener.html" title="Ogre::Resource::Listener" alt="" coords="39,1482,207,1509"/>
+<area shape="rect" id="node674" href="$class_ogre_1_1_scene_manager_1_1_listener.html" title="Class that allows listening in on the various stages of SceneManager processing, so that custom behav..." alt="" coords="50,3395,195,3436"/>
+<area shape="rect" id="node675" href="$class_ogre_1_1_scene_query_listener.html" title="This optional class allows you to receive per&#45;result callbacks from SceneQuery executions instead of ..." alt="" coords="35,13538,211,13565"/>
+<area shape="rect" id="node676" href="$class_ogre_1_1_script_loader.html" title="Abstract class defining the interface used by classes which wish to perform script loading to define ..." alt="" coords="57,137,188,163"/>
+<area shape="rect" id="node677" href="$class_ogre_1_1_shadow_caster.html" title="This class defines the interface that must be implemented by shadow casters. " alt="" coords="51,507,195,534"/>
+<area shape="rect" id="node678" href="$class_ogre_1_1_string_interface.html" title="Class defining the common interface which classes can use to present a reflection&#45;style, self&#45;defining parameter set to callers. " alt="" coords="51,2237,194,2263"/>
+<area shape="rect" id="node679" href="$class_ogre_1_1_external_texture_source.html" title="IMPORTANT: Plugins must override default dictionary name! Base class that texture plugins derive from..." alt="" coords="313,979,504,1006"/>
+<area shape="rect" id="node680" href="$class_ogre_1_1_viewport_1_1_listener.html" title="Listener interface so you can be notified of Viewport changes. " alt="" coords="41,659,204,686"/>
+<area shape="rect" id="node681" href="$class_ogre_1_1_window_event_listener.html" title="Ogre::WindowEventListener" alt="" coords="316,1385,501,1411"/>
+<area shape="rect" id="node682" href="$class_ogre_1_1_work_queue_1_1_request_handler.html" title="Interface definition for a handler of requests. " alt="" coords="31,15368,215,15409"/>
+<area shape="rect" id="node683" href="$class_ogre_1_1_lod_work_queue_worker.html" title="Processes requests. " alt="" coords="313,15671,504,15698"/>
+<area shape="rect" id="node684" href="$class_ogre_1_1_volume_1_1_chunk_handler.html" title="Handles the WorkQueue management of the chunks. " alt="" coords="312,15469,505,15495"/>
+<area shape="rect" id="node685" href="$class_ogre_1_1_work_queue_1_1_response_handler.html" title="Interface definition for a handler of responses. " alt="" coords="25,15303,220,15344"/>
+<area shape="rect" id="node686" href="$class_ogre_1_1_lod_work_queue_injector.html" title="Injects the output of a request to the mesh in a thread safe way. " alt="" coords="313,15570,504,15597"/>
+<area shape="rect" id="node687" href="$class_ogre_1_1_pool.html" title="Ogre::Pool\&lt; ResourcePtr \&gt;" alt="" coords="32,14537,213,14563"/>
+<area shape="rect" id="node689" href="$class_ogre_1_1_singleton.html" title="Ogre::Singleton\&lt; Absolute\lPixelCountLodStrategy \&gt;" alt="" coords="613,10551,788,10592"/>
+<area shape="rect" id="node690" href="$class_ogre_1_1_singleton.html" title="Ogre::Singleton\&lt; Archive\lManager \&gt;" alt="" coords="39,2929,207,2971"/>
+<area shape="rect" id="node691" href="$class_ogre_1_1_singleton.html" title="Ogre::Singleton\&lt; Compositor\lManager \&gt;" alt="" coords="313,1436,504,1477"/>
+<area shape="rect" id="node692" href="$class_ogre_1_1_singleton.html" title="Ogre::Singleton\&lt; Controller\lManager \&gt;" alt="" coords="33,2995,213,3036"/>
+<area shape="rect" id="node693" href="$class_ogre_1_1_singleton.html" title="Ogre::Singleton\&lt; D3D11Stereo\lDriverBridge \&gt;" alt="" coords="21,3060,224,3101"/>
+<area shape="rect" id="node694" href="$class_ogre_1_1_singleton.html" title="Ogre::Singleton\&lt; D3D9Stereo\lDriverBridge \&gt;" alt="" coords="25,3125,221,3167"/>
+<area shape="rect" id="node695" href="$class_ogre_1_1_singleton.html" title="Ogre::Singleton\&lt; Distance\lLodBoxStrategy \&gt;" alt="" coords="613,10121,789,10163"/>
+<area shape="rect" id="node696" href="$class_ogre_1_1_singleton.html" title="Ogre::Singleton\&lt; Distance\lLodSphereStrategy \&gt;" alt="" coords="613,10485,789,10527"/>
+<area shape="rect" id="node697" href="$class_ogre_1_1_singleton.html" title="Ogre::Singleton\&lt; DynLibManager \&gt;" alt="" coords="9,3191,236,3218"/>
+<area shape="rect" id="node698" href="$class_ogre_1_1_singleton.html" title="Ogre::Singleton\&lt; External\lTextureSourceManager \&gt;" alt="" coords="37,3243,209,3284"/>
+<area shape="rect" id="node699" href="$class_ogre_1_1_singleton.html" title="Ogre::Singleton\&lt; FFPRender\lStateBuilder \&gt;" alt="" coords="27,14639,218,14680"/>
+<area shape="rect" id="node700" href="$class_ogre_1_1_singleton.html" title="Ogre::Singleton\&lt; FontManager \&gt;" alt="" coords="303,1553,515,1579"/>
+<area shape="rect" id="node701" href="$class_ogre_1_1_singleton.html" title="Ogre::Singleton\&lt; GpuProgram\lManager \&gt;" alt="" coords="310,1604,507,1645"/>
+<area shape="rect" id="node702" href="$class_ogre_1_1_singleton.html" title="Ogre::Singleton\&lt; Hardware\lBufferManager \&gt;" alt="" coords="319,13661,499,13703"/>
+<area shape="rect" id="node703" href="$class_ogre_1_1_singleton.html" title="Ogre::Singleton\&lt; HighLevel\lGpuProgramManager \&gt;" alt="" coords="317,1787,500,1828"/>
+<area shape="rect" id="node704" href="$class_ogre_1_1_singleton.html" title="Ogre::Singleton\&lt; LodStrategy\lManager \&gt;" alt="" coords="25,14187,220,14228"/>
+<area shape="rect" id="node705" href="$class_ogre_1_1_singleton.html" title="Ogre::Singleton\&lt; LodWork\lQueueInjector \&gt;" alt="" coords="35,15563,211,15604"/>
+<area shape="rect" id="node706" href="$class_ogre_1_1_singleton.html" title="Ogre::Singleton\&lt; LodWork\lQueueWorker \&gt;" alt="" coords="35,15663,211,15704"/>
+<area shape="rect" id="node707" href="$class_ogre_1_1_singleton.html" title="Ogre::Singleton\&lt; LogManager \&gt;" alt="" coords="19,14253,226,14279"/>
+<area shape="rect" id="node708" href="$class_ogre_1_1_singleton.html" title="Ogre::Singleton\&lt; Material\lManager \&gt;" alt="" coords="323,1852,494,1893"/>
+<area shape="rect" id="node709" href="$class_ogre_1_1_singleton.html" title="Ogre::Singleton\&lt; MeshManager \&gt;" alt="" coords="299,1983,518,2010"/>
+<area shape="rect" id="node710" href="$class_ogre_1_1_singleton.html" title="Ogre::Singleton\&lt; Overlay\lManager \&gt;" alt="" coords="38,5,207,47"/>
+<area shape="rect" id="node711" href="$class_ogre_1_1_singleton.html" title="Ogre::Singleton\&lt; Particle\lSystemManager \&gt;" alt="" coords="39,71,207,112"/>
+<area shape="rect" id="node712" href="$class_ogre_1_1_singleton.html" title="Ogre::Singleton\&lt; Profiler \&gt;" alt="" coords="34,14354,211,14381"/>
+<area shape="rect" id="node713" href="$class_ogre_1_1_singleton.html" title="Ogre::Singleton\&lt; Program\lManager \&gt;" alt="" coords="36,14704,209,14745"/>
+<area shape="rect" id="node714" href="$class_ogre_1_1_singleton.html" title="Ogre::Singleton\&lt; Program\lWriterManager \&gt;" alt="" coords="36,14769,209,14811"/>
+<area shape="rect" id="node715" href="$class_ogre_1_1_singleton.html" title="Ogre::Singleton\&lt; RenderSystem\lCapabilitiesManager \&gt;" alt="" coords="17,14405,228,14447"/>
+<area shape="rect" id="node716" href="$class_ogre_1_1_singleton.html" title="Ogre::Singleton\&lt; Resource\lBackgroundQueue \&gt;" alt="" coords="33,15200,213,15241"/>
+<area shape="rect" id="node717" href="$class_ogre_1_1_singleton.html" title="Ogre::Singleton\&lt; Resource\lGroupManager \&gt;" alt="" coords="33,14471,213,14512"/>
+<area shape="rect" id="node718" href="$class_ogre_1_1_singleton.html" title="Ogre::Singleton\&lt; Root \&gt;" alt="" coords="41,14587,205,14614"/>
+<area shape="rect" id="node719" href="$class_ogre_1_1_singleton.html" title="Ogre::Singleton\&lt; SceneManager\lEnumerator \&gt;" alt="" coords="17,14952,228,14993"/>
+<area shape="rect" id="node720" href="$class_ogre_1_1_singleton.html" title="Ogre::Singleton\&lt; ScreenRatio\lPixelCountLodStrategy \&gt;" alt="" coords="603,10799,799,10840"/>
+<area shape="rect" id="node721" href="$class_ogre_1_1_singleton.html" title="Ogre::Singleton\&lt; ScriptCompiler\lManager \&gt;" alt="" coords="17,188,228,229"/>
+<area shape="rect" id="node722" href="$class_ogre_1_1_singleton.html" title="Ogre::Singleton\&lt; ShaderGenerator \&gt;" alt="" coords="5,14901,240,14927"/>
+<area shape="rect" id="node723" href="$class_ogre_1_1_singleton.html" title="Ogre::Singleton\&lt; ShadowTexture\lManager \&gt;" alt="" coords="15,15017,230,15059"/>
+<area shape="rect" id="node724" href="$class_ogre_1_1_singleton.html" title="Ogre::Singleton\&lt; Skeleton\lManager \&gt;" alt="" coords="321,1917,496,1959"/>
+<area shape="rect" id="node725" href="$class_ogre_1_1_singleton.html" title="Ogre::Singleton\&lt; Terrain\lGlobalOptions \&gt;" alt="" coords="41,15135,205,15176"/>
+<area shape="rect" id="node726" href="$class_ogre_1_1_singleton.html" title="Ogre::Singleton\&lt; Texture\lManager \&gt;" alt="" coords="325,1669,493,1711"/>
+</map>

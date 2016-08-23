@@ -1,0 +1,19 @@
+<map id="OgreShaderFFPTexturing.h" name="OgreShaderFFPTexturing.h">
+<area shape="rect" id="node2" href="$_ogre_shader_prerequisites_8h.html" title="OgreShaderPrerequisites.h" alt="" coords="535,229,713,256"/>
+<area shape="rect" id="node44" href="$_ogre_shader_sub_render_state_8h.html" title="OgreShaderSubRenderState.h" alt="" coords="438,80,637,107"/>
+<area shape="rect" id="node48" href="$_ogre_render_system_8h.html" title="OgreRenderSystem.h" alt="" coords="662,304,810,331"/>
+<area shape="rect" id="node3" href="$_ogre_prerequisites_8h.html" title="OgrePrerequisites.h" alt="" coords="830,379,967,405"/>
+<area shape="rect" id="node43" href="$_ogre_common_8h.html" title="OgreCommon.h" alt="" coords="576,379,691,405"/>
+<area shape="rect" id="node4" href="$_ogre_platform_8h.html" title="OgrePlatform.h" alt="" coords="1095,453,1206,480"/>
+<area shape="rect" id="node7" href="$_ogre_std_headers_8h.html" title="OgreStdHeaders.h" alt="" coords="2387,453,2517,480"/>
+<area shape="rect" id="node37" href="$_ogre_memory_allocator_config_8h.html" title="This file configures Ogre&#39;s memory allocators. " alt="" coords="592,453,789,480"/>
+<area shape="rect" id="node5" href="$_ogre_config_8h.html" title="OgreConfig.h" alt="" coords="1101,528,1200,555"/>
+<area shape="rect" id="node38" href="$_ogre_memory_allocated_object_8h.html" title="OgreMemoryAllocatedObject.h" alt="" coords="776,528,976,555"/>
+<area shape="rect" id="node39" href="$_ogre_header_prefix_8h.html" title="OgreHeaderPrefix.h" alt="" coords="875,603,1013,629"/>
+<area shape="rect" id="node40" href="$_ogre_header_suffix_8h.html" title="OgreHeaderSuffix.h" alt="" coords="187,603,325,629"/>
+<area shape="rect" id="node41" href="$_ogre_memory_s_t_l_allocator_8h.html" title="OgreMemorySTLAllocator.h" alt="" coords="319,528,502,555"/>
+<area shape="rect" id="node42" href="$_ogre_memory_ned_pooling_8h.html" title="OgreMemoryNedPooling.h" alt="" coords="526,528,701,555"/>
+<area shape="rect" id="node45" href="$_ogre_shader_script_translator_8h.html" title="OgreShaderScriptTranslator.h" alt="" coords="349,155,544,181"/>
+<area shape="rect" id="node46" href="$_ogre_script_translator_8h.html" title="OgreScriptTranslator.h" alt="" coords="357,229,510,256"/>
+<area shape="rect" id="node47" href="$_ogre_script_compiler_8h.html" title="OgreScriptCompiler.h" alt="" coords="5,304,152,331"/>
+</map>

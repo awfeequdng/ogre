@@ -1,0 +1,21 @@
+<map id="OgreHighLevelGpuProgramManager.h" name="OgreHighLevelGpuProgramManager.h">
+<area shape="rect" id="node2" href="$_ogre_prerequisites_8h.html" title="OgrePrerequisites.h" alt="" coords="1231,379,1369,405"/>
+<area shape="rect" id="node38" href="$_ogre_header_prefix_8h.html" title="OgreHeaderPrefix.h" alt="" coords="3865,603,4002,629"/>
+<area shape="rect" id="node39" href="$_ogre_header_suffix_8h.html" title="OgreHeaderSuffix.h" alt="" coords="165,603,302,629"/>
+<area shape="rect" id="node40" href="$_ogre_resource_manager_8h.html" title="OgreResourceManager.h" alt="" coords="1211,80,1378,107"/>
+<area shape="rect" id="node43" href="$_ogre_singleton_8h.html" title="OgreSingleton.h" alt="" coords="1021,304,1136,331"/>
+<area shape="rect" id="node48" href="$_ogre_gpu_program_8h.html" title="OgreGpuProgram.h" alt="" coords="1657,155,1791,181"/>
+<area shape="rect" id="node3" href="$_ogre_platform_8h.html" title="OgrePlatform.h" alt="" coords="443,453,554,480"/>
+<area shape="rect" id="node6" href="$_ogre_std_headers_8h.html" title="OgreStdHeaders.h" alt="" coords="2196,453,2327,480"/>
+<area shape="rect" id="node36" href="$_ogre_memory_allocator_config_8h.html" title="This file configures Ogre&#39;s memory allocators. " alt="" coords="648,453,845,480"/>
+<area shape="rect" id="node4" href="$_ogre_config_8h.html" title="OgreConfig.h" alt="" coords="397,528,496,555"/>
+<area shape="rect" id="node37" href="$_ogre_memory_allocated_object_8h.html" title="OgreMemoryAllocatedObject.h" alt="" coords="520,528,720,555"/>
+<area shape="rect" id="node41" href="$_ogre_resource_8h.html" title="OgreResource.h" alt="" coords="1955,304,2072,331"/>
+<area shape="rect" id="node42" href="$_ogre_resource_group_manager_8h.html" title="OgreResourceGroupManager.h" alt="" coords="832,229,1035,256"/>
+<area shape="rect" id="node44" href="$_ogre_common_8h.html" title="OgreCommon.h" alt="" coords="252,379,367,405"/>
+<area shape="rect" id="node45" href="$_ogre_string_vector_8h.html" title="OgreStringVector.h" alt="" coords="1312,229,1445,256"/>
+<area shape="rect" id="node47" href="$_ogre_script_loader_8h.html" title="OgreScriptLoader.h" alt="" coords="1262,155,1397,181"/>
+<area shape="rect" id="node46" href="$_ogre_shared_ptr_8h.html" title="OgreSharedPtr.h" alt="" coords="1363,304,1482,331"/>
+<area shape="rect" id="node49" href="$_ogre_gpu_program_params_8h.html" title="OgreGpuProgramParams.h" alt="" coords="1520,229,1699,256"/>
+<area shape="rect" id="node50" href="$_ogre_vector3_8h.html" title="OgreVector3.h" alt="" coords="1773,229,1880,256"/>
+</map>

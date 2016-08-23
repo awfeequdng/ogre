@@ -1,0 +1,20 @@
+<map id="OgreCodec.h" name="OgreCodec.h">
+<area shape="rect" id="node2" href="$_ogre_prerequisites_8h.html" title="OgrePrerequisites.h" alt="" coords="3726,453,3863,480"/>
+<area shape="rect" id="node39" href="$_ogre_header_prefix_8h.html" title="OgreHeaderPrefix.h" alt="" coords="3851,677,3989,704"/>
+<area shape="rect" id="node40" href="$_ogre_header_suffix_8h.html" title="OgreHeaderSuffix.h" alt="" coords="322,677,459,704"/>
+<area shape="rect" id="node43" href="$_ogre_iterator_wrappers_8h.html" title="OgreIteratorWrappers.h" alt="" coords="1851,379,2010,405"/>
+<area shape="rect" id="node46" href="$_ogre_string_vector_8h.html" title="OgreStringVector.h" alt="" coords="3729,80,3863,107"/>
+<area shape="rect" id="node49" href="$_ogre_exception_8h.html" title="OgreException.h" alt="" coords="3585,304,3703,331"/>
+<area shape="rect" id="node3" href="$_ogre_platform_8h.html" title="OgrePlatform.h" alt="" coords="4203,528,4314,555"/>
+<area shape="rect" id="node7" href="$_ogre_std_headers_8h.html" title="OgreStdHeaders.h" alt="" coords="2172,528,2303,555"/>
+<area shape="rect" id="node37" href="$_ogre_memory_allocator_config_8h.html" title="This file configures Ogre&#39;s memory allocators. " alt="" coords="3696,528,3893,555"/>
+<area shape="rect" id="node4" href="$_ogre_config_8h.html" title="OgreConfig.h" alt="" coords="4216,603,4315,629"/>
+<area shape="rect" id="node38" href="$_ogre_memory_allocated_object_8h.html" title="OgreMemoryAllocatedObject.h" alt="" coords="3483,603,3683,629"/>
+<area shape="rect" id="node41" href="$_ogre_memory_s_t_l_allocator_8h.html" title="OgreMemorySTLAllocator.h" alt="" coords="3958,603,4141,629"/>
+<area shape="rect" id="node42" href="$_ogre_memory_ned_pooling_8h.html" title="OgreMemoryNedPooling.h" alt="" coords="3707,603,3882,629"/>
+<area shape="rect" id="node44" href="$_ogre_iterator_wrapper_8h.html" title="OgreIteratorWrapper.h" alt="" coords="94,603,245,629"/>
+<area shape="rect" id="node45" href="$_ogre_iterator_range_8h.html" title="OgreIteratorRange.h" alt="" coords="321,603,461,629"/>
+<area shape="rect" id="node47" href="$_ogre_shared_ptr_8h.html" title="OgreSharedPtr.h" alt="" coords="3783,155,3902,181"/>
+<area shape="rect" id="node50" href="$_ogre_string_8h.html" title="OgreString.h" alt="" coords="3694,379,3789,405"/>
+<area shape="rect" id="node48" href="$_ogre_atomic_scalar_8h.html" title="OgreAtomicScalar.h" alt="" coords="3773,229,3912,256"/>
+</map>

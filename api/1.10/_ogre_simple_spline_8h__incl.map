@@ -1,0 +1,19 @@
+<map id="OgreSimpleSpline.h" name="OgreSimpleSpline.h">
+<area shape="rect" id="node2" href="$_ogre_prerequisites_8h.html" title="OgrePrerequisites.h" alt="" coords="3086,379,3224,405"/>
+<area shape="rect" id="node39" href="$_ogre_header_prefix_8h.html" title="OgreHeaderPrefix.h" alt="" coords="3532,603,3669,629"/>
+<area shape="rect" id="node40" href="$_ogre_header_suffix_8h.html" title="OgreHeaderSuffix.h" alt="" coords="3281,603,3418,629"/>
+<area shape="rect" id="node43" href="$_ogre_matrix4_8h.html" title="OgreMatrix4.h" alt="" coords="3139,80,3243,107"/>
+<area shape="rect" id="node3" href="$_ogre_platform_8h.html" title="OgrePlatform.h" alt="" coords="876,453,986,480"/>
+<area shape="rect" id="node7" href="$_ogre_std_headers_8h.html" title="OgreStdHeaders.h" alt="" coords="1842,453,1972,480"/>
+<area shape="rect" id="node37" href="$_ogre_memory_allocator_config_8h.html" title="This file configures Ogre&#39;s memory allocators. " alt="" coords="3312,453,3510,480"/>
+<area shape="rect" id="node4" href="$_ogre_config_8h.html" title="OgreConfig.h" alt="" coords="44,528,143,555"/>
+<area shape="rect" id="node38" href="$_ogre_memory_allocated_object_8h.html" title="OgreMemoryAllocatedObject.h" alt="" coords="3112,528,3312,555"/>
+<area shape="rect" id="node41" href="$_ogre_memory_s_t_l_allocator_8h.html" title="OgreMemorySTLAllocator.h" alt="" coords="3638,528,3821,555"/>
+<area shape="rect" id="node42" href="$_ogre_memory_ned_pooling_8h.html" title="OgreMemoryNedPooling.h" alt="" coords="3388,528,3562,555"/>
+<area shape="rect" id="node44" href="$_ogre_matrix3_8h.html" title="OgreMatrix3.h" alt="" coords="3010,155,3114,181"/>
+<area shape="rect" id="node48" href="$_ogre_vector4_8h.html" title="OgreVector4.h" alt="" coords="3138,155,3244,181"/>
+<area shape="rect" id="node49" href="$_ogre_plane_8h.html" title="OgrePlane.h" alt="" coords="2890,155,2985,181"/>
+<area shape="rect" id="node45" href="$_ogre_vector3_8h.html" title="OgreVector3.h" alt="" coords="2996,229,3103,256"/>
+<area shape="rect" id="node46" href="$_ogre_quaternion_8h.html" title="OgreQuaternion.h" alt="" coords="2837,304,2961,331"/>
+<area shape="rect" id="node47" href="$_ogre_vector2_8h.html" title="OgreVector2.h" alt="" coords="2986,304,3092,331"/>
+</map>

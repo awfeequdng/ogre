@@ -1,0 +1,23 @@
+<map id="OgreCameraMan.h" name="OgreCameraMan.h">
+<area shape="rect" id="node2" href="$_ogre_bites_prerequisites_8h.html" title="OgreBitesPrerequisites.h" alt="" coords="1465,155,1631,181"/>
+<area shape="rect" id="node38" href="$_ogre_camera_8h.html" title="OgreCamera.h" alt="" coords="2188,80,2295,107"/>
+<area shape="rect" id="node47" href="$_ogre_scene_node_8h.html" title="OgreSceneNode.h" alt="" coords="2401,155,2530,181"/>
+<area shape="rect" id="node49" href="$_ogre_frame_listener_8h.html" title="OgreFrameListener.h" alt="" coords="1495,80,1639,107"/>
+<area shape="rect" id="node50" href="$_ogre_input_8h.html" title="OgreInput.h" alt="" coords="3235,453,3325,480"/>
+<area shape="rect" id="node3" href="$_ogre_prerequisites_8h.html" title="OgrePrerequisites.h" alt="" coords="1761,453,1898,480"/>
+<area shape="rect" id="node4" href="$_ogre_platform_8h.html" title="OgrePlatform.h" alt="" coords="646,528,757,555"/>
+<area shape="rect" id="node8" href="$_ogre_std_headers_8h.html" title="OgreStdHeaders.h" alt="" coords="1384,528,1515,555"/>
+<area shape="rect" id="node35" href="$_ogre_memory_allocator_config_8h.html" title="This file configures Ogre&#39;s memory allocators. " alt="" coords="1739,528,1936,555"/>
+<area shape="rect" id="node5" href="$_ogre_config_8h.html" title="OgreConfig.h" alt="" coords="5,603,104,629"/>
+<area shape="rect" id="node36" href="$_ogre_header_prefix_8h.html" title="OgreHeaderPrefix.h" alt="" coords="2901,603,3038,629"/>
+<area shape="rect" id="node37" href="$_ogre_header_suffix_8h.html" title="OgreHeaderSuffix.h" alt="" coords="2521,603,2658,629"/>
+<area shape="rect" id="node39" href="$_ogre_common_8h.html" title="OgreCommon.h" alt="" coords="2843,453,2957,480"/>
+<area shape="rect" id="node40" href="$_ogre_frustum_8h.html" title="OgreFrustum.h" alt="" coords="2187,155,2296,181"/>
+<area shape="rect" id="node41" href="$_ogre_movable_object_8h.html" title="OgreMovableObject.h" alt="" coords="2027,229,2175,256"/>
+<area shape="rect" id="node42" href="$_ogre_axis_aligned_box_8h.html" title="OgreAxisAlignedBox.h" alt="" coords="1809,304,1962,331"/>
+<area shape="rect" id="node44" href="$_ogre_renderable_8h.html" title="OgreRenderable.h" alt="" coords="2482,304,2609,331"/>
+<area shape="rect" id="node46" href="$_ogre_vertex_index_data_8h.html" title="OgreVertexIndexData.h" alt="" coords="2241,379,2399,405"/>
+<area shape="rect" id="node43" href="$_ogre_matrix4_8h.html" title="OgreMatrix4.h" alt="" coords="2011,379,2115,405"/>
+<area shape="rect" id="node45" href="$_ogre_user_object_bindings_8h.html" title="OgreUserObjectBindings.h" alt="" coords="2577,379,2754,405"/>
+<area shape="rect" id="node48" href="$_ogre_node_8h.html" title="OgreNode.h" alt="" coords="2499,229,2591,256"/>
+</map>

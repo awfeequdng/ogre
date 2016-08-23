@@ -1,0 +1,23 @@
+<map id="OgreSceneManagerEnumerator.h" name="OgreSceneManagerEnumerator.h">
+<area shape="rect" id="node2" href="$_ogre_root_8h.html" title="OgreRoot.h" alt="" coords="1048,80,1137,107"/>
+<area shape="rect" id="node4" href="$_ogre_8h.html" title="Ogre.h" alt="" coords="539,155,601,181"/>
+<area shape="rect" id="node3" href="$gtk_2_ogre_config_dialog_imp_8h.html" title="OgreConfigDialogImp.h" alt="" coords="641,155,800,181"/>
+<area shape="rect" id="node15" href="$_o_s_x_2_ogre_config_dialog_imp_8h.html" title="OgreConfigDialogImp.h" alt="" coords="824,155,983,181"/>
+<area shape="rect" id="node16" href="$_ogre_static_plugin_loader_8h.html" title="OgreStaticPluginLoader.h" alt="" coords="1007,155,1178,181"/>
+<area shape="rect" id="node17" href="$_ogre_trays_8h.html" title="OgreTrays.h" alt="" coords="1203,155,1297,181"/>
+<area shape="rect" id="node18" href="$_ogre_d3_d11_mappings_8h.html" title="OgreD3D11Mappings.h" alt="" coords="1321,155,1480,181"/>
+<area shape="rect" id="node21" href="$_ogre_e_a_g_l_view_controller_8h.html" title="OgreEAGLViewController.h" alt="" coords="1505,155,1686,181"/>
+<area shape="rect" id="node22" href="$_ogre_e_a_g_l2_view_controller_8h.html" title="OgreEAGL2ViewController.h" alt="" coords="1711,155,1899,181"/>
+<area shape="rect" id="node5" href="$_ogre_hlms_datablock_8h.html" title="OgreHlmsDatablock.h" alt="" coords="129,304,280,331"/>
+<area shape="rect" id="node6" href="$_ogre_hlms_material_base_8h.html" title="OgreHlmsMaterialBase.h" alt="" coords="82,379,250,405"/>
+<area shape="rect" id="node7" href="$_ogre_hlms_pbs_material_8h.html" title="OgreHlmsPbsMaterial.h" alt="" coords="5,453,167,480"/>
+<area shape="rect" id="node8" href="$_ogre_hlms_property_map_8h.html" title="OgreHlmsPropertyMap.h" alt="" coords="357,229,524,256"/>
+<area shape="rect" id="node9" href="$_ogre_hlms_shader_generator_8h.html" title="OgreHlmsShaderGenerator.h" alt="" coords="467,304,657,331"/>
+<area shape="rect" id="node10" href="$_ogre_hlms_shader_template_8h.html" title="OgreHlmsShaderTemplate.h" alt="" coords="146,229,333,256"/>
+<area shape="rect" id="node11" href="$_ogre_hlms_manager_8h.html" title="OgreHlmsManager.h" alt="" coords="816,304,959,331"/>
+<area shape="rect" id="node12" href="$_ogre_hlms_shader_manager_8h.html" title="OgreHlmsShaderManager.h" alt="" coords="861,229,1044,256"/>
+<area shape="rect" id="node13" href="$_ogre_hlms_shader_common_8h.html" title="OgreHlmsShaderCommon.h" alt="" coords="599,229,786,256"/>
+<area shape="rect" id="node14" href="$_ogre_hlms_shader_pieces_manager_8h.html" title="OgreHlmsShaderPiecesManager.h" alt="" coords="1068,229,1291,256"/>
+<area shape="rect" id="node19" href="$_ogre_d3_d11_render_system_8h.html" title="OgreD3D11RenderSystem.h" alt="" coords="1315,229,1505,256"/>
+<area shape="rect" id="node20" href="$_ogre_d3_d11_plugin_8h.html" title="OgreD3D11Plugin.h" alt="" coords="1341,304,1479,331"/>
+</map>

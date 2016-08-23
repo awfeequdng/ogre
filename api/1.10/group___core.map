@@ -1,0 +1,15 @@
+<map id="Core" name="Core">
+<area shape="rect" id="node1" href="$group___materials.html" title="Materials" alt="" coords="121,5,196,32"/>
+<area shape="rect" id="node3" href="$group___math.html" title="Math" alt="" coords="133,56,184,83"/>
+<area shape="rect" id="node4" href="$group___animation.html" title="Animation" alt="" coords="119,107,199,133"/>
+<area shape="rect" id="node5" href="$group___render_system.html" title="RenderSystem" alt="" coords="104,157,213,184"/>
+<area shape="rect" id="node6" href="$group___image.html" title="Image" alt="" coords="129,208,188,235"/>
+<area shape="rect" id="node7" href="$group___scene.html" title="Scene" alt="" coords="129,259,188,285"/>
+<area shape="rect" id="node8" href="$group___resources.html" title="Resources" alt="" coords="116,309,201,336"/>
+<area shape="rect" id="node9" href="$group___l_o_d.html" title="LOD" alt="" coords="134,360,183,387"/>
+<area shape="rect" id="node10" href="$group___general.html" title="General" alt="" coords="125,411,192,437"/>
+<area shape="rect" id="node11" href="$group___effects.html" title="Effects" alt="" coords="127,461,191,488"/>
+<area shape="rect" id="node12" href="$group___overlays.html" title="Overlays" alt="" coords="121,512,196,539"/>
+<area shape="rect" id="node13" href="$group___r_t_shader.html" title="RTShader" alt="" coords="118,563,199,589"/>
+<area shape="rect" id="node14" href="$group___memory.html" title="Memory" alt="" coords="124,613,193,640"/>
+</map>

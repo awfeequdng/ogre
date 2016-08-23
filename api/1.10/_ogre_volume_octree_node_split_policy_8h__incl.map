@@ -1,0 +1,17 @@
+<map id="OgreVolumeOctreeNodeSplitPolicy.h" name="OgreVolumeOctreeNodeSplitPolicy.h">
+<area shape="rect" id="node2" href="$_ogre_vector3_8h.html" title="OgreVector3.h" alt="" coords="3101,95,3207,121"/>
+<area shape="rect" id="node46" href="$_ogre_volume_prerequisites_8h.html" title="OgreVolumePrerequisites.h" alt="" coords="3238,244,3419,271"/>
+<area shape="rect" id="node3" href="$_ogre_prerequisites_8h.html" title="OgrePrerequisites.h" alt="" coords="3077,319,3215,345"/>
+<area shape="rect" id="node43" href="$_ogre_quaternion_8h.html" title="OgreQuaternion.h" alt="" coords="2908,169,3032,196"/>
+<area shape="rect" id="node45" href="$_ogre_vector2_8h.html" title="OgreVector2.h" alt="" coords="3057,169,3163,196"/>
+<area shape="rect" id="node4" href="$_ogre_platform_8h.html" title="OgrePlatform.h" alt="" coords="861,393,972,420"/>
+<area shape="rect" id="node7" href="$_ogre_std_headers_8h.html" title="OgreStdHeaders.h" alt="" coords="1827,393,1958,420"/>
+<area shape="rect" id="node37" href="$_ogre_memory_allocator_config_8h.html" title="This file configures Ogre&#39;s memory allocators. " alt="" coords="3221,393,3418,420"/>
+<area shape="rect" id="node5" href="$_ogre_config_8h.html" title="OgreConfig.h" alt="" coords="30,468,129,495"/>
+<area shape="rect" id="node38" href="$_ogre_memory_allocated_object_8h.html" title="OgreMemoryAllocatedObject.h" alt="" coords="3150,468,3350,495"/>
+<area shape="rect" id="node39" href="$_ogre_header_prefix_8h.html" title="OgreHeaderPrefix.h" alt="" coords="3181,543,3319,569"/>
+<area shape="rect" id="node40" href="$_ogre_header_suffix_8h.html" title="OgreHeaderSuffix.h" alt="" coords="3519,543,3656,569"/>
+<area shape="rect" id="node41" href="$_ogre_memory_s_t_l_allocator_8h.html" title="OgreMemorySTLAllocator.h" alt="" coords="3625,468,3808,495"/>
+<area shape="rect" id="node42" href="$_ogre_memory_ned_pooling_8h.html" title="OgreMemoryNedPooling.h" alt="" coords="3375,468,3549,495"/>
+<area shape="rect" id="node44" href="$_ogre_math_8h.html" title="OgreMath.h" alt="" coords="3018,244,3109,271"/>
+</map>

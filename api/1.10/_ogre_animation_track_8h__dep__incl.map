@@ -1,0 +1,28 @@
+<map id="OgreAnimationTrack.h" name="OgreAnimationTrack.h">
+<area shape="rect" id="node2" href="$_ogre_animation_8h.html" title="OgreAnimation.h" alt="" coords="1287,80,1405,107"/>
+<area shape="rect" id="node3" href="$_ogre_8h.html" title="Ogre.h" alt="" coords="1269,304,1330,331"/>
+<area shape="rect" id="node14" href="$_ogre_mesh_8h.html" title="OgreMesh.h" alt="" coords="967,155,1061,181"/>
+<area shape="rect" id="node27" href="$_ogre_sub_mesh_8h.html" title="OgreSubMesh.h" alt="" coords="1456,80,1572,107"/>
+<area shape="rect" id="node25" href="$_ogre_skeleton_8h.html" title="OgreSkeleton.h" alt="" coords="1337,155,1449,181"/>
+<area shape="rect" id="node4" href="$_ogre_hlms_datablock_8h.html" title="OgreHlmsDatablock.h" alt="" coords="929,453,1080,480"/>
+<area shape="rect" id="node5" href="$_ogre_hlms_material_base_8h.html" title="OgreHlmsMaterialBase.h" alt="" coords="882,528,1050,555"/>
+<area shape="rect" id="node6" href="$_ogre_hlms_pbs_material_8h.html" title="OgreHlmsPbsMaterial.h" alt="" coords="805,603,967,629"/>
+<area shape="rect" id="node7" href="$_ogre_hlms_property_map_8h.html" title="OgreHlmsPropertyMap.h" alt="" coords="1156,379,1323,405"/>
+<area shape="rect" id="node8" href="$_ogre_hlms_shader_generator_8h.html" title="OgreHlmsShaderGenerator.h" alt="" coords="1265,453,1456,480"/>
+<area shape="rect" id="node9" href="$_ogre_hlms_shader_template_8h.html" title="OgreHlmsShaderTemplate.h" alt="" coords="945,379,1131,405"/>
+<area shape="rect" id="node10" href="$_ogre_hlms_manager_8h.html" title="OgreHlmsManager.h" alt="" coords="1615,453,1757,480"/>
+<area shape="rect" id="node11" href="$_ogre_hlms_shader_manager_8h.html" title="OgreHlmsShaderManager.h" alt="" coords="1660,379,1843,405"/>
+<area shape="rect" id="node12" href="$_ogre_hlms_shader_common_8h.html" title="OgreHlmsShaderCommon.h" alt="" coords="1398,379,1585,405"/>
+<area shape="rect" id="node13" href="$_ogre_hlms_shader_pieces_manager_8h.html" title="OgreHlmsShaderPiecesManager.h" alt="" coords="1867,379,2089,405"/>
+<area shape="rect" id="node15" href="$_ogre_instance_batch_8h.html" title="OgreInstanceBatch.h" alt="" coords="539,229,684,256"/>
+<area shape="rect" id="node19" href="$_ogre_patch_mesh_8h.html" title="OgrePatchMesh.h" alt="" coords="708,229,835,256"/>
+<area shape="rect" id="node20" href="$_ogre_static_geometry_8h.html" title="OgreStaticGeometry.h" alt="" coords="859,229,1011,256"/>
+<area shape="rect" id="node21" href="$_ogre_lod_strategy_8h.html" title="OgreLodStrategy.h" alt="" coords="245,229,375,256"/>
+<area shape="rect" id="node24" href="$_ogre_instanced_geometry_8h.html" title="OgreInstancedGeometry.h" alt="" coords="1036,229,1211,256"/>
+<area shape="rect" id="node16" href="$_ogre_instance_batch_h_w_8h.html" title="OgreInstanceBatchHW.h" alt="" coords="431,304,599,331"/>
+<area shape="rect" id="node17" href="$_ogre_instance_batch_v_t_f_8h.html" title="OgreInstanceBatchVTF.h" alt="" coords="623,304,794,331"/>
+<area shape="rect" id="node18" href="$_ogre_instance_batch_shader_8h.html" title="OgreInstanceBatchShader.h" alt="" coords="818,304,1005,331"/>
+<area shape="rect" id="node22" href="$_ogre_distance_lod_strategy_8h.html" title="OgreDistanceLodStrategy.h" alt="" coords="5,304,188,331"/>
+<area shape="rect" id="node23" href="$_ogre_pixel_count_lod_strategy_8h.html" title="OgrePixelCountLodStrategy.h" alt="" coords="213,304,407,331"/>
+<area shape="rect" id="node26" href="$_ogre_skeleton_instance_8h.html" title="OgreSkeletonInstance.h" alt="" coords="1387,229,1550,256"/>
+</map>

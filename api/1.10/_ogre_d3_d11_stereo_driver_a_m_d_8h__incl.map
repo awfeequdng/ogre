@@ -1,0 +1,17 @@
+<map id="OgreD3D11StereoDriverAMD.h" name="OgreD3D11StereoDriverAMD.h">
+<area shape="rect" id="node2" href="$_ogre_d3_d11_prerequisites_8h.html" title="OgreD3D11Prerequisites.h" alt="" coords="2349,304,2528,331"/>
+<area shape="rect" id="node43" href="$_ogre_d3_d11_stereo_driver_impl_8h.html" title="OgreD3D11StereoDriverImpl.h" alt="" coords="2533,80,2733,107"/>
+<area shape="rect" id="node3" href="$_ogre_prerequisites_8h.html" title="OgrePrerequisites.h" alt="" coords="2277,453,2414,480"/>
+<area shape="rect" id="node37" href="$_ogre_min_g_w_support_8h.html" title="WIN32/OgreMinGWSupport.h" alt="" coords="2559,379,2753,405"/>
+<area shape="rect" id="node38" href="$_ogre_com_ptr_8h.html" title="WIN32/OgreComPtr.h" alt="" coords="2383,379,2534,405"/>
+<area shape="rect" id="node4" href="$_ogre_platform_8h.html" title="OgrePlatform.h" alt="" coords="2387,528,2498,555"/>
+<area shape="rect" id="node7" href="$_ogre_std_headers_8h.html" title="OgreStdHeaders.h" alt="" coords="1089,528,1220,555"/>
+<area shape="rect" id="node34" href="$_ogre_memory_allocator_config_8h.html" title="This file configures Ogre&#39;s memory allocators. " alt="" coords="2571,528,2768,555"/>
+<area shape="rect" id="node5" href="$_ogre_config_8h.html" title="OgreConfig.h" alt="" coords="2397,603,2496,629"/>
+<area shape="rect" id="node35" href="$_ogre_header_prefix_8h.html" title="OgreHeaderPrefix.h" alt="" coords="2775,603,2913,629"/>
+<area shape="rect" id="node36" href="$_ogre_header_suffix_8h.html" title="OgreHeaderSuffix.h" alt="" coords="2610,603,2747,629"/>
+<area shape="rect" id="node44" href="$_ogre_common_8h.html" title="OgreCommon.h" alt="" coords="2792,528,2907,555"/>
+<area shape="rect" id="node45" href="$_ogre_d3_d11_render_window_8h.html" title="OgreD3D11RenderWindow.h" alt="" coords="2402,155,2593,181"/>
+<area shape="rect" id="node46" href="$_ogre_d3_d11_device_resource_8h.html" title="OgreD3D11DeviceResource.h" alt="" coords="2330,229,2529,256"/>
+<area shape="rect" id="node47" href="$_ogre_render_window_8h.html" title="OgreRenderWindow.h" alt="" coords="1961,304,2111,331"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Ogre::EGLWindow" name="Ogre::EGLWindow">
+<area shape="rect" id="node5" href="$class_ogre_1_1_android_e_g_l_window.html" title="Ogre::AndroidEGLWindow" alt="" coords="739,5,914,32"/>
+<area shape="rect" id="node6" href="$class_ogre_1_1_emscripten_e_g_l_window.html" title="Ogre::EmscriptenEGLWindow" alt="" coords="728,56,925,83"/>
+<area shape="rect" id="node7" href="$class_ogre_1_1_win32_e_g_l_window.html" title="Ogre::Win32EGLWindow" alt="" coords="743,107,911,133"/>
+<area shape="rect" id="node8" href="$class_ogre_1_1_x11_e_g_l_window.html" title="Ogre::X11EGLWindow" alt="" coords="749,157,904,184"/>
+<area shape="rect" id="node2" href="$class_ogre_1_1_render_window.html" title="Manages the target rendering window. " alt="" coords="355,107,501,133"/>
+<area shape="rect" id="node3" href="$class_ogre_1_1_render_target.html" title="A &#39;canvas&#39; which can receive the results of a rendering operation. " alt="" coords="169,107,307,133"/>
+<area shape="rect" id="node4" href="$class_ogre_1_1_allocated_object.html" title="Superclass for all objects that wish to use custom memory allocators when their new / delete operator..." alt="" coords="5,107,121,133"/>
+</map>

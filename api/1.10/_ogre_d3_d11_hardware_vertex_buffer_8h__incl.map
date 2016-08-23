@@ -1,0 +1,18 @@
+<map id="OgreD3D11HardwareVertexBuffer.h" name="OgreD3D11HardwareVertexBuffer.h">
+<area shape="rect" id="node2" href="$_ogre_d3_d11_prerequisites_8h.html" title="OgreD3D11Prerequisites.h" alt="" coords="2159,229,2338,256"/>
+<area shape="rect" id="node45" href="$_ogre_hardware_vertex_buffer_8h.html" title="OgreHardwareVertexBuffer.h" alt="" coords="2699,80,2889,107"/>
+<area shape="rect" id="node3" href="$_ogre_prerequisites_8h.html" title="OgrePrerequisites.h" alt="" coords="2531,379,2668,405"/>
+<area shape="rect" id="node39" href="$_ogre_min_g_w_support_8h.html" title="WIN32/OgreMinGWSupport.h" alt="" coords="2151,304,2346,331"/>
+<area shape="rect" id="node40" href="$_ogre_com_ptr_8h.html" title="WIN32/OgreComPtr.h" alt="" coords="1843,304,1993,331"/>
+<area shape="rect" id="node4" href="$_ogre_platform_8h.html" title="OgrePlatform.h" alt="" coords="2553,453,2664,480"/>
+<area shape="rect" id="node7" href="$_ogre_std_headers_8h.html" title="OgreStdHeaders.h" alt="" coords="1534,453,1665,480"/>
+<area shape="rect" id="node36" href="$_ogre_memory_allocator_config_8h.html" title="This file configures Ogre&#39;s memory allocators. " alt="" coords="2721,453,2918,480"/>
+<area shape="rect" id="node5" href="$_ogre_config_8h.html" title="OgreConfig.h" alt="" coords="2763,528,2862,555"/>
+<area shape="rect" id="node37" href="$_ogre_header_prefix_8h.html" title="OgreHeaderPrefix.h" alt="" coords="2887,528,3024,555"/>
+<area shape="rect" id="node38" href="$_ogre_header_suffix_8h.html" title="OgreHeaderSuffix.h" alt="" coords="3048,528,3185,555"/>
+<area shape="rect" id="node46" href="$_ogre_hardware_buffer_8h.html" title="OgreHardwareBuffer.h" alt="" coords="2842,229,2994,256"/>
+<area shape="rect" id="node48" href="$_ogre_shared_ptr_8h.html" title="OgreSharedPtr.h" alt="" coords="2735,155,2853,181"/>
+<area shape="rect" id="node50" href="$_ogre_colour_value_8h.html" title="OgreColourValue.h" alt="" coords="2579,155,2711,181"/>
+<area shape="rect" id="node47" href="$_ogre_exception_8h.html" title="OgreException.h" alt="" coords="2859,304,2977,331"/>
+<area shape="rect" id="node49" href="$_ogre_atomic_scalar_8h.html" title="OgreAtomicScalar.h" alt="" coords="2679,229,2818,256"/>
+</map>

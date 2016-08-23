@@ -1,0 +1,18 @@
+<map id="OgreD3D9StereoDriverBridge.h" name="OgreD3D9StereoDriverBridge.h">
+<area shape="rect" id="node2" href="$_ogre_d3_d9_prerequisites_8h.html" title="OgreD3D9Prerequisites.h" alt="" coords="953,80,1124,107"/>
+<area shape="rect" id="node48" href="$_ogre_common_8h.html" title="OgreCommon.h" alt="" coords="5,304,120,331"/>
+<area shape="rect" id="node49" href="$_ogre_singleton_8h.html" title="OgreSingleton.h" alt="" coords="783,80,897,107"/>
+<area shape="rect" id="node3" href="$_ogre_prerequisites_8h.html" title="OgrePrerequisites.h" alt="" coords="771,155,909,181"/>
+<area shape="rect" id="node43" href="$_ogre_thread_headers_8h.html" title="Threading/OgreThreadHeaders.h" alt="" coords="933,155,1144,181"/>
+<area shape="rect" id="node4" href="$_ogre_platform_8h.html" title="OgrePlatform.h" alt="" coords="851,229,962,256"/>
+<area shape="rect" id="node7" href="$_ogre_std_headers_8h.html" title="OgreStdHeaders.h" alt="" coords="2600,229,2731,256"/>
+<area shape="rect" id="node37" href="$_ogre_memory_allocator_config_8h.html" title="This file configures Ogre&#39;s memory allocators. " alt="" coords="456,229,653,256"/>
+<area shape="rect" id="node5" href="$_ogre_config_8h.html" title="OgreConfig.h" alt="" coords="877,304,976,331"/>
+<area shape="rect" id="node38" href="$_ogre_memory_allocated_object_8h.html" title="OgreMemoryAllocatedObject.h" alt="" coords="653,304,853,331"/>
+<area shape="rect" id="node39" href="$_ogre_header_prefix_8h.html" title="OgreHeaderPrefix.h" alt="" coords="439,379,577,405"/>
+<area shape="rect" id="node40" href="$_ogre_header_suffix_8h.html" title="OgreHeaderSuffix.h" alt="" coords="278,379,415,405"/>
+<area shape="rect" id="node41" href="$_ogre_memory_s_t_l_allocator_8h.html" title="OgreMemorySTLAllocator.h" alt="" coords="145,304,327,331"/>
+<area shape="rect" id="node42" href="$_ogre_memory_ned_pooling_8h.html" title="OgreMemoryNedPooling.h" alt="" coords="403,304,578,331"/>
+<area shape="rect" id="node44" href="$_ogre_thread_defines_8h.html" title="OgreThreadDefines.h" alt="" coords="3671,229,3817,256"/>
+<area shape="rect" id="node45" href="$_ogre_thread_defines_none_8h.html" title="OgreThreadDefinesNone.h" alt="" coords="3945,304,4122,331"/>
+</map>

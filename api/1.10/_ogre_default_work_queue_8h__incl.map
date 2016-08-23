@@ -1,0 +1,16 @@
+<map id="OgreDefaultWorkQueue.h" name="OgreDefaultWorkQueue.h">
+<area shape="rect" id="node2" href="$_ogre_default_work_queue_standard_8h.html" title="OgreDefaultWorkQueueStandard.h" alt="" coords="464,80,688,107"/>
+<area shape="rect" id="node3" href="$_ogre_work_queue_8h.html" title="../OgreWorkQueue.h" alt="" coords="505,155,647,181"/>
+<area shape="rect" id="node4" href="$_ogre_prerequisites_8h.html" title="OgrePrerequisites.h" alt="" coords="505,453,642,480"/>
+<area shape="rect" id="node9" href="$_ogre_header_prefix_8h.html" title="OgreHeaderPrefix.h" alt="" coords="278,603,415,629"/>
+<area shape="rect" id="node10" href="$_ogre_header_suffix_8h.html" title="OgreHeaderSuffix.h" alt="" coords="82,603,219,629"/>
+<area shape="rect" id="node11" href="$_ogre_any_8h.html" title="OgreAny.h" alt="" coords="283,304,367,331"/>
+<area shape="rect" id="node14" href="$_ogre_shared_ptr_8h.html" title="OgreSharedPtr.h" alt="" coords="517,229,635,256"/>
+<area shape="rect" id="node16" href="$_ogre_thread_headers_8h.html" title="Threading/OgreThreadHeaders.h" alt="" coords="611,379,821,405"/>
+<area shape="rect" id="node17" href="$_ogre_common_8h.html" title="OgreCommon.h" alt="" coords="93,528,208,555"/>
+<area shape="rect" id="node5" href="$_ogre_platform_8h.html" title="OgrePlatform.h" alt="" coords="606,528,717,555"/>
+<area shape="rect" id="node7" href="$_ogre_std_headers_8h.html" title="OgreStdHeaders.h" alt="" coords="741,528,872,555"/>
+<area shape="rect" id="node8" href="$_ogre_memory_allocator_config_8h.html" title="This file configures Ogre&#39;s memory allocators. " alt="" coords="384,528,581,555"/>
+<area shape="rect" id="node12" href="$_ogre_exception_8h.html" title="OgreException.h" alt="" coords="315,379,434,405"/>
+<area shape="rect" id="node15" href="$_ogre_atomic_scalar_8h.html" title="OgreAtomicScalar.h" alt="" coords="560,304,699,331"/>
+</map>

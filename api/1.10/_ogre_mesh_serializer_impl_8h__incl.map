@@ -1,0 +1,21 @@
+<map id="OgreMeshSerializerImpl.h" name="OgreMeshSerializerImpl.h">
+<area shape="rect" id="node2" href="$_ogre_prerequisites_8h.html" title="OgrePrerequisites.h" alt="" coords="1169,379,1306,405"/>
+<area shape="rect" id="node41" href="$_ogre_serializer_8h.html" title="OgreSerializer.h" alt="" coords="1867,304,1981,331"/>
+<area shape="rect" id="node42" href="$_ogre_edge_list_builder_8h.html" title="OgreEdgeListBuilder.h" alt="" coords="1344,80,1496,107"/>
+<area shape="rect" id="node47" href="$_ogre_key_frame_8h.html" title="OgreKeyFrame.h" alt="" coords="1051,155,1173,181"/>
+<area shape="rect" id="node50" href="$_ogre_vertex_bone_assignment_8h.html" title="OgreVertexBoneAssignment.h" alt="" coords="1543,229,1742,256"/>
+<area shape="rect" id="node3" href="$_ogre_platform_8h.html" title="OgrePlatform.h" alt="" coords="3462,453,3573,480"/>
+<area shape="rect" id="node6" href="$_ogre_std_headers_8h.html" title="OgreStdHeaders.h" alt="" coords="2049,453,2180,480"/>
+<area shape="rect" id="node36" href="$_ogre_memory_allocator_config_8h.html" title="This file configures Ogre&#39;s memory allocators. " alt="" coords="485,453,683,480"/>
+<area shape="rect" id="node4" href="$_ogre_config_8h.html" title="OgreConfig.h" alt="" coords="3876,528,3975,555"/>
+<area shape="rect" id="node37" href="$_ogre_memory_allocated_object_8h.html" title="OgreMemoryAllocatedObject.h" alt="" coords="296,528,496,555"/>
+<area shape="rect" id="node38" href="$_ogre_header_prefix_8h.html" title="OgreHeaderPrefix.h" alt="" coords="825,603,962,629"/>
+<area shape="rect" id="node39" href="$_ogre_header_suffix_8h.html" title="OgreHeaderSuffix.h" alt="" coords="139,603,277,629"/>
+<area shape="rect" id="node40" href="$_ogre_memory_s_t_l_allocator_8h.html" title="OgreMemorySTLAllocator.h" alt="" coords="622,528,805,555"/>
+<area shape="rect" id="node43" href="$_ogre_render_operation_8h.html" title="OgreRenderOperation.h" alt="" coords="1458,304,1617,331"/>
+<area shape="rect" id="node44" href="$_ogre_vector3_8h.html" title="OgreVector3.h" alt="" coords="1225,229,1332,256"/>
+<area shape="rect" id="node46" href="$_ogre_vector4_8h.html" title="OgreVector4.h" alt="" coords="1276,155,1383,181"/>
+<area shape="rect" id="node45" href="$_ogre_quaternion_8h.html" title="OgreQuaternion.h" alt="" coords="1125,304,1249,331"/>
+<area shape="rect" id="node48" href="$_ogre_any_8h.html" title="OgreAny.h" alt="" coords="750,304,834,331"/>
+<area shape="rect" id="node49" href="$_ogre_hardware_vertex_buffer_8h.html" title="OgreHardwareVertexBuffer.h" alt="" coords="858,304,1049,331"/>
+</map>
